@@ -490,6 +490,7 @@
             <a href="">(Lecture Quiz 14)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
+        <td></td><!-- Assignment -->
     <tr>
         <th>Thu 3/13</th> <!-- Date -->
         <td></td><!-- Lecture -->
