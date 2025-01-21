@@ -348,10 +348,10 @@
     </tr>
     <tr>
         <th>Tue 2/25</th> <!-- Date -->
-        <td></td><!-- Lecture -->
+        <td></td> <!-- Lecture -->
         <td><a href="/sp25/lab-directory">Lab 9. Trees & Fractals</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Wed 2/26 </th> <!-- Date -->
@@ -381,7 +381,7 @@
             </td>  <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Quest Retake</td> <!-- Assignment -->
+        <td></td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
@@ -497,14 +497,14 @@
         <td><a href="/sp25/discussion">Disc 8. Midterm Practice</a></td> <!-- Discussion -->
         <td></td><!-- Assignment -->
     </tr>
-        <tr>
+    <tr>
         <th>Fri 3/14</th> <!-- Date -->
         <td>Talk 8. Midterm Preview<br/>
             <a href="">(Recording: Talk 8)</a><br/>      
             <a href="">(Slides: Talk 8)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Midterm 1</td><!-- Assignment -->
+        <td>Midterm 1</td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
@@ -529,27 +529,27 @@
         <td>Lec 15. Programming Paradigms<br/>
             <a href="">(Recording 15)</a><br/>      
             <a href="">(Slides 15)</a><br/>
-            <a href="">(Lecture Quiz 15)</a></td> <!-- Lecture -->
+            <a href="">(Lecture Quiz 15)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project3">Proj 3: 2048 Due</a><br/>
-            <a href="/sp25/projects/project4">Proj 4: Tech in Context Released</a><br/>(Due 3/31)
+        <td><a href="/sp25/projects/project3">Proj 3: 2048 Due</a> <br/><br/>
+            <a href="/sp25/projects/project4">Proj 4: Tech in Context Released</a> <br/> (Due 3/31) 
             </td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 3/18</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td>Catchup Session<br/> (no attendance required)</td> <!-- Lab -->
+        <td>Catchup Session<br/>(no attendance required)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td><!-- Assignment -->
     </tr>
     <tr>
         <th>Wed 3/19</th> <!-- Date -->
         <td>Lec 16. OOP in Snap!<br/>
-            <a href="">(Recording 16)</a><br/>      
-            <a href="">(Slides 16)</a><br/>
+            <a href="">(Recording 16)</a> <br/>      
+            <a href="">(Slides 16)</a> <br/>
             <a href="">(Lecture Quiz 16)</a>
-        </td> <!-- Lecture -->
+            </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
@@ -761,25 +761,24 @@
         <td>Lec 21. Generative AI<br/>
             <a href="">(Recording 21)</a><br/>      
             <a href="">(Slides 21)</a><br/>
-            <a href="">(Lecture Quiz 21)</a></td> <!-- Lecture -->
-        <td><a href="">Catch Up + PostTerm Practice (No New Lab)</a></td> <!-- Lab -->
+            <a href="">(Lecture Quiz 21)</a> </td> <!-- Lecture -->
+        <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 4/15</th> <!-- Date -->
-        <td></td><!-- Lecture -->
+        <td></td> <!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 17: Text Processing in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Wed 4/16</th> <!-- Date -->
         <td>Lec 22. Ethics in AI<br/>
             <a href="">(Recording 22)</a><br/>      
             <a href="">(Slides 22)</a><br/>
-            <a href="">(Lecture Quiz 22)</a>
-            </td> <!-- Lecture -->
+            <a href="">(Lecture Quiz 22)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
@@ -788,15 +787,14 @@
         <th>Thu 4/17</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 20. Data Science</a></td> <!-- Lab -->
-        <td><a href="/sp25/dicussion">Disc 13: Concurrency + Postterm Practice</a></td> <!-- Discussion -->
+        <td><a href="/sp25/dicussion">Disc 13: Concurrency + Postterm Practice</a> </td> <!-- Discussion -->
         <td><a href="/sp25/readings">Reading: Week 13 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Fri 4/18</th> <!-- Date -->
         <td>Talk 13. Postterm Preview<br/>
             <a href="">(Recording: Talk 13)</a><br/>      
-            <a href="">(Slides: Talk 13)</a>
-            </td> <!-- Lecture -->
+            <a href="">(Slides: Talk 13)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Postterm 1</td> <!-- Assignment -->
@@ -824,7 +822,7 @@
         <td>Lec 23. Tree Recursion & Game Theory<br/>
             <a href="">(Recording 25)</a><br/>      
             <a href="">(Slides 25)</a><br/>
-            <a href="">(Lecture Quiz 25)</a></td> <!-- Lecture -->
+            <a href="">(Lecture Quiz 25)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -842,7 +840,7 @@
         <td>Lec 24. OOP in Python<br/>
             <a href="">(Recording 24)</a><br/>      
             <a href="">(Slides 24)</a><br/>
-            <a href="">(Lecture Quiz 24)</a></td> <!-- Lecture -->
+            <a href="">(Lecture Quiz 24)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -852,7 +850,7 @@
         <th>Thu 4/24</th> <!-- Date -->
         <td></td> <!-- Lecture -->
         <td>Postterm Practice<br/>(no attendance required)</td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 14. Postterm Practice</td> <!-- Discussion -->
+        <td><a href="/sp25/discussion">Disc 14. Postterm Practice</a></td> <!-- Discussion -->
         <td><a href="/sp25/readings">Reading: Week 14 Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -860,8 +858,7 @@
         <th>Fri 4/25</th> <!-- Date -->
         <td>Talk 14. Postterm 1 Review<br/>
             (No Recording)<br/>      
-            (No Slides)
-            </td> <!-- Lecture -->
+            (No Slides)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Postterm 2</td> <!-- Assignment -->
@@ -897,7 +894,7 @@
     <tr>
         <th>Tue 4/29</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td>Project 6 Party <br/>(no attendance required)</td><!-- Lab -->
+        <td>Project 6 Party <br/>(no attendance required)</td> <!-- Lab -->
         <td></td><!-- Discussion -->
         <td></td><!-- Assignment -->
     </tr>
