@@ -1,7 +1,6 @@
 ---
 name: Raka Litanto
 role: Tutor
-email: jryl@
 pronouns: he/him
 photo: Raka_Litanto.jpg
 ---
