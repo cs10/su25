@@ -9,14 +9,16 @@ nav_order: 2
 
 If the calendar below appears blank, make sure you're signed in to your Berkeley email!
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_d46870da777fca144487a7047bbc6043a6fb4b290974ec093e5f9199fbaf8331%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=WEEK&
-src=c_46b04536f0e774749c09b60cd3daf72d7f9a4d739c3d31f94f7c469e7855749f%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
-src=c_307130288b53ce7cd9a0509f9934a94b30425e1cdc2f631322ae321ec3bb5746%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
-src=c_c18e63f13fb5c689039099b21c7967867b9e9334daf3cddc39ee00cee5ee25dc%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
-src=c_1a04e3b7efb542000181b380304f7379824f150c4afbb1bd9651d337fcf27a02@group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
-src=c_bc31000727300aa77a87ef7ce71b94ff415232d414a31a273f43b014c16cbac4@group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
-src=c_0a8ff67f8a659569b3929c958906ddbaf28bf7bd30af9e612b0fe795c87e5a13@group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
+<iframe src="https://calendar.google.com/calendar/embed?src=c_d9fae69993c565e157760d98d4c42ce34e263a9ef811b6ee2907e3d528eb0554%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=WEEK&
+src=src=c_0f25a65904407d7794eb449066c00dabf2eacc57cd1aba12cd038e3b333a1a4f%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
+src=c_70c17ff88c8e19ba6f151ea5c5bbd253331e6cbd95b00599ac21e59072f81cc1%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
+src=c_fc2640bbb3f9205e798bc6eaefbff68a4d1090a928ca185b34fb4214184f14e1%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
+src=c_8eb00fa139d536506905e7cb5d02ff9fe8cad0e566ed89ed6a89e2b840a2077c%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
+src=c_3878e48b454692eedaf68e10443149df3ab5a13081c79993f9be76702b8d2863%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
 color=%23D81B60&color=%239E69AF&color=%238E24AA&color=%23F6BF26&color=%23009688&&color=%23FF0000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-To add these calendars to your Google Calendar, use <a href="https://calendar.google.com/calendar/ical/c_307130288b53ce7cd9a0509f9934a94b30425e1cdc2f631322ae321ec3bb5746%40group.calendar.google.com/public/basic.ics&
-c_d46870da777fca144487a7047bbc6043a6fb4b290974ec093e5f9199fbaf8331%40group.calendar.google.com/public/basic.ics&
-c_46b04536f0e774749c09b60cd3daf72d7f9a4d739c3d31f94f7c469e7855749f%40group.calendar.google.com/public/basic.ics">(this link)</a>
+To add these calendars to your Google Calendar, use <a href="https://calendar.google.com/calendar/ical/c_d9fae69993c565e157760d98d4c42ce34e263a9ef811b6ee2907e3d528eb0554%40group.calendar.google.com/public/basic.ics&
+c_0f25a65904407d7794eb449066c00dabf2eacc57cd1aba12cd038e3b333a1a4f%40group.calendar.google.com/public/basic.ics&
+c_8eb00fa139d536506905e7cb5d02ff9fe8cad0e566ed89ed6a89e2b840a2077c%40group.calendar.google.com/public/basic.ics&
+c_70c17ff88c8e19ba6f151ea5c5bbd253331e6cbd95b00599ac21e59072f81cc1%40group.calendar.google.com/public/basic.ics&
+/c_3878e48b454692eedaf68e10443149df3ab5a13081c79993f9be76702b8d2863%40group.calendar.google.com/public/basic.ics&
+c_fc2640bbb3f9205e798bc6eaefbff68a4d1090a928ca185b34fb4214184f14e1%40group.calendar.google.com/public/basic.ics">(this link)</a>
