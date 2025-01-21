@@ -44,3 +44,10 @@ See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for instructions on how to develo
 ## License
 
 [MIT](LICENSE)
+
+
+## Known Issues / Specific Settings
+
+### Github Workflow
+
+Right now, the "runs-on" in the jekyll.yml file needs to be set to a specific ubuntu release (ubuntu-22.04) and not ubuntu-latest.

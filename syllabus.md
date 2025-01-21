@@ -64,17 +64,19 @@ Lectures aim to introduce concepts and provide a "big-picture view" of material 
 
 <b>Attendance is required, and credit for attending will be through the iClicker app. </b> If you cannot attend lecture, you will need to complete the corresponding "Lecture Quiz" on Gradescope for attendance credit. The corresponding lecture quiz will be due on Gradescope the day of the **following lecture** at 2359hrs. On this quiz, we will ask questions about lecture content. You may fill out our general extension form (linked below) to receive an automatic extension for lecture quizzes.
 
-Your lowest 3 lecture-quiz scores will be automatically dropped — so you can miss up to 3 lectures (or skip 3 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
+Your lowest 5 lecture-quiz scores will be automatically dropped — so you can miss up to 5 lectures (or skip 5 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 5 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
+
+Only Monday and Wednesday lectures have required attendance. Friday lectures will be optional and will have no lecture quiz. Some Friday lecture will be review where we prep for exams or go over the answers to an exam. The exam review Friday lectures will not be recorded and will not have any slides.
 
 ### Lab Sections
 
 Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section. Labs will be located in Soda Hall, Room 438.
 
-Lab assignments will be submitted to Gradescope. There will be two assignments for each lab: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections, TAs and Tutors will be available to help you with the problems.
+Lab assignments will be submitted to Gradescope. There will be two assignments for each lab (unless specified): one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections, TAs and Tutors will be available to help you with the problems.
 
-Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Thursday, then Lab-12 will be due at midnight on Thursday. There will be 18 (unconfirmed) graded labs (there's no submission or credit for lab-1), and your lowest 2 lab scores will be dropped.
+Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Thursday, then Lab-12 will be due at midnight on Thursday. There will be 19 graded labs (there's no submission or credit for lab-1 and this includes the two practice exams you must complete), and your lowest 2 lab scores will be dropped.
 
-<b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 3 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 3 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment. Lab attendance will be tracked through iClicker. 
+<b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 5 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 5 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment. Lab attendance will be tracked through iClicker. 
 
 If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot reguarly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Tuesday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Tuesday at 3PM (the time before the lab section).
 
@@ -87,7 +89,7 @@ Discussion attendance is mandatory. If you attend, then we will check you off in
 
 The discussion worksheets are located on the website, and you will submit them to Gradescope. You can submit the worksheet in any format, i.e. handwritten, electronically written, typed, etc. Discussion worksheets are due the day of the next discussion section at 11:59 PM. So, if Discussion X is due when Discussion X + 1 is released.
 
-Your two lowest discussion worksheet scores / misses will be dropped. This means you can not submit two worksheets and still get full credit in your discussion grade. Please reserve these drops for unexpected emergencies / sickness / etc. You do not need to contact us if you miss or do not attend discussion. If you need an extension, please see the extension request section. 
+Your 3 lowest discussion worksheet scores / misses will be dropped. This means you can not submit two worksheets and still get full credit in your discussion grade. Please reserve these drops for unexpected emergencies / sickness / etc. You do not need to contact us if you miss or do not attend discussion. If you need an extension, please see the extension request section. 
 
 From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
 
@@ -207,17 +209,17 @@ If your percentage score on a latter exam is higher than your percentage score o
 
 | Letter Grade       |    Range                          |
 | :----:             |    :----:                         |
-| A+                 |    485-500                        |
-| A                  |    460-484                        |
-| A-                 |    450-459                        |
-| B+                 |    440-449                        |
-| B                  |    420-439                        |
-| B-                 |    400-419                        |
-| C+                 |    375-399                        |
-| C                  |    360-374                        |
-| C-                 |    350-359                        |
-| D                  |    300-349                        |
-| F                  |    0-299                          |
+| A+                 |    388-400                        |
+| A                  |    368-387                        |
+| A-                 |    360-367                        |
+| B+                 |    352-359                        |
+| B                  |    336-351                        |
+| B-                 |    320-335                        |
+| C+                 |    300-319                        |
+| C                  |    288-299                        |
+| C-                 |    280-287                        |
+| D                  |    240-279                        |
+| F                  |    0-239                          |
 
 Your total points will be rounded to the nearest integer when we compute letter grades. 0.5 will round to 1, but 0.49 will round to 0. We will not shift the bins / curve the class / ooch or round your grade beyond the listed rounding scheme, so please don't ask.
 
@@ -239,6 +241,12 @@ We understand that circumstances may arise that may cause you to not be able to 
 
 - An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. For instance, if you ask for an extension on lab-12, which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled. So, if you are getting an exttension on Lab X, then the new deadline for Lab X is when Lab X + 2 is released at 11:59PM. However, if you are trying to obtain lab attendance credit, then it is due by 5PM when Lab X + 2 is released.
 
+- There are three exceptions:
+    - The last lab will only be given a 72-hour extension.
+    - Practice Midterm will only be given a 48-hour extension (for both the coding and non-coding)
+    - Practice Postterm will only be given a 48-hour extension (for both the coding and non-coding)
+
+
 ### Project Extensions
 
 The policy for project extension requests on projects are as follows:
@@ -252,7 +260,7 @@ The policy for project extension requests on projects are as follows:
 
 ### Discussion Worksheet Extensions
 
-- An extension request will automatically extend your discussion worksheetsubmission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on 9/5, it is now due on 9/12. 
+- An extension request will automatically extend your discussion worksheetsubmission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on 1/30, it is now due on 2/06. 
 
 
 ## Lateness Penalties

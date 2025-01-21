@@ -1,7 +1,6 @@
 ---
 name: Harry Qian
 role: Tutor
-email: harry.qian26@
 pronouns: he/him
 photo: harry.jpg
 ---

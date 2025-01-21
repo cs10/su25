@@ -1,7 +1,7 @@
 ---
 name: Marius Castro
 role: Tutor
-email: mariuscastro@ 
+
 pronouns: he/him
 photo: marius_castro.jpeg
 ---

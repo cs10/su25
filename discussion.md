@@ -9,6 +9,13 @@ nav_order: 7
 # Discussion
 
 This page will be updated with discussion Worksheets and Solutions throughout the semester. Recordings will be released periodically.
+
+> Discussion worksheets only need to be turned in if you did not attend discussion in-person or if your iClicker attendance was not logged. In this case, the worksheets are due before the next discussion. All due dates can be found in Gradescope under the assignment. 
+
+> Discussion worksheet handouts will be provided. Any extras will be left in Soda 411 if you need an additional copy.
+
+> Please attend Victoria's Office Hours for any discussion related questions!
+
 <style>
   table {
     width: 100%;
@@ -32,107 +39,101 @@ This page will be updated with discussion Worksheets and Solutions throughout th
   </thead>
   <tbody>
     <tr>
-      <td>Discussion 1</td>
-      <td>Welcome to Snap<em>!</em></td>
-      <td><a href="https://drive.google.com/file/d/1kVcfONoJPqA5Iqv8cbxsu6_quSanSOxh/view?usp=drive_link"> Worksheet 1</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 1</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing"> Recording 1</a></td>
+      <td>Week 1 Discussion</td>
+      <td>Welcome to CS10!</td>
+      <td><a href=""> Worksheet 1</a></td>
+      <td><a href="">Solutions 1</a></td>
+      <td><a href=""> Recording 1</a></td>
     </tr> 
     <tr>
-      <td>Discussion 2</td>
-      <td>Number Rep + Control Structures</td>
-      <td><a href="https://docs.google.com/document/d/1j_GBxd3LCkBpO9ydLBgU1xHmx8d-dCct/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet 2</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 2</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 2</a></td>
+      <td>Week 2 Discussion</td>
+      <td>Numeral Representation + Control Structures</td>
+      <td><a href=""> Worksheet 2</a></td>
+      <td><a href="">Solutions 2</a></td>
+      <td><a href="">Recording 2</a></td>
     </tr>
      <tr>
-      <td>Discussion 3</td>
-      <td>Domain/Range, Scoping, Lists & HOFs</td>
-      <td><a href="https://drive.google.com/file/d/1oeNbxrKtcNI2szAOZWEO-LfoWCGaRCyH/view?usp=sharing">Worksheet 3</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 3</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 3</a></td>
+      <td>Weekk 3 Discussion</td>
+      <td>Domain/Range, Scoping, Iteration, Lists</td>
+      <td><a href="">Worksheet 3</a></td>
+      <td><a href="">Solutions 3</a></td>
+      <td><a href="">Recording 3</a></td>
     </tr>
     <tr>
-      <td>Discussion 4</td>
-      <td>HOFs + Quest Review</td>
-      <td><a href="https://docs.google.com/document/d/1BppWjxXgXmr-CgCrqT1xrXBUITbZtAYD/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 4</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 4</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 4</a></td>
+      <td>Week 4 Discussion</td>
+      <td>HOFs + Algorithmic Complexity</td>
+      <td><a href="">Worksheet 4</a></td>
+      <td><a href="">Solutions 4</a></td>
+      <td><a href="">Recording 4</a></td>
     </tr>
     <tr>
-      <td>Discussion 5</td>
-      <td>Algorithms</td>
-      <td><a href="https://docs.google.com/document/d/1hPJkV1ZR-NF4ydqPYAy5y_VSLdr2alJQ/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 5</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 5</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 5</a></td>
+      <td>Week 5 Discussion</td>
+      <td>Nested Lists + Recursion</td>
+      <td><a href="">Worksheet 5</a></td>
+      <td><a href="">Solutions 5</a></td>
+      <td><a href="">Recording 5</a></td>
     </tr>
     <tr>
-      <td>Discussion 6</td>
-      <td>Recursion I</td>
-      <td><a href="https://docs.google.com/document/d/1vJmLNpMSUxD05ibt1vWhZ8xl677ytRwl/edit#heading=h.a896o5zg6s8y">Worksheet 6</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 6</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 6</a></td>
+      <td>Week 6 Discussion</td>
+      <td>More Recursion!</td>
+      <td><a href="">Worksheet 6</a></td>
+      <td><a href="">Solutions 6</a></td>
+      <td><a href="">Recording 6</a></td>
     </tr>
     <tr>
-      <td>Discussion 7</td>
-      <td>Recursion II</td>
-      <td><a href="https://docs.google.com/document/d/1XD8Eu8zQJhMK3_88GG5iMQbNH5BbiCIa/edit?usp=sharing&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 7</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 7</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 7</a></td>
+      <td>Week 7 Discussion</td>
+      <td>HOFs, Lambdas, Debugging</td>
+      <td><a href="">Worksheet 7</a></td>
+      <td><a href="">Solutions 7</a></td>
+      <td><a href="">Recording 7</a></td>
     </tr>
     <tr>
-      <td>Discussion 8</td>
-      <td>Proj 4 Presentations</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Week 8 Discussion </td>
+      <td>Midterm Practice</td>
+      <td><a href="">Worksheet 8</a></td>
+      <td><a href="">Solutions 8</a></td>
+      <td><a href="">Recording 8</a></td>
     </tr>
      <tr>
-      <td>Discussion 9</td>
-      <td>Intro to Python</td>
-      <td><a href="https://docs.google.com/document/d/1q1ciouhxmDMQSVBFwLOn0Cu1BoKevkIo/edit?usp=drivesdk&ouid=102828999467017092876&rtpof=true&sd=true">Worksheet 9</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 9</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 9</a></td>
+      <td>Week 9 Discussion</td>
+      <td>OOP, Clones, Events</td>
+      <td><a href="">Worksheet 9</a></td>
+      <td><a href="">Solutions 9</a></td>
+      <td><a href="">Recording 9</a></td>
     </tr>
     <tr>
-    <td>Discussion 10</td>
-      <td>List Comprehension + Dictionaries</td>
-      <td><a href="https://docs.google.com/document/d/1yzUtLeWlfbio09u58fZwxRV9q2S7El_1qMBNcpsSyWU/edit?usp=drivesdk">Worksheet 10</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 10</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 10</a></td>
+    <td>Week 11 Discussion</td>
+      <td>Data Structures in Python</td>
+      <td><a href="">Worksheet 11</a></td>
+      <td><a href="">Solutions 11</a></td>
+      <td><a href="">Recording 11</a></td>
     </tr>
     <tr>
-    <td>Discussion 11</td>
-      <td>OOP</td>
-     <td><a href="https://docs.google.com/document/d/1vURSI_IbbPjKGZTIWorHkRSWI23qzFAFhy6oNVCwnYg/edit?tab=t.0">Worksheet 11</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 11</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 11</a></td>
-    </tr>
-    <tr>
-    <td>Discussion 12</td>
-      <td>Concurrency + Python HOFs</td>
-      <td><a href="https://docs.google.com/document/d/1QKK96mjAWHyJhiB2T5IHlCnl-0kZDeZHO0HXHwcDbYA/edit?usp=drivesdk">Worksheet 12</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 12</a></td>
+    <td>Week 12 Discussion</td>
+      <td>Concurrency + Postterm Practice</td>
+     <td><a href="">Worksheet 12</a></td>
+      <td><a href="">Solutions 12</a></td>
       <td><a href="">Recording 12</a></td>
     </tr>
     <tr>
-    <td>Discussion 13</td>
-      <td>Review</td>
-      <td><a href="https://us.prairielearn.com/pl/course_instance/164327/instructor/assessment/2452833/">Worksheet 13</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 13</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 13</a></td>
+    <td>Week 13 Discussion</td>
+      <td>Concurrency + Python HOFs</td>
+      <td><a href="">Worksheet 13</a></td>
+      <td><a href="">Solutions 13</a></td>
+      <td><a href="">Recording 13</a></td>
     </tr>
-    <td>Discussion 14</td>
-      <td>Review</td>
-      <td><a href="https://us.prairielearn.com/pl/course_instance/164327/instructor/assessment/2452833/">Worksheet 14</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Solutions 14</a></td>
-      <td><a href="https://drive.google.com/drive/folders/12flQgNwjS7u-BZ_peLI2AUmih2emyeqr?usp=sharing">Recording 14</a></td>
+    <tr>
+    <td>Week Discussion 14</td>
+      <td>Postterm Practice (Tentative)</td>
+      <td><a href="">Worksheet 14</a></td>
+      <td><a href="">Solutions 14</a></td>
+      <td><a href="">Recording 14</a></td>
     </tr>
-    <td>Discussion 15</td>
-      <td>Review</td>
-      <td><a href="https://drive.google.com/drive/folders/1X-wF957gUJY89-A-xn92gwX67ZT_CacW?usp=sharing">Worksheet 15</a></td>
-      <td><a href="https://docs.google.com/presentation/d/1YM1oJPdPFjRczhw0CQJUhpwCtBlpgVLSxRvv7t35A8s/edit?usp=sharing">Solutions 15</a></td>
-      <td><a href="">N/A</a></td>
+    <td>Week Discussion 15</td>
+      <td>Conceptual Review + Ask Me Anything</td>
+      <td><a href="">Worksheet 15</a></td>
+      <td><a href="">Solutions 15</a></td>
+      <td><a href="">Recording 15</a></td>
     </tr>
   </tbody>
 </table>

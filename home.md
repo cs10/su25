@@ -17,10 +17,10 @@ UC Berkeley, Spring 2025
 {{ site.description }}
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a><br/>
-**Instructor's OH:** Friday 1-2PM @ Soda-777<br/>
+**Instructor's OH:** Wednesday 3-4PM @ Soda-777<br/>
 **Lectures:**  Monday, Wednesday, Friday 1-2 PM @ Anthropology and Art Practice Building, Room 160 <br/>
-**Labs:**  Tuesday, Thursday 3-5 @ Soda Hall, Room 438 (The Woz)<br/>
-**Discussion:**  Thurs 6-8 PM @ Evans Hall, Room 60<br/>
+**Labs:**  Tuesday, Thursday 3-5 @ Soda Hall, Room 430-438 (The Woz)<br/>
+**Discussion:**  Thurs 6-7 PM @ Evans Hall, Room 60<br/>
 **OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
 
 <br/>

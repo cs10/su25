@@ -1,7 +1,6 @@
 ---
 name: Dream Lopez
 role: Tutor
-email: dreamlopez@
 pronouns: she/her
 website: www.linkedin.com/in/dream-lopez
 photo: Dream_Lopez.jpg

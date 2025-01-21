@@ -1,7 +1,7 @@
 ---
 name: Aanvi Kothari
 role: Tutor
-email: aanvi.kothari@
+
 pronouns: she/her
 photo: Aanvi_Kothari.jpg
 ---
