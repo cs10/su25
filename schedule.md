@@ -44,10 +44,10 @@
     <tr>
         <th>Wed 1/22</th> <!-- Date -->
         <td>Lec 1. Logistics + Abstraction<br/>
-        <a href="">(Recording 2)</a><br/>      
-        <a href="">(Slides 2)</a><br/>
-        <a href="">(Lecture Quiz 2)</a>
-        </td> <!-- Lecture -->
+            <a href="">(Recording 2)</a><br/>      
+            <a href="">(Slides 2)</a><br/>
+            <a href="">(Lecture Quiz 2)</a>
+            </td> <!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">Lab 1. Welcome to Snap!</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
@@ -61,10 +61,10 @@
     </tr>
     <tr>
         <th>Fri 1/24</th> <!-- Date -->
-        <td>Ask Me Anything<br/>
-        <a href="">(Recording 3)</a><br/>      
-        <a href="">(Slides 3)</a><br/>
-        </td> <!-- Lecture -->
+            <td>Talk 1: Ask Me Anything<br/>
+            <a href="">(Recording: Talk 1)</a><br/>      
+            <a href="">(Slides: Talk 1)</a>
+            </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -90,11 +90,11 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
         <th>Mon 1/27</th> <!-- Date -->
-        <td>Lec 2. Functions + Conditional Logic</td>
+        <td>Lec 2. Functions + Conditional Logic
             <a href="">(Recording 2)</a><br/>      
             <a href="">(Slides 2)</a><br/>
             <a href="">(Lecture Quiz 2)</a>
-        </td> <!-- Lecture -->
+            </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="/sp25/projects/project1">Proj 1: Worldle Released</a><br/><b>Due (2/05)</b></td> <!-- Assignment --> 
@@ -129,7 +129,7 @@
         <td>Talk 2: Predicates, Truth Tables, Conversions<br/>
             <a href="">(Recording: Talk 2)</a><br/>      
             <a href="">(Slides: Talk 2)</a><br/>
-        </td> <!-- Lecture -->
+            </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
