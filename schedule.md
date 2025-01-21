@@ -61,7 +61,7 @@
     </tr>
     <tr>
         <th>Fri 1/24</th> <!-- Date -->
-            <td>Talk 1: Ask Me Anything<br/>
+        <td>Talk 1: Ask Me Anything<br/>
             <a href="">(Recording: Talk 1)</a><br/>      
             <a href="">(Slides: Talk 1)</a>
             </td> <!-- Lecture -->
@@ -90,7 +90,7 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
         <th>Mon 1/27</th> <!-- Date -->
-        <td>Lec 2. Functions + Conditional Logic</td>
+        <td>Lec 2. Functions + Conditional Logic
             <a href="">(Recording 2)</a><br/>      
             <a href="">(Slides 2)</a><br/>
             <a href="">(Lecture Quiz 2)</a>
