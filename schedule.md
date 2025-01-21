@@ -39,7 +39,7 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="">Presemester Survey Released</a><br/><b>Due (1/31)</b></td> <!-- Assignment -->
+        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeT5JP6feL0HwsvTsGf4aE__fzidar-42y3dt1bTCHX9hQKbQ/viewform?usp=sharing">Presemester Survey Released</a><br/><b>Due (1/31)</b></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Wed 1/22</th> <!-- Date -->
@@ -90,7 +90,7 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
         <th>Mon 1/27</th> <!-- Date -->
-        <td>Lec 2. Functions + Conditional Logic
+        <td>Lec 2. Functions + Conditional Logic</td>
             <a href="">(Recording 2)</a><br/>      
             <a href="">(Slides 2)</a><br/>
             <a href="">(Lecture Quiz 2)</a>
@@ -377,7 +377,8 @@
         <td>Talk 6. Recursion I<br/>
             <a href="">(Recording: Talk 6)</a><br/>      
             <a href="">(Slides: Talk 6)</a><br/>
-            <a href="">(Code: Talk 6)</a> </td>  <!-- Lecture -->
+            <a href="">(Code: Talk 6)</a>
+            </td>  <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Quest Retake</td> <!-- Assignment -->
@@ -406,10 +407,11 @@
         <td>Lec 11. Testing, Debugging, 2048<br/>
             <a href="">(Recording 11)</a><br/>      
             <a href="">(Slides 11)</a><br/>
-            <a href="">(Lecture Quiz 11)</a></td> <!-- Lecture -->
+            <a href="">(Lecture Quiz 11)</a>
+            </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project3">Proj 3: 2048 Released <br/>(Due 3/17)</td> <!-- Assignment -->
+        <td><a href="/sp25/projects/project3">Proj 3: 2048 Released</a><br/>(Due 3/17)</td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 3/04</th> <!-- Date -->
@@ -696,7 +698,7 @@
             <a href="">(Lecture Quiz 19)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project6-proposals">Proj 6: Final Project Proposals Due</td><!-- Assignment -->
+        <td><a href="/sp25/projects/project6-proposals">Proj 6: Final Project Proposals Due</a></td><!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 4/8</th> <!-- Date -->
