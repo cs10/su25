@@ -10,7 +10,7 @@ nav_order: 2
 If the calendar below appears blank, make sure you're signed in to your Berkeley email!
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_d9fae69993c565e157760d98d4c42ce34e263a9ef811b6ee2907e3d528eb0554%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=WEEK&
-src=src=c_0f25a65904407d7794eb449066c00dabf2eacc57cd1aba12cd038e3b333a1a4f%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
+src=c_0f25a65904407d7794eb449066c00dabf2eacc57cd1aba12cd038e3b333a1a4f%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
 src=c_70c17ff88c8e19ba6f151ea5c5bbd253331e6cbd95b00599ac21e59072f81cc1%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
 src=c_fc2640bbb3f9205e798bc6eaefbff68a4d1090a928ca185b34fb4214184f14e1%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
 src=c_8eb00fa139d536506905e7cb5d02ff9fe8cad0e566ed89ed6a89e2b840a2077c%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode&
