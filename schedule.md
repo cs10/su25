@@ -223,7 +223,7 @@
             <a href="">(Lecture Quiz 6)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project2">Proj 2: Spelling Bee Released</a><br/>(Due 2/24)</td> <!-- Assignment -->
+        <td><a href="">Proj 2: Spelling Bee Released</a><br/>(Due 2/24)</td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 2/11</th> <!-- Date -->
@@ -344,7 +344,7 @@
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project2">Proj 2: Spelling Bee Due</a></td> <!-- Assignment -->
+        <td><a href="">Proj 2: Spelling Bee Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 2/25</th> <!-- Date -->
@@ -411,7 +411,7 @@
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project3">Proj 3: 2048 Released</a><br/>(Due 3/17)</td> <!-- Assignment -->
+        <td><a href="">Proj 3: 2048 Released</a><br/>(Due 3/17)</td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 3/04</th> <!-- Date -->
@@ -533,8 +533,8 @@
             <a href="">(Lecture Quiz 15)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project3">Proj 3: 2048 Due</a> <br/><br/>
-            <a href="/sp25/projects/project4">Proj 4: Tech in Context Released</a> <br/> (Due 3/31) 
+        <td><a href="">Proj 3: 2048 Due</a> <br/><br/>
+            <a href="">Proj 4: Tech in Context Released</a> <br/> (Due 3/31) 
             </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -636,7 +636,7 @@
             <a href="">(Lecture Quiz 17)</a></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project4">Proj 4: Tech in Context Due</a></td> <!-- Assignment -->
+        <td><a href="">Proj 4: Tech in Context Due</a></td> <!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 4/01</th> <!-- Date -->
@@ -654,7 +654,7 @@
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project6-proposals">Proj 6: Final Project Proposals Released</a> <br/> (Due 4/7) </td> <!-- Assignments -->
+        <td><a href="">Proj 6: Final Project Proposals Released</a> <br/> (Due 4/7) </td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 4/03</th> <!-- Date -->
@@ -699,7 +699,7 @@
             <a href="">(Lecture Quiz 19)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project6-proposals">Proj 6: Final Project Proposals Due</a></td><!-- Assignment -->
+        <td><a href="">Proj 6: Final Project Proposals Due</a></td><!-- Assignment -->
     </tr>
     <tr>
         <th>Tue 4/8</th> <!-- Date -->
