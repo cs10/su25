@@ -14,30 +14,31 @@ Lab Slides: [Folder]() or can be accessed using [https://tinyurl.com/cs10-labs](
 
 > The workbook, which differs from the worksheet, is used as a step-by-step guide to complete each lab. Lab worksheets will be released at 5:00 PM on the lab day. 
 
-| Labs                                          |  Submission Deadline  |
-| :----:                                        |  :----:               |
-| [Lab 1: Welcome to Snap!]()                   | TUE 1/28 (Nothing to submit)             |
-| [Lab 2: Build Your Own Block]()               | THU 1/30              |
-| [Lab 3: Conditionals, Reporters, Testing]()   | TUE 2/04              |
-| [Lab 4. Iteration]()                          | THU 2/06              |
-| [Lab 5. Lists + HOFs]()                       | TUE 2/11              |
-| [Lab 6. Algorithms]()                         | THU 2/13              |
-| [Lab 7. Algorithmic Complexity]()             | TUE 2/18              |
-| [Lab 8. Boards]()                             | TUE 2/25              |
-| [Lab 9. Trees + Recursion]()                  | THU 2/27              |
-| [Lab 10. Linear Recursion]()                  | TUE 3/04              |
-| [Lab 11. Testing + Proj 3]()                  | THU 3/06              |
-| [Lab 12:  HOFs and Functions as Data]()       | TUE 3/13              |
-| [Practice Midterm: without Snap]()            | THU 3/13              |
-| [Practice Midterm: with Snap (Fractal)]()     | THU 3/13              |
-| [Lab 13: OOP in Snap!]()                      | TUE 4/01              |
-| [Lab 14:  Welcome to Python]()                | THU 4/03              |
-| [Lab 15: Data Structures ]()                  | TUE 4/08              |
-| [Lab 16: Concurrency and Parallelism]()       | THU 4/10              |
-| [Practice Postterm: without Snap!/Python]()   | TUE 4/15              |
-| [Practice Postterm: with Snap!/Python]()      | THU 4/17              |
-| [Lab 17: Text Processing]()                   | THU 4/17              |
-| [Lab 18: Data Science]()                      | TUE 4/22              |
+| Labs                                       | Submission Deadline       |
+| :----:                                     | :----:                     |
+| [Lab 1: Welcome to Snap!](https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=drive_link)                    | TUE 1/28 Nothing to submit |
+| Lab 2: Build Your Own Block                 | THU 1/30                   |
+| Lab 3: Conditionals, Reporters, Testing     | TUE 2/04                   |
+| Lab 4. Iteration                            | THU 2/06                   |
+| Lab 5. Lists + HOFs                         | TUE 2/11                   |
+| Lab 6. Algorithms                           | THU 2/13                   |
+| Lab 7. Algorithmic Complexity               | TUE 2/18                   |
+| Lab 8. Boards                               | TUE 2/25                   |
+| Lab 9. Trees + Recursion                     | THU 2/27                   |
+| Lab 10. Linear Recursion                     | TUE 3/04                   |
+| Lab 11. Testing + Proj 3                     | THU 3/06                   |
+| Lab 12: HOFs and Functions as Data           | TUE 3/13                   |
+| Practice Midterm: without Snap               | THU 3/13                   |
+| Practice Midterm: with Snap Fractal          | THU 3/13                   |
+| Lab 13: OOP in Snap!                          | TUE 4/01                   |
+| Lab 14: Welcome to Python                     | THU 4/03                   |
+| Lab 15: Data Structures                       | TUE 4/08                   |
+| Lab 16: Concurrency and Parallelism           | THU 4/10                   |
+| Practice Postterm: without Snap!/Python       | TUE 4/15                   |
+| Practice Postterm: with Snap!/Python          | THU 4/17                   |
+| Lab 17: Text Processing                       | THU 4/17                   |
+| Lab 18: Data Science                          | TUE 4/22                   |
+
 
 
 
