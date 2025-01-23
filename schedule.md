@@ -48,14 +48,14 @@
             <a href="">(Slides 2)</a><br/>
             <a href="">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
-        <td><a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=drive_link">Lab 1. Welcome to Snap!</a></td> <!-- Lab -->
+        <td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 1/23</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 1. Welcome to Snap!</a></td> <!-- Lab -->
+        <td><a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=drive_link">Lab 1. Welcome to Snap!</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 1. Welcome to CS10!</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
