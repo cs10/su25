@@ -44,11 +44,11 @@
     <tr>
         <th>Wed 1/22</th> <!-- Date -->
         <td>Lec 1. Logistics + Abstraction<br/>
-            <a href="">(Recording 2)</a><br/>      
-            <a href="">(Slides 2)</a><br/>
-            <a href="">(Lecture Quiz 2)</a>
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 1)</a><br/>      
+            <a href="https://drive.google.com/file/d/16K-z1Q2HQsWW5vIi_yNZVxEzeh9l5BC-/view?usp=sharing">(Slides 1)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617833">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->
-        <td><!-- Lab -->
+        <td></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
@@ -62,7 +62,7 @@
     <tr>
         <th>Fri 1/24</th> <!-- Date -->
         <td>Talk 1: Ask Me Anything<br/>
-            <a href="">(Recording: Talk 1)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 1)</a><br/>      
             <a href="">(Slides: Talk 1)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -91,7 +91,7 @@
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
         <th>Mon 1/27</th> <!-- Date -->
         <td>Lec 2. Functions + Conditional Logic
-            <a href="">(Recording 2)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 2)</a><br/>      
             <a href="">(Slides 2)</a><br/>
             <a href="">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
@@ -109,7 +109,7 @@
     <tr>
         <th>Wed 1/29 </th> <!-- Date -->
         <td>Lec 3. Numbers + Abstraction<br/>
-            <a href="">(Recording 3)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 3)</a><br/>      
             <a href="">(Slides 3)</a><br/>
             <a href="">(Lecture Quiz 3)</a>
         </td> <!-- Lecture -->
@@ -127,7 +127,7 @@
     <tr>
         <th>Fri 1/31</th> <!-- Date -->
         <td>Talk 2: Predicates, Truth Tables, Conversions<br/>
-            <a href="">(Recording: Talk 2)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 2)</a><br/>      
             <a href="">(Slides: Talk 2)</a><br/>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -155,7 +155,7 @@
         <td class="schedule-week-num" rowspan=5>Week 3</td> <!-- Week Number -->
         <th>Mon 2/3</th> <!-- Date -->
         <td>Lec 4. Iteration<br/>
-            <a href="">(Recording 4)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 4)</a><br/>      
             <a href="">(Slides 4)</a><br/>
             <a href="">(Lecture Quiz 4)</a></td> <!-- Lecture -->
         <td><a href=""></a></td> <!-- Lab -->
@@ -172,7 +172,7 @@
     <tr>
         <th>Wed 2/05 </th> <!-- Date -->
         <td>Lec 5. Scope, Lists, HOFs<br/>
-            <a href="">(Recording 5)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
             <a href="">(Slides 5)</a><br/>
             <a href="">(Lecture Quiz 5)</a>
         </td> <!-- Lecture -->
@@ -190,7 +190,7 @@
     <tr>
         <th>Fri 2/07</th> <!-- Date -->
         <td>Talk 3: Quest Preview<br/>
-            <a href="">(Recording 5)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
             <a href="">(Slides 5)</a><br/>
         </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -218,7 +218,7 @@
         <td class="schedule-week-num" rowspan=5>Week 4</td> <!-- Week Number -->
         <th>Mon 2/10</th> <!-- Date -->
         <td>Lec 6. Algorithmic Complexity<br/>
-            <a href="">(Recording 6)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 6)</a><br/>      
             <a href="">(Slides 6)</a><br/>
             <a href="">(Lecture Quiz 6)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -235,7 +235,7 @@
     <tr>
         <th>Wed 2/12 </th> <!-- Date -->
         <td>Lec 7. Algorithmic Complexity<br/>
-            <a href="">(Recording 7)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 7)</a><br/>      
             <a href="">(Slides 7)</a><br/>
             <a href="">(Lecture Quiz 7)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -291,7 +291,7 @@
     <tr>
         <th>Wed 2/19</th> <!-- Date -->
         <td>Lec 8. Recursion (Functional) <br/>
-            <a href="">(Recording 8)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 8)</a><br/>      
             <a href="">(Slides 8)</a><br/>
             <a href="">(Lecture Quiz 8)</a><br/>
             <a href="">(L8: Recursion Code)</a>
@@ -337,7 +337,7 @@
         <td class="schedule-week-num" rowspan=5>Week 6</td> <!-- Week Number -->
         <th>Mon 2/24</th> <!-- Date -->
         <td>Lec 9. Recursion II (Fractals)<br/>
-            <a href="">(Recording 9)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 9)</a><br/>      
             <a href="">(Slides 9)</a><br/>
             <a href="">(Lecture Quiz 9)</a><br/>
             <a href="">(L9: Recursion Code)</a>
@@ -356,7 +356,7 @@
     <tr>
         <th>Wed 2/26 </th> <!-- Date -->
         <td>Lec 10. Recursion III (Tree Recursion)<br/>
-            <a href="">(Recording 10)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 10)</a><br/>      
             <a href="">(Slides 10)</a><br/>
             <a href="">(Lecture Quiz 10)</a><br/>
             <a href="">(L10: Recursion Code)</a>
@@ -375,7 +375,7 @@
     <tr>
         <th>Fri 2/28</th> <!-- Date -->
         <td>Talk 6. Recursion I<br/>
-            <a href="">(Recording: Talk 6)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 6)</a><br/>      
             <a href="">(Slides: Talk 6)</a><br/>
             <a href="">(Code: Talk 6)</a>
             </td>  <!-- Lecture -->
@@ -405,7 +405,7 @@
         <td class="schedule-week-num" rowspan=5>Week 7</td> <!-- Week Number -->
         <th>Mon 3/03</th> <!-- Date -->
         <td>Lec 11. Testing, Debugging, 2048<br/>
-            <a href="">(Recording 11)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 11)</a><br/>      
             <a href="">(Slides 11)</a><br/>
             <a href="">(Lecture Quiz 11)</a>
             </td> <!-- Lecture -->
@@ -423,7 +423,7 @@
     <tr>
         <th>Wed 3/05 </th> <!-- Date -->
         <td>Lec 12. Higher-Order Functions <br/>
-            <a href="">(Recording 12)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 12)</a><br/>      
             <a href="">(Slides 12)</a><br/>
             <a href="">(Lecture Quiz 12)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -440,7 +440,7 @@
     <tr>
         <th>Fri 3/07</th> <!-- Date -->
         <td>Talk 7. Recursion II<br/>
-            <a href="">(Recording: Talk 7)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 7)</a><br/>      
             <a href="">(Slides: Talk 7)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -468,7 +468,7 @@
         <td class="schedule-week-num" rowspan=5>Week 8</td> <!-- Week Number -->
         <th>Mon 3/10</th> <!-- Date -->
         <td>Lec 13. Dr. Kathy Yelick - Saving the World with Computing<br/>
-            <a href="">(Recording 13)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 13)</a><br/>      
             <a href="">(Slides 13)</a><br/>
             <a href="">(Lecture Quiz 13)</a></td> <!-- Lecture -->
         <td></td><!-- Lab -->
@@ -485,7 +485,7 @@
     <tr>
         <th>Wed 3/12</th> <!-- Date -->
         <td>Lec 14. Computing in Education<br/>
-            <a href="">(Recording 14)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 14)</a><br/>      
             <a href="">(Slides 14)</a><br/>
             <a href="">(Lecture Quiz 14)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -501,7 +501,7 @@
     <tr>
         <th>Fri 3/14</th> <!-- Date -->
         <td>Talk 8. Midterm Preview<br/>
-            <a href="">(Recording: Talk 8)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 8)</a><br/>      
             <a href="">(Slides: Talk 8)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -528,7 +528,7 @@
         <td class="schedule-week-num" rowspan=5>Week 9</td> <!-- Week Number -->
         <th>Mon 3/17</th> <!-- Date -->
         <td>Lec 15. Programming Paradigms<br/>
-            <a href="">(Recording 15)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 15)</a><br/>      
             <a href="">(Slides 15)</a><br/>
             <a href="">(Lecture Quiz 15)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -547,7 +547,7 @@
     <tr>
         <th>Wed 3/19</th> <!-- Date -->
         <td>Lec 16. OOP in Snap!<br/>
-            <a href="">(Recording 16)</a> <br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 16)</a> <br/>      
             <a href="">(Slides 16)</a> <br/>
             <a href="">(Lecture Quiz 16)</a>
             </td> <!-- Lecture -->
@@ -631,7 +631,7 @@
         <td class="schedule-week-num" rowspan=5>Week 11</td> <!-- Week Number -->
         <th>Mon 3/31</th> <!-- Date -->
         <td>Lec 17. Intro to Python<br/>
-            <a href="">(Recording 17)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 17)</a><br/>      
             <a href="">(Slides 17)</a><br/>
             <a href="">(Lecture Quiz 17)</a></td><!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -648,7 +648,7 @@
     <tr>
         <th>Wed 4/02</th> <!-- Date -->
         <td>Lec 18. Data Types & Structures in Python<br/>
-            <a href="">(Recording 18)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 18)</a><br/>      
             <a href="">(Slides 18)</a><br/>
             <a href="">(Lecture Quiz 18)</a>
             </td> <!-- Lecture -->
@@ -694,7 +694,7 @@
         <td class="schedule-week-num" rowspan=5>Week 12</td> <!-- Week Number -->
         <th>Mon 4/7</th> <!-- Date -->
         <td>Lec 19. Concurrency<br/>
-            <a href="">(Recording 19)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 19)</a><br/>      
             <a href="">(Slides 19)</a><br/>
             <a href="">(Lecture Quiz 19)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -711,7 +711,7 @@
     <tr>
         <th>Wed 4/9</th> <!-- Date -->
         <td>Lec 20. Human-Computer Interaction (HCI)<br/>
-            <a href="">(Recording 20)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 20)</a><br/>      
             <a href="">(Slides 20)</a><br/>
             <a href="">(Lecture Quiz 20)</a>
             </td> <!-- Lecture -->
@@ -730,7 +730,7 @@
     <tr>
         <th>Fri 4/11</th> <!-- Date -->
         <td>Talk 12. Python Live Coding<br/>
-            <a href="">(Recording: Talk 12)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 12)</a><br/>      
             <a href="">(Slides: Talk 12)</a><br/>
             <a href="">(Code Demo: Talk 12)</a>
             </td> <!-- Lecture -->
@@ -760,7 +760,7 @@
         <td class="schedule-week-num" rowspan=5>Week 13</td> <!-- Week Number -->
         <th>Mon 4/14</th> <!-- Date -->
         <td>Lec 21. Generative AI<br/>
-            <a href="">(Recording 21)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 21)</a><br/>      
             <a href="">(Slides 21)</a><br/>
             <a href="">(Lecture Quiz 21)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -777,7 +777,7 @@
     <tr>
         <th>Wed 4/16</th> <!-- Date -->
         <td>Lec 22. Ethics in AI<br/>
-            <a href="">(Recording 22)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 22)</a><br/>      
             <a href="">(Slides 22)</a><br/>
             <a href="">(Lecture Quiz 22)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -794,7 +794,7 @@
     <tr>
         <th>Fri 4/18</th> <!-- Date -->
         <td>Talk 13. Postterm Preview<br/>
-            <a href="">(Recording: Talk 13)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 13)</a><br/>      
             <a href="">(Slides: Talk 13)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -821,7 +821,7 @@
         <td class="schedule-week-num" rowspan=5>Week 14</td> <!-- Week Number -->
         <th>Mon 4/21</th> <!-- Date -->
         <td>Lec 23. Tree Recursion & Game Theory<br/>
-            <a href="">(Recording 25)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 25)</a><br/>      
             <a href="">(Slides 25)</a><br/>
             <a href="">(Lecture Quiz 25)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -839,7 +839,7 @@
         <td class="schedule-week-num" rowspan=5>Week 14</td> <!-- Week Number -->
         <th>Wed 4/23</th> <!-- Date -->
         <td>Lec 24. OOP in Python<br/>
-            <a href="">(Recording 24)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 24)</a><br/>      
             <a href="">(Slides 24)</a><br/>
             <a href="">(Lecture Quiz 24)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -885,7 +885,7 @@
         <td class="schedule-week-num" rowspan=5>Week 15</td> <!-- Week Number -->
         <th>Mon 4/28</th> <!-- Date -->
         <td>Lec 25. Alumni Panel<br/>
-            <a href="">(Recording 25)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 25)</a><br/>      
             <a href="">(Slides 25)</a><br/>
             <a href="">(Lecture Quiz 25)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -902,7 +902,7 @@
     <tr>
         <th>Wed 4/30</th> <!-- Date -->
         <td>Lec 27. Conclusion + Farewell<br/>
-            <a href="">(Recording 27)</a><br/>      
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 27)</a><br/>      
             <a href="">(Slides 27)</a><br/>
             <a href="">(Lecture Quiz 27)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
