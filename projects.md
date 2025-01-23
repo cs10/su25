@@ -24,8 +24,8 @@ nav_order: 6
   </thead>
   <tbody>
     <tr>
-      <td><a href="/fa24/projects/project1">Project 1: Wordle™-lite</a></td>
-      <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td>
+      <td><a href="">Project 1: Wordle™-lite</a></td>
+      <td><a href="">Proj 1 Walkthrough Slides</a></td>
       <td>Monday, 1/27</td>
       <td>Wednesday, 2/05</td>
     </tr>
