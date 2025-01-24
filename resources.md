@@ -13,7 +13,6 @@ Below, you can find various resources to help with your understanding of the mat
 
 ## Lab Resources
 
-* [Lab FAQs](https://docs.google.com/document/d/1YqugyHgcEWXuCc0BtbX6dzx3ZXixK86SkgJq2dxx9oY/edit?usp=sharing)
 * [Useful blocks in Snap!](https://docs.google.com/document/d/16j-3p_mMLS6DB3lUr2_wSYOhUOP-WencXrFnzZRpHyo/edit)
 * [Snap tips and tricks ](https://docs.google.com/document/d/1PcnJHRVdttYCBnfEgfEOadMEI6SBcM18U44xNpr0wK0/edit)
 * [Debugging Snap!](https://docs.google.com/document/d/16gaxemuImuABVoe8C_lrmEd3EKz53QtWHe2OwkHMcBE/edit?usp=sharing)

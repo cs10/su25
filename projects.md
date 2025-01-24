@@ -24,55 +24,55 @@ nav_order: 6
   </thead>
   <tbody>
     <tr>
-      <td><a href="/fa24/projects/project1">Project 1: Wordle™-lite</a></td>
-      <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td>
+      <td><a href="">Project 1: Wordle™-lite</a></td>
+      <td><a href="">Proj 1 Walkthrough Slides</a></td>
       <td>Monday, 1/27</td>
       <td>Wednesday, 2/05</td>
     </tr>
     <tr>
-      <td><a href="/fa24/projects/project2">Project 2: Spelling Bee</a></td>
-      <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view?usp=sharing">Proj 2 Walkthrough Slides</a></td>
+      <td><a href="">Project 2: Spelling Bee</a></td>
+      <td><a href="">Proj 2 Walkthrough Slides</a></td>
       <td>Monday, 2/10</td>
       <td>Monday, 2/24</td>
     </tr>
      <tr>
-      <td><a href="/fa24/projects/project3">Project 3: 2048</a></td>
-      <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td>
+      <td><a href="">Project 3: 2048</a></td>
+      <td><a href="">Proj 3 Walkthrough Slides</a></td>
       <td>Monday, 3/03</td>
       <td>Monday, 3/17</td>
     </tr>
     <tr>
-      <td><a href="/fa24/projects/project4">Project 4: Tech in Context</a></td>
+      <td><a href="">Project 4: Tech in Context</a></td>
       <td><a href="">Example Project</a></td>
       <td>Monday, 3/17</td>
       <td>Monday, 3/31</td>
     </tr>
         <tr>
-      <td><a href="/fa24/projects/project4">Project 4: Presentations</a></td>
+      <td><a href="">Project 4: Presentations</a></td>
       <td><a href="">Example Presentation</a></td>
       <td>-</td>
       <td>Thursday, 4/03</td>
     </tr>
         <tr>
-      <td><a href="/fa24/projects/project4">Project 4: Feedback + Comments</a></td>
+      <td><a href="">Project 4: Feedback + Comments</a></td>
       <td><a href="">Example Feedback + Comments</a></td>
       <td>-</td>
       <td>Friday, 4/11</td>
     </tr>
     <tr>
-      <td><a href="/fa24/projects/project6-proposals">Project 6: Proposals</a></td>
+      <td><a href="">Project 6: Proposals</a></td>
       <td>-</td>
       <td>Wednesday, 4/02</td>
       <td>Monday, 4/07</td>
     </tr>
     <tr>
-      <td><a href="/fa24/projects/project6-proposals">Project 6: Proposal Meetings</a></td>
+      <td><a href="">Project 6: Proposal Meetings</a></td>
       <td>-</td>
       <td>Tuesday, 4/08</td>
       <td>Thursday, 4/10</td>
     </tr>
     <tr>
-      <td><a href="/fa24/projects/project6-project">Project 6: Final Project</a></td>
+      <td><a href="">Project 6: Final Project</a></td>
       <td>-</td>
       <td>Tuesday, 4/08 (earliest)<br/>Only start once your project has been approved</td>
       <td>Monday, 5/05</td>
