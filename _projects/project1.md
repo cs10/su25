@@ -1,8 +1,8 @@
 ---
 title: Project 1
 description: Wordle™-lite
-due: "11:59 PM PST on Thursday, 9/12"
-gradescope_assignment_id: 4882828
+due: "11:59 PM PST on Wednesday, 2/5"
+gradescope_assignment_id: 957259
 submission_files:
     - starter.xml
 ---
@@ -12,6 +12,7 @@ submission_files:
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 > Any important updates or clarifications will be made here
+> The Project 1 Party is TBD 
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
 
@@ -38,6 +39,14 @@ submission_files:
 ## Preface
 
 *Do remember that while you may discuss general ideas with other students, sharing code with anyone but your partner would be academically dishonest.*
+
+The expected timeframe for this project is about 4 hours, with a partner.
+- Read instructions - 20 minutes
+- Part 1: "game over" Block - 30 minutes
+- Part 2: "matching slots" Block - 1 hour
+- Part 3: "update score" Block - 1 hr
+- Feedback Form - 10 minutes
+
 
 **Important: Ensure that you use the starter file we’ve linked below- do NOT create your own Snap! file for this project!**
 
@@ -101,4 +110,4 @@ Note: correct, working code should handle those test cases, but not have the tes
 | (update score based on matched slots: [] and score: ())    | 0.8    | 5 |
 
 ## Feedback Form 
-Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/diMBFrBbA3ZgBNfS7). This will be worth 1 point of your project grade. 
+Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeZ3Qm8l5PiXsl6Ow4_8rB0Zb3OM6kaPrKefFEeCD_-vKw7tg/viewform?usp=sharing). This will be worth 1 point of your project grade. 
