@@ -62,9 +62,7 @@
     <tr>
         <th>Fri 1/24</th> <!-- Date -->
         <td>Talk 1: Ask Me Anything<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 1)</a><br/>      
-            <a href="">(Slides: Talk 1)</a>
-            </td> <!-- Lecture -->
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 1)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
@@ -92,8 +90,8 @@
         <th>Mon 1/27</th> <!-- Date -->
         <td>Lec 2. Functions + Conditional Logic
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 2)</a><br/>      
-            <a href="">(Slides 2)</a><br/>
-            <a href="">(Lecture Quiz 2)</a>
+            <a href="https://drive.google.com/file/d/16j2RT5Wwi2yZxeJyHJqTuTi-H-ZXD0p8/view?usp=sharing">(Slides 2)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617832">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -110,8 +108,8 @@
         <th>Wed 1/29 </th> <!-- Date -->
         <td>Lec 3. Numbers + Abstraction<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 3)</a><br/>      
-            <a href="">(Slides 3)</a><br/>
-            <a href="">(Lecture Quiz 3)</a>
+            <a href="https://drive.google.com/file/d/1-MJQT2zlQHtlrtLlUpsYmK59P_eVBGZd/view?usp=sharing">(Slides 3)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617855">(Lecture Quiz 3)</a>
         </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -127,8 +125,7 @@
     <tr>
         <th>Fri 1/31</th> <!-- Date -->
         <td>Talk 2: Predicates, Truth Tables, Conversions<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 2)</a><br/>      
-            <a href="">(Slides: Talk 2)</a><br/>
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 2)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
