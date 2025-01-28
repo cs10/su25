@@ -44,7 +44,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Welcome to CS10!</td>
       <td><a href="https://docs.google.com/document/d/1zadBZv91Wv7-_ZH5AyqVWhCNC1TaghWv/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet 1</a></td>
       <td><a href="">Solutions 1</a></td>
-      <td><a href=""> Recording 1</a></td>
+      <td><a href="https://drive.google.com/file/d/1MLvE3xRos_yqfGanwBvr109NqRiRZKEf/view?usp=sharing"> Recording 1</a></td>
       <td><a href="https://docs.google.com/presentation/d/1MSec0ySAECndEU7qNJ3nNt5BzJyxpKP4Io71Sm-H62Q/edit?usp=sharing"> Slides 1</a></td>
     </tr> 
     <tr>
