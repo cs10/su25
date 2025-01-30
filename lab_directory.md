@@ -18,7 +18,7 @@ Lab Slides and Worksheets: [Folder](https://drive.google.com/drive/folders/1z651
 | :----:                                     | :----:                     |
 | [Lab 1: Welcome to Snap!](https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=drive_link)                    | TUE 1/28 Nothing to submit |
 | [Lab 2: Build Your Own Block](https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?tab=t.0#heading=h.ew4i1encppj2)                 | THU 1/30                   |
-| Lab 3: Conditionals, Reporters, Testing     | TUE 2/04                   |
+| [Lab 3: Conditionals, Reporters, Testing](https://docs.google.com/document/d/1NkU9MzRESC0F1l3A520-F2AtSnf3rheOFxvUEGXd4F8/edit?tab=t.0#heading=h.ew4i1encppj2)     | TUE 2/04                   |
 | Lab 4. Iteration                            | THU 2/06                   |
 | Lab 5. Lists + HOFs                         | TUE 2/11                   |
 | Lab 6. Algorithms                           | THU 2/13                   |
