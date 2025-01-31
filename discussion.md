@@ -143,6 +143,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="">Recording 14</a></td>
       <td><a href="">Slides 14</a></td>
     </tr>
+    <tr>
     <td>Week Discussion 15</td>
       <td>Conceptual Review + Ask Me Anything</td>
       <td><a href="">Worksheet 15</a></td>
