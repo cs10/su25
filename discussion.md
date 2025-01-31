@@ -49,14 +49,14 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr> 
     <tr>
       <td>Week 2 Discussion</td>
-      <td>Numeral Representation + Control Structures</td>
-      <td><a href=""> Worksheet 2</a></td>
+      <td>Control Structures + Numeral Representation</td>
+      <td><a href="https://docs.google.com/document/d/1UgPwUfdkLiR2gYCUL2h48dHSPQnnjxS7/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet 2</a></td>
       <td><a href="">Solutions 2</a></td>
       <td><a href="">Recording 2</a></td>
-      <td><a href="">Slides 2</a></td>
+      <td><a href="https://docs.google.com/presentation/d/136MBZMxy8Rv4H6RFGIG5Fw9S_9NEqGzdfxpgrfgfgFQ/edit?usp=sharing">Slides 2</a></td>
     </tr>
      <tr>
-      <td>Weekk 3 Discussion</td>
+      <td>Week 3 Discussion</td>
       <td>Domain/Range, Scoping, Iteration, Lists</td>
       <td><a href="">Worksheet 3</a></td>
       <td><a href="">Solutions 3</a></td>
