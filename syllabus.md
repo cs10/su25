@@ -150,9 +150,9 @@ Here are the specific dates for exams, although these dates may change.
 
 | Exam             | Release  | Due         |   
 | :----:           | :----:   | :----:      | 
-| Quest 1          | Sat 2/08 | Sun 2/09    |
-| Quest 2          | Sat 2/15 | Sun 2/16    |  
-| Quest 3          | Sat 2/22 | Sun 2/23    |  
+| Quest 1          | Sat 2/15 | Sun 2/16    |  
+| Quest 2          | Sat 2/22 | Sun 2/23    |
+| Quest 3          | Sat 3/01 | Sun 3/02    |  
 | Midterm 1        | Sat 3/15 | Sun 3/16    |  
 | Midterm 2        | Sat 3/22 | Sun 3/23    |  
 | Midterm 3        | Sat 4/05 | Sun 4/06    | 

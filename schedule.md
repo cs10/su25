@@ -186,13 +186,13 @@
     </tr>
     <tr>
         <th>Fri 2/07</th> <!-- Date -->
-        <td>Talk 3: Quest Preview<br/>
+        <td>Talk 3: HOFs<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
             <a href="">(Slides 5)</a><br/>
         </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Quest 1</td> <!-- Assignment -->
+        <td></td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
@@ -248,12 +248,12 @@
     </tr>
     <tr>
         <th>Fri 2/14</th> <!-- Date -->
-        <td>Talk 4. Quest 1 Review<br/>
+        <td>Talk 4. Quest Preview<br/>
             <a href="">(No Recording)</a><br/>      
             <a href="">(No Slides)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Quest 2</td> <!-- Assignment -->
+        <td>Quest 1</td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
@@ -306,12 +306,12 @@
     </tr>
     <tr>
         <th>Fri 2/21</th> <!-- Date -->
-        <td>Talk 5: Quest 2 Review<br/> 
+        <td>Talk 5: Quest 1 Review<br/> 
             (No Recording)<br/>      
             (No Slides)<br/></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Quest 3</td> <!-- Assignment -->
+        <td>Quest 2</td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
@@ -371,14 +371,14 @@
     </tr>
     <tr>
         <th>Fri 2/28</th> <!-- Date -->
-        <td>Talk 6. Recursion I<br/>
+        <td>Talk 6. Quest 2 Review<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 6)</a><br/>      
             <a href="">(Slides: Talk 6)</a><br/>
             <a href="">(Code: Talk 6)</a>
             </td>  <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td>Quest 3</td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
@@ -436,7 +436,7 @@
     </tr>
     <tr>
         <th>Fri 3/07</th> <!-- Date -->
-        <td>Talk 7. Recursion II<br/>
+        <td>Talk 7. Recursion I<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 7)</a><br/>      
             <a href="">(Slides: Talk 7)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
