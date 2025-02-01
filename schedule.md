@@ -154,8 +154,8 @@
         <td>Lec 4. Iteration<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 4)</a><br/>      
             <a href="">(Slides 4)</a><br/>
-            <a href="">(Lecture Quiz 4)</a></td> <!-- Lecture -->
-        <td><a href=""></a></td> <!-- Lab -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5711830">(Lecture Quiz 4)</a></td> <!-- Lecture -->
+        <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment -->
     </tr>
@@ -171,7 +171,7 @@
         <td>Lec 5. Scope, Lists, HOFs<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
             <a href="">(Slides 5)</a><br/>
-            <a href="">(Lecture Quiz 5)</a>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617852">(Lecture Quiz 5)</a>
         </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->

@@ -52,7 +52,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Control Structures + Numeral Representation</td>
       <td><a href="https://docs.google.com/document/d/1UgPwUfdkLiR2gYCUL2h48dHSPQnnjxS7/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true"> Worksheet 2</a></td>
       <td><a href="">Solutions 2</a></td>
-      <td><a href="">Recording 2</a></td>
+      <td><a href="https://drive.google.com/file/d/1l9FMV9Dq-mjEucG3EzykFQAGY8f8nUec/view?usp=sharing">Recording 2</a></td>
       <td><a href="https://docs.google.com/presentation/d/136MBZMxy8Rv4H6RFGIG5Fw9S_9NEqGzdfxpgrfgfgFQ/edit?usp=sharing">Slides 2</a></td>
     </tr>
      <tr>
