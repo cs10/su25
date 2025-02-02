@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week2">Jump to Current Week</a>
+    <a href="#week3">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -25,7 +25,7 @@
       <th>Lecture</th>
       <th>Lab</th>
       <th>Discussion</th>
-      <th>Assignment</th>
+      <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -39,7 +39,7 @@
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeT5JP6feL0HwsvTsGf4aE__fzidar-42y3dt1bTCHX9hQKbQ/viewform?usp=sharing">Presemester Survey Released</a><br/><b>Due (1/31)</b></td> <!-- Assignment -->
+        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeT5JP6feL0HwsvTsGf4aE__fzidar-42y3dt1bTCHX9hQKbQ/viewform?usp=sharing">Presemester Survey Released</a><br/><b>Due (1/31)</b></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 1/22</th> <!-- Date -->
@@ -57,7 +57,7 @@
         <td></td><!-- Lecture -->
         <td><a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=drive_link">Lab 1. Welcome to Snap!</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 1. Welcome to CS10!</a></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 1/24</th> <!-- Date -->
@@ -65,7 +65,7 @@
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 1)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -81,7 +81,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -95,14 +95,14 @@
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects/project1">Proj 1: Worldle Released</a><br/><b>Due (2/05)</b></td> <!-- Assignment --> 
+        <td><a href="/sp25/projects/project1">Proj 1: Worldle Released</a><br/><b>Due (2/05)</b></td> <!-- Assignment / Exam --> 
     </tr>
     <tr>
         <th>Tue 1/28</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 1/29 </th> <!-- Date -->
@@ -120,7 +120,7 @@
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 2. Numeral Rep + Conditionals</a></td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 2 Due</a></td> <!-- Assignment -->
+        <td><a href="/sp25/readings">Reading: Week 2 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 1/31</th> <!-- Date -->
@@ -129,7 +129,7 @@
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -144,7 +144,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -157,14 +157,14 @@
             <a href="https://www.gradescope.com/courses/957259/assignments/5711830">(Lecture Quiz 4)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 2/04</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab-directory">Lab 4. Iteration</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Lab 4. Iteration</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 2/05 </th> <!-- Date -->
@@ -180,9 +180,9 @@
     <tr>
         <th>Thu 2/06</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab-directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 3. Data-types, Domain / Range, Scoping, Lists</a></td> <!-- Discussion -->
-        <td><a href="">Reading: Week 3 Due</a></td> <!-- Assignment -->
+        <td><a href="">Reading: Week 3 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 2/07</th> <!-- Date -->
@@ -192,7 +192,7 @@
         </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -207,7 +207,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -220,14 +220,14 @@
             <a href="">(Lecture Quiz 6)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="">Proj 2: Spelling Bee Released</a><br/>(Due 2/24)</td> <!-- Assignment -->
+        <td><a href="">Proj 2: Spelling Bee Released</a><br/>(Due 2/24)</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 2/11</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab-directory">Lab 5. Algorithms</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Lab 5. Algorithms</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 2/12 </th> <!-- Date -->
@@ -242,9 +242,9 @@
     <tr>
         <th>Thu 2/13</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab-directory">Lab 6. Algorithmic Complexity</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Lab 6. Algorithmic Complexity</a></td> <!-- Lab -->
         <td><a href="">Disc 4. HOFs + Algorithmic Complexity</a></td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 4 Due</a></td> <!-- Assignment -->
+        <td><a href="/sp25/readings">Reading: Week 4 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 2/14</th> <!-- Date -->
@@ -253,7 +253,7 @@
             <a href="">(No Slides)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Quest 1</td> <!-- Assignment -->
+        <td>Quest 1</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -269,7 +269,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -281,9 +281,9 @@
     <tr>
         <th>Tue 2/18</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab-directory">Lab 8. Nested Lists + Boards</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Lab 8. Nested Lists + Boards</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 2/19</th> <!-- Date -->
@@ -302,7 +302,7 @@
         <td></td><!-- Lecture -->
         <td>Catch-up Session <br/>(attendance not required)</td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 5. Nested Lists + Recursion</a></td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 5 Due</a> </td> <!-- Assignment -->
+        <td><a href="/sp25/readings">Reading: Week 5 Due</a> </td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 2/21</th> <!-- Date -->
@@ -311,7 +311,7 @@
             (No Slides)<br/></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Quest 2</td> <!-- Assignment -->
+        <td>Quest 2</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -326,7 +326,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -341,14 +341,14 @@
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="">Proj 2: Spelling Bee Due</a></td> <!-- Assignment -->
+        <td><a href="">Proj 2: Spelling Bee Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 2/25</th> <!-- Date -->
         <td></td> <!-- Lecture -->
-        <td><a href="/sp25/lab-directory">Lab 9. Trees & Fractals</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Lab 9. Trees & Fractals</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 2/26 </th> <!-- Date -->
@@ -365,9 +365,9 @@
     <tr>
         <th>Thu 2/27</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab-directory">Lab 10. Recursive Reporters</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Lab 10. Recursive Reporters</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 6. More Recursion!</a><br/>(online only)</td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 6 Due</a></td> <!-- Assignment -->
+        <td><a href="/sp25/readings">Reading: Week 6 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 2/28</th> <!-- Date -->
@@ -378,7 +378,7 @@
             </td>  <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Quest 3</td> <!-- Assignment -->
+        <td>Quest 3</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -394,7 +394,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -408,14 +408,14 @@
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="">Proj 3: 2048 Released</a><br/>(Due 3/17)</td> <!-- Assignment -->
+        <td><a href="">Proj 3: 2048 Released</a><br/>(Due 3/17)</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 3/04</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 11. Testing + 2048</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 3/05 </th> <!-- Date -->
@@ -432,7 +432,7 @@
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 12: Functions as Data, HOFs</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 7. HOFs, Lambdas, Debugging</a></td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 7 Due</a></td> <!-- Assignment -->
+        <td><a href="/sp25/readings">Reading: Week 7 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 3/07</th> <!-- Date -->
@@ -441,7 +441,7 @@
             <a href="">(Slides: Talk 7)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -457,7 +457,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -470,14 +470,14 @@
             <a href="">(Lecture Quiz 13)</a></td> <!-- Lecture -->
         <td></td><!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 3/11</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab-directory">Practice Midterm: without Snap!</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Practice Midterm: without Snap!</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 3/12</th> <!-- Date -->
@@ -487,13 +487,14 @@
             <a href="">(Lecture Quiz 14)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
+    </tr>
     <tr>
         <th>Thu 3/13</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab-directory">Practice Midterm: with Snap! (Fractal)</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Practice Midterm: with Snap! (Fractal)</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 8. Midterm Practice</a></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 3/14</th> <!-- Date -->
@@ -502,7 +503,7 @@
             <a href="">(Slides: Talk 8)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Midterm 1</td> <!-- Assignment -->
+        <td>Midterm 1</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -517,7 +518,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -532,14 +533,14 @@
         <td></td> <!-- Discussion -->
         <td><a href="">Proj 3: 2048 Due</a> <br/><br/>
             <a href="">Proj 4: Tech in Context Released</a> <br/> (Due 3/31) 
-            </td> <!-- Assignment -->
+            </td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 3/18</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td>Catchup Session<br/>(no attendance required)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 3/19</th> <!-- Date -->
@@ -557,7 +558,7 @@
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 13. OOP in Snap!</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 9. OOP, Clones, Events</a></td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 9 Due</a></td> <!-- Assignment -->
+        <td><a href="/sp25/readings">Reading: Week 9 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 3/21</th> <!-- Date -->
@@ -566,7 +567,7 @@
             (No Slides)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Midterm 2</td> <!-- Assignment -->
+        <td>Midterm 2</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -582,7 +583,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -620,7 +621,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -633,14 +634,14 @@
             <a href="">(Lecture Quiz 17)</a></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="">Proj 4: Tech in Context Due</a></td> <!-- Assignment -->
+        <td><a href="">Proj 4: Tech in Context Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 4/01</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 14. Intro to Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 4/02</th> <!-- Date -->
@@ -659,7 +660,7 @@
         <td><a href="/sp25/lab_directory">Lab 15. Data Structures in Python</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 11: Project 4 Presentations</a></td> <!-- Discussion -->
         <td><br/>
-        <a href="/sp25/readings">Reading: Week 11 Due</a></td> <!-- Assignment -->
+        <a href="/sp25/readings">Reading: Week 11 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 4/04</th> <!-- Date -->
@@ -668,7 +669,7 @@
             (No Slides)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Midterm 3</td> <!-- Assignment -->
+        <td>Midterm 3</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -683,7 +684,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -696,14 +697,14 @@
             <a href="">(Lecture Quiz 19)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="">Proj 6: Final Project Proposals Due</a></td><!-- Assignment -->
+        <td><a href="">Proj 6: Final Project Proposals Due</a></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 4/8</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 16. Concurrency + Parallelism</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Final Project Proposal Meetings</td><!-- Assignment -->
+        <td>Final Project Proposal Meetings</td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 4/9</th> <!-- Date -->
@@ -722,7 +723,7 @@
         <td><a href="/sp25/lab_directory">Practice Postterm (coding and non-coding)</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 12: Data Structures in Python</a></td> <!-- Discussion -->
         <td>Final Project Proposal Meetings<br/>
-            <a href="/sp25/readings">Reading: Week 12 Due</a></td> <!-- Assignment -->
+            <a href="/sp25/readings">Reading: Week 12 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 4/11</th> <!-- Date -->
@@ -734,7 +735,7 @@
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Proj 4: Feedback + Comments Due<br/>
-            Proj 4: Makeup Presentations Due</td> <!-- Assignment -->
+            Proj 4: Makeup Presentations Due</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -749,7 +750,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -762,14 +763,14 @@
             <a href="">(Lecture Quiz 21)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 4/15</th> <!-- Date -->
         <td></td> <!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 17: Text Processing in Python</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 4/16</th> <!-- Date -->
@@ -786,7 +787,7 @@
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 20. Data Science</a></td> <!-- Lab -->
         <td><a href="/sp25/dicussion">Disc 13: Concurrency + Postterm Practice</a> </td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 13 Due</a></td> <!-- Assignment -->
+        <td><a href="/sp25/readings">Reading: Week 13 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 4/18</th> <!-- Date -->
@@ -795,7 +796,7 @@
             <a href="">(Slides: Talk 13)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Postterm 1</td> <!-- Assignment -->
+        <td>Postterm 1</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -810,7 +811,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -823,14 +824,14 @@
             <a href="">(Lecture Quiz 25)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 4/22</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td>Catchup Session<br/>(no attendance required)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 14</td> <!-- Week Number -->
@@ -841,7 +842,7 @@
             <a href="">(Lecture Quiz 24)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 14</td> <!-- Week Number -->
@@ -849,7 +850,7 @@
         <td></td> <!-- Lecture -->
         <td>Postterm Practice<br/>(no attendance required)</td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 14. Postterm Practice</a></td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 14 Due</a></td> <!-- Assignment -->
+        <td><a href="/sp25/readings">Reading: Week 14 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 14</td> <!-- Week Number -->
@@ -859,7 +860,7 @@
             (No Slides)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Postterm 2</td> <!-- Assignment -->
+        <td>Postterm 2</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -874,7 +875,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -887,14 +888,14 @@
             <a href="">(Lecture Quiz 25)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 4/29</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td>Project 6 Party <br/>(no attendance required)</td> <!-- Lab -->
         <td></td><!-- Discussion -->
-        <td></td><!-- Assignment -->
+        <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 4/30</th> <!-- Date -->
@@ -911,7 +912,7 @@
         <td></td><!-- Lecture -->
         <td>Project 6 Party <br/>(no attendance required)</td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 15: Conceptual Review + Ask Me Anything</a></td> <!-- Discussion -->
-        <td><a href="/sp25/readings">Reading: Week 15 Due</a></td> <!-- Assignment -->
+        <td><a href="/sp25/readings">Reading: Week 15 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 5/2</th> <!-- Date -->
@@ -920,7 +921,7 @@
             (No Slides)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td>Postterm 3</td> <!-- Assignment -->
+        <td>Postterm 3</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -935,7 +936,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -943,27 +944,27 @@
         <td class="schedule-week-num" rowspan=5>Week 16</td> <!-- Week Number -->
         <th>Mon 5/5</th> <!-- Date -->
         <td colspan="3">NO CLASS (RRR Week)</td>
-        <td>Proj 6: Final Project Due</td> <!-- Assignment -->
+        <td>Proj 6: Final Project Due</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 5/6</th> <!-- Date -->
         <td colspan="3">NO CLASS (RRR Week)</td>
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 5/7</th> <!-- Date -->
         <td colspan="3">NO CLASS (RRR Week)</td>
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Thu 5/8</th> <!-- Date -->
         <td colspan="3">NO CLASS (RRR Week)</td>
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 5/9</th> <!-- Date -->
         <td colspan="3">NO CLASS (RRR Week)</td>
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -978,7 +979,7 @@
         <th>Lecture</th>
         <th>Lab</th>
         <th>Discussion</th>
-        <th>Assignment</th>
+        <th>Assignment / Exam</th>
     </tr>
   </thead>
   <tbody class="content">
@@ -986,27 +987,27 @@
         <td class="schedule-week-num" rowspan=5>Week 17</td> <!-- Week Number -->
         <th>Mon 5/12</th> <!-- Date -->
         <td colspan="3">NO CLASS (Finals Week)</td>
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 5/13</th> <!-- Date -->
         <td colspan="3">NO CLASS (Finals Week)</td>
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 5/14</th> <!-- Date -->
         <td colspan="3">NO CLASS (Finals Week)</td>
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Thu 5/15</th> <!-- Date -->
         <td colspan="3">NO CLASS (Finals Week)</td>
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 5/16</th> <!-- Date -->
         <td colspan="3">NO CLASS (Finals Week)</td>
-        <td></td> <!-- Assignment -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
