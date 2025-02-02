@@ -214,7 +214,7 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 4</td> <!-- Week Number -->
         <th>Mon 2/10</th> <!-- Date -->
-        <td>Lec 6. Algorithmic Complexity<br/>
+        <td>Lec 6. Algorithms<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 6)</a><br/>      
             <a href="">(Slides 6)</a><br/>
             <a href="">(Lecture Quiz 6)</a></td> <!-- Lecture -->
