@@ -89,7 +89,7 @@
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
         <th>Mon 1/27</th> <!-- Date -->
         <td>Lec 2. Functions + Conditional Logic
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 2)</a><br/>      
+            <a href="https://edstem.org/us/courses/74174/discussion/6093531">(Recording 2)</a><br/>      
             <a href="https://drive.google.com/file/d/16j2RT5Wwi2yZxeJyHJqTuTi-H-ZXD0p8/view?usp=sharing">(Slides 2)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617832">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
@@ -153,7 +153,7 @@
         <th>Mon 2/3</th> <!-- Date -->
         <td>Lec 4. Iteration<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 4)</a><br/>      
-            <a href="">(Slides 4)</a><br/>
+            <a href="https://docs.google.com/presentation/d/1oWx1669afCqLi7383VyJzWlAHNmfRey0PvY5qysP7bM/edit?usp=sharing">(Slides 4)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5711830">(Lecture Quiz 4)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
