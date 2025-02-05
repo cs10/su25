@@ -1,6 +1,6 @@
 ---
 name: Edan Gortzak
-role: AI
+role: Academic Intern
 pronouns: he/him
 photo: edan_gortzak.png
 ---
