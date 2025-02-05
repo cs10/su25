@@ -1,6 +1,6 @@
 ---
 name: Kat Bernabe
-role: CS10 AI
+role: Academic Intern
 pronouns: she/her
 photo: Kat_Bernabe.png
 ---
