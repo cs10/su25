@@ -1,6 +1,6 @@
 ---
 name: Joanna Chen
-role: AI
+role: Academic Intern
 pronouns: she/her
 photo: Joanna_Chen.png
 ---
