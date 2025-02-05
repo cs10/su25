@@ -1,7 +1,7 @@
 ---
 name: Bella Longhi
 role: Academic Intern
-email: isabella.longhi@
+pronouns: she/her
 photo: bella_longhi.png
 ---
 
