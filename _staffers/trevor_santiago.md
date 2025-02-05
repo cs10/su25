@@ -1,7 +1,7 @@
 ---
 name: Trevor Santiago
 role: Academic Intern
-email: trevor_santiag@
+pronouns: he/him
 photo: Trevor_Santiago.png
 ---
 
