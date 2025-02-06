@@ -154,7 +154,8 @@
         <td>Lec 4. Iteration<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 4)</a><br/>      
             <a href="https://docs.google.com/presentation/d/1oWx1669afCqLi7383VyJzWlAHNmfRey0PvY5qysP7bM/edit?usp=sharing">(Slides 4)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5711830">(Lecture Quiz 4)</a></td> <!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5711830">(Lecture Quiz 4)</a>
+            </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -834,7 +835,6 @@
         <td></td><!-- Assignment / Exam -->
     </tr>
     <tr>
-        <td class="schedule-week-num" rowspan=5>Week 14</td> <!-- Week Number -->
         <th>Wed 4/23</th> <!-- Date -->
         <td>Lec 24. OOP in Python<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 24)</a><br/>      
@@ -845,7 +845,6 @@
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <td class="schedule-week-num" rowspan=5>Week 14</td> <!-- Week Number -->
         <th>Thu 4/24</th> <!-- Date -->
         <td></td> <!-- Lecture -->
         <td>Postterm Practice<br/>(no attendance required)</td> <!-- Lab -->
@@ -853,7 +852,6 @@
         <td><a href="/sp25/readings">Reading: Week 14 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <td class="schedule-week-num" rowspan=5>Week 14</td> <!-- Week Number -->
         <th>Fri 4/25</th> <!-- Date -->
         <td>Talk 14. Postterm 1 Review<br/>
             (No Recording)<br/>      
