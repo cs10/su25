@@ -171,7 +171,7 @@
         <th>Wed 2/05 </th> <!-- Date -->
         <td>Lec 5. Scope, Lists, HOFs<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
-            <a href="https://drive.google.com/file/d/1-iik1GxC_KlqUMvHXGf-gXxRuy1Ip_7N/view?usp=sharing">(Slides 5)</a><br/>
+            <a href="https://drive.google.com/file/d/1-k54Cht53Hif7Cyich4f7Hv8PwNv-P8K/view?usp=sharing">(Slides 5)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617852">(Lecture Quiz 5)</a>
         </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
