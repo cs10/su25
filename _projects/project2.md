@@ -1,7 +1,7 @@
 ---
 title: Project 2
 description: Spelling Bee
-due: "11:59 PM PST on Thursday, 9/26"
+due: "11:59 PM PST on Monday, 2/24"
 gradescope_assignment_id: 4968690
 submission_files:
     - starter.xml
@@ -15,7 +15,8 @@ submission_files:
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=imenguechtouli&ProjectName=BJC%20CS10%20Project%202%3a%20Spelling%20Bee&editMode&Run)
 
-> Any important updates or clarifications will be made here.
+Any important updates or clarifications will be made here.
+> Project 2 Party is TBD
 
 ## Content
 
@@ -48,6 +49,16 @@ submission_files:
 **Important: Ensure that you use the starter file we’ve linked above- do NOT create your own Snap! file for this project!**
 
 You are NOT allowed to use explicit iteration (i.e. create for loops / repeat until loops) or recursion (which you’ll learn soon) in this project. Instead, you should rely on HOFs: specifically, `map`, `keep`, and `combine`. You are also not allowed to import any blocks.<br/> <br/>  Also, you may NOT use the built-in lowercase or uppercase blocks shown below:  <br/> <br/> ![Length of text snap block with uppercase/lowercase options](/fa24/assets/images/p2/length.png)  <br/> <br/>  You **are allowed** to use `length of text`. 
+
+The expected timeframe for this project is about 10 hours, with a partner.
+- Read instructions - 40 minutes
+- Part 1: "letter" Block - 20 minutes
+- Part 2: "has letter" Block - 30 minutes
+- Part 3: "uppercase" Block - 1 hour
+- Part 4: "lowercase" Block - 30 minutes
+- Part 5: "has only" Block - 2 hours
+- Part 6: "pangram" Block - 2 hours
+- Part 7: "solution" Block - 3 hours
 
 ## Introduction 
 
@@ -153,4 +164,4 @@ Note: correct, working code should handle those test cases, but not have the tes
 | complete solution to puzzle _ using words _ | 7.5   | Reporter | list and string | string
 
 ## Feedback Form 
-Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/R7bYuwgrPRHtd3ca6). This will be worth 1 point of your project grade. Thank you!
+Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/CTRvnkLVmyD1CEqs5). This will be worth 1 point of your project grade. Each person should submit this feedback form. Thank you!

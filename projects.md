@@ -30,8 +30,8 @@ nav_order: 6
       <td>Wednesday, 2/05</td>
     </tr>
     <tr>
-      <td><a href="">Project 2: Spelling Bee</a></td>
-      <td><a href="">Proj 2 Walkthrough Slides</a></td>
+      <td><a href="https://cs10.org/sp25/projects/project1/">Project 2: Spelling Bee</a></td>
+      <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td>
       <td>Monday, 2/10</td>
       <td>Monday, 2/24</td>
     </tr>
