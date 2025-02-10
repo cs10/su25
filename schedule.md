@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week3">Jump to Current Week</a>
+    <a href="#week4">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -217,8 +217,8 @@
         <th>Mon 2/10</th> <!-- Date -->
         <td>Lec 6. Algorithms<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 6)</a><br/>      
-            <a href="">(Slides 6)</a><br/>
-            <a href="">(Lecture Quiz 6)</a></td> <!-- Lecture -->
+            <a href="https://drive.google.com/file/d/17jrgTVNY6h21zXqUljpL-iBui8UoFtG2/view?usp=sharing">(Slides 6)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617854">(Lecture Quiz 6)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="">Proj 2: Spelling Bee Released</a><br/>(Due 2/24)</td> <!-- Assignment / Exam -->
@@ -234,8 +234,8 @@
         <th>Wed 2/12 </th> <!-- Date -->
         <td>Lec 7. Algorithmic Complexity<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 7)</a><br/>      
-            <a href="">(Slides 7)</a><br/>
-            <a href="">(Lecture Quiz 7)</a></td> <!-- Lecture -->
+            <a href="https://drive.google.com/file/d/17ZcNOBQ_T9DUGa97fpN-oFLNbTds5VcJ/view?usp=sharing">(Slides 7)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617856">(Lecture Quiz 7)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
@@ -250,8 +250,8 @@
     <tr>
         <th>Fri 2/14</th> <!-- Date -->
         <td>Talk 4. Quest Preview<br/>
-            <a href="">(No Recording)</a><br/>      
-            <a href="">(No Slides)</a></td> <!-- Lecture -->
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">Talk 4: Recording</a><br/>      
+            (No Slides)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Quest 1</td> <!-- Assignment / Exam -->
