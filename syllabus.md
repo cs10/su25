@@ -149,15 +149,15 @@ Here are the specific dates for exams, although these dates may change.
 
 | Exam             | Release  | Due         |   
 | :----:           | :----:   | :----:      | 
-| Quest 1          | Sat 2/15 | Sun 2/16    |  
-| Quest 2          | Sat 2/22 | Sun 2/23    |
-| Quest 3          | Sat 3/01 | Sun 3/02    |  
-| Midterm 1        | Sat 3/15 | Sun 3/16    |  
-| Midterm 2        | Sat 3/22 | Sun 3/23    |  
-| Midterm 3        | Sat 4/05 | Sun 4/06    | 
-| Postterm 1       | Sat 4/19 | Sun 4/20    |  
-| Postterm 2       | Sat 4/26 | Sun 4/27    |  
-| Postterm 3       | Sat 5/03 | Sun 5/04    |  
+| Quest 1          | Fri 2/14 | Sun 2/16    |  
+| Quest 2          | Fri 2/21 | Sun 2/23    |
+| Quest 3          | Fri 2/28 | Sun 3/02    |  
+| Midterm 1        | Fri 3/14 | Sun 3/16    |  
+| Midterm 2        | Fri 3/21 | Sun 3/23    |  
+| Midterm 3        | Fri 4/04 | Sun 4/06    | 
+| Postterm 1       | Fri 4/18 | Sun 4/20    |  
+| Postterm 2       | Fri 4/25 | Sun 4/27    |  
+| Postterm 3       | Fri 5/02 | Sun 5/04    |  
 
 You will see various exams (for example, Quest 1, 2 3, etc.) Each exam type (Quest, Midterm, Postterm) has three exams. The purpose of this is to allow you to retake the exam (it will be a simliar but different exam each time), and earn credit on questions you missed in the previous exam. Quest 1, Midterm 1, and Postterm 1 are all mandatory; however, each retake is optional.
 
