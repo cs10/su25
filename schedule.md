@@ -234,7 +234,8 @@
         <th>Wed 2/12 </th> <!-- Date -->
         <td>Lec 7. Algorithmic Complexity<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 7)</a><br/>      
-            <a href="https://drive.google.com/file/d/17ZcNOBQ_T9DUGa97fpN-oFLNbTds5VcJ/view?usp=sharing">(Slides 7)</a><br/>
+            <a href="https://docs.google.com/presentation/d/1BYYHWeW1QPvOdrGZvi7X2xuWU4F-EPTHuhT5wb_wBTg/edit?usp=sharing">(Slides 7 - Victoria)</a><br/>
+            <a href="https://drive.google.com/file/d/17ZcNOBQ_T9DUGa97fpN-oFLNbTds5VcJ/view?usp=sharing">(Slides 7 - Dan)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617856">(Lecture Quiz 7)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
