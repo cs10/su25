@@ -145,7 +145,7 @@ There will be three take-home, untimed, online, 48-hour, open-note exams (Quest,
 - Midterm
 - Postterm (final)
 
-Here are the specific dates for exams, although these dates may change. 
+Here are the specific dates for exams, although these dates may change. All exams will be released at 6PM on Fridays.
 
 | Exam             | Release  | Due         |   
 | :----:           | :----:   | :----:      | 
