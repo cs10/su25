@@ -22,7 +22,7 @@ Lab Slides and Worksheets: [Folder](https://drive.google.com/drive/folders/1z651
 | [Lab 4. Iteration](https://docs.google.com/document/d/1SWvggIxXtk3wzM85eEJru4YGwPWfNmsK9GN6H5soJXU/edit?usp=sharing)                            | THU 2/06                   |
 | [Lab 5. Lists + HOFs](https://docs.google.com/document/d/1EH7DJaWCrdoW_qsfbOhbhztdpYP2PxiYcqGUIMlZjZA/edit?tab=t.0#heading=h.ew4i1encppj2)                         | TUE 2/11                   |
 | [Lab 6. Algorithms](https://docs.google.com/document/d/1vBD-hA5BTbiBJIT-TstaM2wMu_bPbGt_XRrwTN-ZBWY/edit?tab=t.0)                            | THU 2/13                   |
-| Lab 7. Algorithmic Complexity               | TUE 2/18                   |
+| [Lab 7. Algorithmic Complexity](https://docs.google.com/document/d/1_WPGfNILSyaQ7ZWyC7fnYg0eZsqcVCgecd_ppZ66HF4/edit?tab=t.0)               | TUE 2/18                   |
 | Lab 8. Boards                               | TUE 2/25                   |
 | Lab 9. Trees + Recursion                     | THU 2/27                   |
 | Lab 10. Linear Recursion                     | TUE 3/04                   |
