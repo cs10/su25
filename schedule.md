@@ -182,7 +182,7 @@
         <th>Thu 2/06</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 3. Data-types, Domain / Range, Scoping, Lists</a></td> <!-- Discussion -->
+        <td><a href="/sp25/discussion">Disc 3. Data-types, Domain / Range, HOFs</a></td> <!-- Discussion -->
         <td><a href="">Reading: Week 3 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -245,7 +245,7 @@
         <th>Thu 2/13</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 6. Algorithmic Complexity</a></td> <!-- Lab -->
-        <td><a href="">Disc 4. HOFs + Algorithmic Complexity</a></td> <!-- Discussion -->
+        <td><a href="">Disc 4. Algorithmic Complexity + Quest Practice</a></td> <!-- Discussion -->
         <td><a href="/sp25/readings">Reading: Week 4 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
