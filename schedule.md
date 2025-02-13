@@ -45,7 +45,7 @@
         <th>Wed 1/22</th> <!-- Date -->
         <td>Lec 1. Logistics + Abstraction<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 1)</a><br/>      
-            <a href="https://drive.google.com/file/d/16K-z1Q2HQsWW5vIi_yNZVxEzeh9l5BC-/view?usp=sharing">(Slides 1)</a><br/>
+            <a href="https://drive.google.com/drive/folders/163Rp1WSJVLrkt4mV4w4YzUOBHy7WxFiW?usp=sharing">(Slides 1)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617833">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->
         <td></td><!-- Lab -->
@@ -90,7 +90,7 @@
         <th>Mon 1/27</th> <!-- Date -->
         <td>Lec 2. Functions + Conditional Logic
             <a href="https://edstem.org/us/courses/74174/discussion/6093531">(Recording 2)</a><br/>      
-            <a href="https://drive.google.com/file/d/16j2RT5Wwi2yZxeJyHJqTuTi-H-ZXD0p8/view?usp=sharing">(Slides 2)</a><br/>
+            <a href="https://drive.google.com/drive/folders/16KBEliCaPrc4dX0MDTUCm1GOu5crJm11?usp=sharing">(Slides 2)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617832">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -108,7 +108,7 @@
         <th>Wed 1/29 </th> <!-- Date -->
         <td>Lec 3. Numbers + Abstraction<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 3)</a><br/>      
-            <a href="https://drive.google.com/file/d/1-MJQT2zlQHtlrtLlUpsYmK59P_eVBGZd/view?usp=sharing">(Slides 3)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1-F7NaPtb9S1HGfMHy6vCPFKGTMZ_TBDC?usp=sharing">(Slides 3)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617855">(Lecture Quiz 3)</a>
         </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -153,7 +153,7 @@
         <th>Mon 2/3</th> <!-- Date -->
         <td>Lec 4. Iteration<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 4)</a><br/>      
-            <a href="https://docs.google.com/presentation/d/1oWx1669afCqLi7383VyJzWlAHNmfRey0PvY5qysP7bM/edit?usp=sharing">(Slides 4)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1urD0m6icMElXfZXn8RMqrFcPgrlS6F7W?usp=sharing">(Slides 4)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5711830">(Lecture Quiz 4)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -171,7 +171,7 @@
         <th>Wed 2/05 </th> <!-- Date -->
         <td>Lec 5. Scope, Lists, HOFs<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 5)</a><br/>      
-            <a href="https://drive.google.com/file/d/1-k54Cht53Hif7Cyich4f7Hv8PwNv-P8K/view?usp=sharing">(Slides 5)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1-gtzjKOx9AcdHEKYU1pLq0R-1Tlhsf4m?usp=sharing">(Slides 5)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617852">(Lecture Quiz 5)</a>
         </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -217,7 +217,7 @@
         <th>Mon 2/10</th> <!-- Date -->
         <td>Lec 6. Algorithms<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 6)</a><br/>      
-            <a href="https://drive.google.com/file/d/17jrgTVNY6h21zXqUljpL-iBui8UoFtG2/view?usp=sharing">(Slides 6)</a><br/>
+            <a href="https://drive.google.com/drive/folders/17M47JY7IoRfZjmvm2cwT6GBktT-Lnr_m?usp=sharing">(Slides 6)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617854">(Lecture Quiz 6)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -234,8 +234,7 @@
         <th>Wed 2/12 </th> <!-- Date -->
         <td>Lec 7. Algorithmic Complexity<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 7)</a><br/>      
-            <a href="https://docs.google.com/presentation/d/1BYYHWeW1QPvOdrGZvi7X2xuWU4F-EPTHuhT5wb_wBTg/edit?usp=sharing">(Slides 7 - Victoria)</a><br/>
-            <a href="https://drive.google.com/file/d/17ZcNOBQ_T9DUGa97fpN-oFLNbTds5VcJ/view?usp=sharing">(Slides 7 - Dan)</a><br/>
+            <a href="https://drive.google.com/drive/folders/17P--TDoJn80diMZoS57hAumyHg8tCyQr?usp=sharing"><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617856">(Lecture Quiz 7)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->

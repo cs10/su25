@@ -208,17 +208,17 @@ If your percentage score on a latter exam is higher than your percentage score o
 
 | Letter Grade       |    Range                          |
 | :----:             |    :----:                         |
-| A+                 |    388-400                        |
-| A                  |    368-387                        |
-| A-                 |    360-367                        |
-| B+                 |    352-359                        |
-| B                  |    336-351                        |
-| B-                 |    320-335                        |
-| C+                 |    300-319                        |
-| C                  |    288-299                        |
-| C-                 |    280-287                        |
-| D                  |    240-279                        |
-| F                  |    0-239                          |
+| A+                 |    390-400                        |
+| A                  |    370-390                        |
+| A-                 |    360-370                        |
+| B+                 |    350-360                        |
+| B                  |    330-350                        |
+| B-                 |    320-330                        |
+| C+                 |    310-320                        |
+| C                  |    300-310                        |
+| C-                 |    290-300                        |
+| D                  |    250-290                        |
+| F                  |    0-250                          |
 
 Your total points will be rounded to the nearest integer when we compute letter grades. 0.5 will round to 1, but 0.49 will round to 0. We will not shift the bins / curve the class / ooch or round your grade beyond the listed rounding scheme, so please don't ask.
 
