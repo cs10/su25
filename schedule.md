@@ -234,7 +234,7 @@
         <th>Wed 2/12 </th> <!-- Date -->
         <td>Lec 7. Algorithmic Complexity<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 7)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/17P--TDoJn80diMZoS57hAumyHg8tCyQr?usp=sharing"><br/>
+            <a href="https://drive.google.com/drive/folders/17P--TDoJn80diMZoS57hAumyHg8tCyQr?usp=sharing"></a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617856">(Lecture Quiz 7)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -244,7 +244,7 @@
         <th>Thu 2/13</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 6. Algorithmic Complexity</a></td> <!-- Lab -->
-        <td><a href="">Disc 4. Algorithmic Complexity + Quest Practice</a></td> <!-- Discussion -->
+        <td><a href="/sp25/discussion">Disc 4. Algorithmic Complexity + Quest Practice</a></td> <!-- Discussion -->
         <td><a href="/sp25/readings">Reading: Week 4 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
