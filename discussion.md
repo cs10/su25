@@ -14,6 +14,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
 
 > Discussion worksheet handouts will be provided. Any extras will be left in Soda 411 if you need an additional copy.
 
+> Solutions can be found within the slides.
+
 > Please attend Victoria's Office Hours for any discussion related questions!
 
 <style>
@@ -60,16 +62,16 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Domain/Range, HOFs</td>
       <td><a href="https://docs.google.com/document/d/1XaLAI8CgUcwdsrcQWh9AEkAIbEdyltNy/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 3</a></td>
       <td><a href="">Solutions 3</a></td>
-      <td><a href="">Recording 3</a></td>
+      <td><a href="https://drive.google.com/file/d/1u0VXn_XlCbP1wML2nudVqEjl_MjQ89yQ/view?usp=sharing">Recording 3</a></td>
       <td><a href="https://docs.google.com/presentation/d/1LW8qZHRWfFmoJE4DXNNyDk8oADOAMuCIqKXjDAEuFQQ/edit?usp=sharing">Slides 3</a></td>
     </tr>
     <tr>
       <td>Week 4 Discussion</td>
-      <td>Algorithmic Complexity</td>
-      <td><a href="">Worksheet 4</a></td>
+      <td>Algorithmic Complexity + Quest Practice</td>
+      <td><a href="https://docs.google.com/document/d/1-WcgHsANvkhfudbthRkSGNeD1pS2dT5J/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 4</a></td>
       <td><a href="">Solutions 4</a></td>
       <td><a href="">Recording 4</a></td>
-      <td><a href="">Slides 4</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1ovIAvQxXf08XSgexq38GxO8CiFQd7InGi-mwpAVRxSg/edit?usp=sharing">Slides 4</a></td>
     </tr>
     <tr>
       <td>Week 5 Discussion</td>
