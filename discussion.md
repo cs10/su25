@@ -76,10 +76,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 5 Discussion</td>
       <td>Nested Lists + Recursion</td>
-      <td><a href="">Worksheet 5</a></td>
+      <td><a href="https://docs.google.com/document/d/1v8OZBdkVVU1LbgA93ujnE33O8xy4mG4Z/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 5</a></td>
       <td><a href="">Solutions 5</a></td>
       <td><a href="">Recording 5</a></td>
-      <td><a href="">Slides 5</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1xbSjnREbqJ8R4PomQEuEmZAwJSfaKAmtygc8AGRUbY0/edit?usp=sharing">Slides 5</a></td>
     </tr>
     <tr>
       <td>Week 6 Discussion</td>
