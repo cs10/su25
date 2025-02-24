@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week4">Jump to Current Week</a>
+    <a href="#week6">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -288,11 +288,10 @@
     </tr>
     <tr>
         <th>Wed 2/19</th> <!-- Date -->
-        <td>Lec 8. Recursion (Functional) <br/>
+        <td>Lec 8. Recursion I (Functional) <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 8)</a><br/>      
-            <a href="">(Slides 8)</a><br/>
-            <a href="">(Lecture Quiz 8)</a><br/>
-            <a href="">(L8: Recursion Code)</a>
+            <a href="https://drive.google.com/drive/folders/18BKNTqq61GtJZhpZWhwLBrU0U0SRNy5F?usp=drive_link">(Slides 8)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617860">(Lecture Quiz 8)</a><br/>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -336,13 +335,12 @@
         <th>Mon 2/24</th> <!-- Date -->
         <td>Lec 9. Recursion II (Fractals)<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 9)</a><br/>      
-            <a href="">(Slides 9)</a><br/>
-            <a href="">(Lecture Quiz 9)</a><br/>
-            <a href="">(L9: Recursion Code)</a>
+            <a href="https://drive.google.com/drive/folders/18bONLRF5EEmYAhfQ09DVNfFWj2eMCviF?usp=drive_link">(Slides 9)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617867">(Lecture Quiz 9)</a><br/>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="">Proj 2: Spelling Bee Due</a></td> <!-- Assignment / Exam -->
+        <td><a href="/sp25/_projects/project2">Proj 2: Spelling Bee Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 2/25</th> <!-- Date -->
@@ -355,9 +353,8 @@
         <th>Wed 2/26 </th> <!-- Date -->
         <td>Lec 10. Recursion III (Tree Recursion)<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 10)</a><br/>      
-            <a href="">(Slides 10)</a><br/>
-            <a href="">(Lecture Quiz 10)</a><br/>
-            <a href="">(L10: Recursion Code)</a>
+            <a href="https://drive.google.com/drive/folders/19c-KrhbkJV65yaP-g2sTsQVdF0jtDOmI?usp=drive_link">(Slides 10)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617873/">(Lecture Quiz 10)</a><br/>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -373,9 +370,8 @@
     <tr>
         <th>Fri 2/28</th> <!-- Date -->
         <td>Talk 6. Quest 2 Review<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 6)</a><br/>      
-            <a href="">(Slides: Talk 6)</a><br/>
-            <a href="">(Code: Talk 6)</a>
+            (No Recording)<br/>
+            (No Slides)
             </td>  <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
