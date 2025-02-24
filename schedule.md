@@ -364,7 +364,7 @@
         <th>Thu 2/27</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td><a href="/sp25/lab_directory">Lab 10. Recursive Reporters</a></td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 6. More Recursion!</a><br/>(online only)</td> <!-- Discussion -->
+        <td><a href="/sp25/discussion">Disc 6. More Recursion!</a></td> <!-- Discussion -->
         <td><a href="/sp25/readings">Reading: Week 6 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
