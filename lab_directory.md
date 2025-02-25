@@ -24,7 +24,7 @@ Lab Slides and Worksheets: [Folder](https://drive.google.com/drive/folders/1z651
 | [Lab 6. Algorithms](https://docs.google.com/document/d/1vBD-hA5BTbiBJIT-TstaM2wMu_bPbGt_XRrwTN-ZBWY/edit?tab=t.0)                            | THU 2/13                   |
 | [Lab 7. Algorithmic Complexity](https://docs.google.com/document/d/1_WPGfNILSyaQ7ZWyC7fnYg0eZsqcVCgecd_ppZ66HF4/edit?tab=t.0)               | TUE 2/18                   |
 | [Lab 8. Boards](https://docs.google.com/document/d/1HBaIfVG-E_DqzFi1ELJRuGj-4qlG_IyPHiTEEpNVKwk/edit?tab=t.0#heading=h.ew4i1encppj2)                               | TUE 2/25                   |
-| Lab 9. Trees + Recursion                     | THU 2/27                   |
+| [Lab 9. Trees + Recursion](https://docs.google.com/document/d/1_3KMAI3X7NQjgk9sa915RSrL8hryKjJVkGdhX1Bd6GE/edit?tab=t.0)                     | THU 2/27                   |
 | Lab 10. Linear Recursion                     | TUE 3/04                   |
 | Lab 11. Testing + Proj 3                     | THU 3/06                   |
 | Lab 12: HOFs and Functions as Data           | TUE 3/13                   |
