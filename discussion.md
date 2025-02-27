@@ -84,7 +84,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 6 Discussion</td>
       <td>More Recursion!</td>
-      <td><a href="">Worksheet 6</a></td>
+      <td><a href="https://docs.google.com/document/d/1tZpZwPyIhQjeS-yHn_0pV_Xk-vNRzlH9/edit">Worksheet 6</a></td>
       <td><a href="">Solutions 6</a></td>
       <td><a href="">Recording 6</a></td>
       <td><a href="">Slides 6</a></td>
