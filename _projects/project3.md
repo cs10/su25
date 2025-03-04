@@ -1,8 +1,8 @@
 ---
 title: Project 3
 description: 2048
-due: "11:59 PM PST on Thursday, 10/10"
-gradescope_assignment_id: 5082827
+due: "11:59 PM PST on Monday, 3/17"
+gradescope_assignment_id: 5617831
 submission_files:
     - starter.xml
 ---
@@ -19,29 +19,37 @@ submission_files:
 
 > Any important updates or clarifications will be made here:
 
->> Due Date Extended to Tuesday, 10/22
+>> Project 3 Party is TBD
 
->> Project 3 Party: Thursday, 10/10 from 5 - 7PM in Soda 326
-
->> Project 3 Party: Monday, 10/7 from 5 - 7PM in Moffit 145
-
->> [Guide](https://edstem.org/us/courses/63916/discussion/5443066) to help with Testing Blocks
 
 ## Content
 
-I. Introduction
-II. Helper Blocks  
-III. Suggestions  
-IV. Part 1: Populating the Board  
-V. Part 2: Rotating the Board  
-VI. Part 3: Merging  
-VII. Part 4: Ending the Game  
-VIII. Part 5: Tests  
-IX. Feedback Form  
-X. Grading
+I Preface
+II. Introduction
+III. Helper Blocks  
+IV. Suggestions  
+V. Part 1: Populating the Board  
+VI. Part 2: Rotating the Board  
+VII. Part 3: Merging  
+VIII. Part 4: Ending the Game  
+IX. Part 5: Tests  
+X. Feedback Form  
+XI. Grading
+
+## Preface
+## Expected Timeframes
+The expected timeframe for this project is about 20 hours, with a partner.
+- Read instructions - 1 hour
+- Part 1: "add 2 or 4 to _" Block - 2 hours
+- Part 2: "rotate _ clockwise" Block - 3 hours
+- Part 3.1: "merge up column _ of _" Block - 6 hours
+- Part 3.2: "merge up _" Block - 2 hours
+- Part 4: "no moves left for _ ?" Block - 5 hours
+- Part 5: "Tests" - 30 minutes
+- Feedback Form - 20 minutes
+
 
 ## Submission Guidelines
-
 Please submit on Gradescope using these submission instructions, and make sure to add your partner!
 
 ## Introduction
@@ -54,7 +62,7 @@ be reporters, and should not update the board display — that’s handled for y
 So **make sure not to mutate the original board.** Once you’ve completed those five block definitions,
 you won’t need to change anything else about the code; it should work!
 
-![Example of the 2048 game board](/fa24/assets/images/p3/p1.png)
+![Example of the 2048 game board](/sp25/assets/images/p3/p1.png)
 
 In a nutshell, the game works like this:
 
@@ -83,7 +91,7 @@ we won’t know when or how to help unless you let us know!
 
 ## Helper Blocks
 
-![Diagram of the rows and columns from the board](/fa24/assets/images/p3/p2.png)
+![Diagram of the rows and columns from the board](/sp25/assets/images/p3/p2.png)
 
 
 You will not need to know how we represent a board in this game — we have provided the following nine helper blocks for you to use to interface with our board implementation. *The Power of Abstraction!*  With this in mind, **please make sure not to modify the input board** in any of the blocks you write! In addition, **please use these blocks, rather than coming up with your own.** Also keep in mind that you generally want to abstract as much as possible, meaning you should not use global variables within blocks. We created all custom blocks (including the five you will fill out) so that any information you’ll need will be passed into the block as input.
@@ -161,22 +169,22 @@ Hint: We found the “cascade” block helpful…
 
 An important part of learning to program is being able to test your code effectively. We’ve taken the training wheels off; in earlier projects we gave you all the tests, here we ask you to create the tests yourself. In the TESTER sprite, you will see four blocks:
 
-![Test function examples](/fa24/assets/images/p3/p3.png)
+![Test function examples](/sp25/assets/images/p3/p3.png)
 
 You need to create at least two separate test cases for these four blocks, with their respective expected output. Please note, that the reporter test function requires the board to be wrapped in an additional list block. Once you are done with all your tests, to get credit from the autograder, you have to drag these four blocks into the four holes of the append block and then click that block to assign GRADED TESTS, which the Autograder will use to give you credit.
 
-![Graded tests variable](/fa24/assets/images/p3/p4.png)
+![Graded tests variable](/sp25/assets/images/p3/p4.png)
 
 Please note that your test cases should output True, not False. This is because the goal of testing is to check that your blocks work in normal cases as well as edge cases, not to check that it fails when expected. If your block outputs False, we assume this means your block does not pass the case and is therefore faulty. When writing test cases, each test should include input and output (follow the format in the Testing lab), and you should think about a genuine input for the block that would help you test if it accomplishes the task it should do, or catches some edgecase. For example, does the merge column up block work on a column with the values [0, 0, 2, 2]? If the merge column with this input correctly outputs [4, 0, 0, 0] in that column, the test block should output True.
 Check out these workbook pages which go deeper into the Test block and testing. Feel free to test your concepts in the 2048 lab section. Tests only present in your lab sprite will not be counted for project credit. The tests must be present in the “TESTER” section. 
 
 Here is guide and some examples of the testing block:
 
-![Testing Block Guide](/fa24/assets/images/p3/p5.png)
+![Testing Block Guide](/sp25/assets/images/p3/p5.png)
 
 ## Feedback Form
 
-Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/BANpvsmUKB5C7CZZ8). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Thank you!
+Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/q1KLqQf4UVCLqkkT7). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Each person in the group should submit the form to get full credit. Thank you!
 
 ## Grading
 
