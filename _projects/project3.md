@@ -24,20 +24,20 @@ submission_files:
 
 ## Content
 
-I Preface
-II. Introduction
-III. Helper Blocks  
-IV. Suggestions  
-V. Part 1: Populating the Board  
-VI. Part 2: Rotating the Board  
-VII. Part 3: Merging  
-VIII. Part 4: Ending the Game  
-IX. Part 5: Tests  
-X. Feedback Form  
-XI. Grading
+[I. Preface](#preface)
+[II. Introduction](#Introduction)
+[III. Helper Blocks](#Helper-Blocks)
+[IV. Suggestions](#Suggestions)
+[V. Part 1: Populating the Board](#part-1-populating-the-board)  
+[VI. Part 2: Rotating the Board](#part-2-rotating-the-board)  
+[VII. Part 3: Merging](#part-3-merging)  
+[VIII. Part 4: Ending the Game](#part-4-end-the-game)  
+[IX. Part 5: Tests](#part-5-tests)  
+[X. Feedback Form](#feedback-form)  
+[XI. Grading](#grading)
 
 ## Preface
-## Expected Timeframes
+### Expected Timeframes
 The expected timeframe for this project is about 20 hours, with a partner.
 - Read instructions - 1 hour
 - Part 1: "add 2 or 4 to _" Block - 2 hours
@@ -48,8 +48,7 @@ The expected timeframe for this project is about 20 hours, with a partner.
 - Part 5: "Tests" - 30 minutes
 - Feedback Form - 20 minutes
 
-
-## Submission Guidelines
+### Submission Guidelines
 Please submit on Gradescope using these submission instructions, and make sure to add your partner!
 
 ## Introduction
