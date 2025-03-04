@@ -9,10 +9,6 @@ submission_files:
 
 *Version 3.1. Last Updated: 2024-10-10.*
 
-*We highly recommend reading through this spec in its entirety before you begin.*
-
-*We also recommend you complete all labs up to and including Lab 8: Boards*
-
 *[Project walkthrough guide.pdf](https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing)*
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%203%3A%202048)
@@ -20,6 +16,10 @@ submission_files:
 > Any important updates or clarifications will be made here:
 
 >> Project 3 Party is TBD
+
+>> *We highly recommend reading through this spec in its entirety before you begin.*
+
+>> *We also recommend you complete all labs up to and including Lab 8: Boards*
 
 
 ## Content
