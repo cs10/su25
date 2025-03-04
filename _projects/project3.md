@@ -25,9 +25,13 @@ submission_files:
 ## Content
 
 [I. Preface](#preface)
+
 [II. Introduction](#Introduction)
+
 [III. Helper Blocks](#Helper-Blocks)
+
 [IV. Suggestions](#Suggestions)
+
 [V. Part 1: Populating the Board](#part-1-populating-the-board)  
 [VI. Part 2: Rotating the Board](#part-2-rotating-the-board)  
 [VII. Part 3: Merging](#part-3-merging)  
