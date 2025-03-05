@@ -400,8 +400,8 @@
         <th>Mon 3/03</th> <!-- Date -->
         <td>Lec 11. Testing, Debugging, 2048<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 11)</a><br/>      
-            <a href="">(Slides 11)</a><br/>
-            <a href="">(Lecture Quiz 11)</a>
+            <a href="https://drive.google.com/drive/folders/18yEkGK-VcIFr7TbU7UBuI3rVWesG3RHF?usp=sharing">(Slides 11)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617853">(Lecture Quiz 11)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -418,8 +418,8 @@
         <th>Wed 3/05 </th> <!-- Date -->
         <td>Lec 12. Higher-Order Functions <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 12)</a><br/>      
-            <a href="">(Slides 12)</a><br/>
-            <a href="">(Lecture Quiz 12)</a> </td> <!-- Lecture -->
+            <a href="https://drive.google.com/drive/folders/1AMW44fXA29PxS_4YJFMoCNRRaeS4VP5Y?usp=sharing">(Slides 12)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617883">(Lecture Quiz 12)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
