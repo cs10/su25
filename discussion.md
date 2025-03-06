@@ -91,11 +91,11 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 7 Discussion</td>
-      <td>HOFs, Lambdas, Debugging</td>
-      <td><a href="">Worksheet 7</a></td>
+      <td>HOFs, Rings, Debugging</td>
+      <td><a href="https://docs.google.com/document/d/13u4uzu4iNS2Fqh28u0jUoPuqdX8dd13N/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 7</a></td>
       <td><a href="">Solutions 7</a></td>
       <td><a href="">Recording 7</a></td>
-      <td><a href="">Slides 7</a></td>
+      <td><a href="https://docs.google.com/presentation/d/149qB7E2A32zKDlequaB46CZYYTzldnTKyTAYkRu7VGc/edit?usp=sharing">Slides 7</a></td>
     </tr>
     <tr>
       <td>Week 8 Discussion </td>
