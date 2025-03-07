@@ -369,7 +369,7 @@
     </tr>
     <tr>
         <th>Fri 2/28</th> <!-- Date -->
-        <td>Talk 6. Quest 2 Review<br/>
+        <td>Talk 6. Quest 2 Review - Guest <br/>
             (No Recording)<br/>
             (No Slides)
             </td>  <!-- Lecture -->
