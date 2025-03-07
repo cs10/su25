@@ -151,7 +151,7 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 3</td> <!-- Week Number -->
         <th>Mon 2/3</th> <!-- Date -->
-        <td>Lec 4. Iteration<br/>
+        <td>Lec 4. Iteration - Guest <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 4)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1urD0m6icMElXfZXn8RMqrFcPgrlS6F7W?usp=sharing">(Slides 4)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5711830">(Lecture Quiz 4)</a>
@@ -232,7 +232,7 @@
     </tr>
     <tr>
         <th>Wed 2/12 </th> <!-- Date -->
-        <td>Lec 7. Algorithmic Complexity<br/>
+        <td>Lec 7. Algorithmic Complexity - Guest <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 7)</a><br/>      
             <a href="https://drive.google.com/drive/folders/17P--TDoJn80diMZoS57hAumyHg8tCyQr?usp=sharing"></a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617856">(Lecture Quiz 7)</a></td> <!-- Lecture -->
@@ -351,7 +351,7 @@
     </tr>
     <tr>
         <th>Wed 2/26 </th> <!-- Date -->
-        <td>Lec 10. Recursion III (Tree Recursion)<br/>
+        <td>Lec 10. Recursion III (Tree Recursion) - Guest <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 10)</a><br/>      
             <a href="https://drive.google.com/drive/folders/19c-KrhbkJV65yaP-g2sTsQVdF0jtDOmI?usp=drive_link">(Slides 10)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617873/">(Lecture Quiz 10)</a><br/>
@@ -461,7 +461,7 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 8</td> <!-- Week Number -->
         <th>Mon 3/10</th> <!-- Date -->
-        <td>Lec 13. Dr. Kathy Yelick - Saving the World with Computing<br/>
+        <td>Lec 13. Dr. Kathy Yelick - Saving the World with Computing - Guest <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 13)</a><br/>      
             <a href="">(Slides 13)</a><br/>
             <a href="">(Lecture Quiz 13)</a></td> <!-- Lecture -->
@@ -705,7 +705,7 @@
     </tr>
     <tr>
         <th>Wed 4/9</th> <!-- Date -->
-        <td>Lec 20. Human-Computer Interaction (HCI)<br/>
+        <td>Lec 20. Human-Computer Interaction (HCI) - Guest <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 20)</a><br/>      
             <a href="">(Slides 20)</a><br/>
             <a href="">(Lecture Quiz 20)</a>
