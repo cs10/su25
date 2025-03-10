@@ -28,8 +28,8 @@ Lab Slides and Worksheets: [Folder](https://drive.google.com/drive/folders/1z651
 | [Lab 10. Recursive Reporters](https://docs.google.com/document/d/1-btXeE_tvxm0Qr8nM8d49dAXjr3NYKlSnDZJ0yoa5ns/edit?tab=t.0)                     | TUE 3/04                   |
 | [Lab 11. Testing + Proj 3](https://docs.google.com/document/d/13DT79qEEZGMqNQVSggPznzyxt5Xih79Ul_YlCfqwy-U/edit?tab=t.0)                     | THU 3/06                   |
 | [Lab 12: HOFs and Functions as Data](https://docs.google.com/document/d/1A3TMkxzEKlgz7y1sbfuaYBMfpXNtiKPArXnqdjjG0Rc/edit?tab=t.0#heading=h.ew4i1encppj2)           | TUE 3/13                   |
-| Practice Midterm: without Snap               | THU 3/13                   |
-| Practice Midterm: with Snap Fractal          | THU 3/13                   |
+| [Practice Midterm: without Snap](https://us.prairielearn.com/pl/course_instance/177790/assessment/2509379)               | THU 3/13                   |
+| [Practice Midterm: with Snap Fractal](https://us.prairielearn.com/pl/course_instance/177790/assessment/2509405)          | THU 3/13                   |
 | Lab 13: OOP in Snap!                          | TUE 4/01                   |
 | Lab 14: Welcome to Python                     | THU 4/03                   |
 | Lab 15: Data Structures                       | TUE 4/08                   |
