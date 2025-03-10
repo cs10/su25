@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week7">Jump to Current Week</a>
+    <a href="#week8">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -463,8 +463,8 @@
         <th>Mon 3/10</th> <!-- Date -->
         <td>Lec 13. Dr. Kathy Yelick - Saving the World with Computing - Guest <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 13)</a><br/>      
-            <a href="">(Slides 13)</a><br/>
-            <a href="">(Lecture Quiz 13)</a></td> <!-- Lecture -->
+            <a href="https://drive.google.com/drive/folders/1AuXXeLGO2mqvTBRcO7IKTbthOjtmz3j6?usp=drive_link">(Slides 13)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617872">(Lecture Quiz 13)</a></td> <!-- Lecture -->
         <td></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -480,8 +480,8 @@
         <th>Wed 3/12</th> <!-- Date -->
         <td>Lec 14. Computing in Education<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 14)</a><br/>      
-            <a href="">(Slides 14)</a><br/>
-            <a href="">(Lecture Quiz 14)</a></td> <!-- Lecture -->
+            <a href="https://drive.google.com/drive/folders/1BHmKClQCNFBnu_STNupfs-2NM5IflmUV?usp=drive_link">(Slides 14)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617851">(Lecture Quiz 14)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td><!-- Assignment / Exam -->
@@ -497,7 +497,7 @@
         <th>Fri 3/14</th> <!-- Date -->
         <td>Talk 8. Midterm Preview<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 8)</a><br/>      
-            <a href="">(Slides: Talk 8)</a></td> <!-- Lecture -->
+            (No Slides)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Midterm 1</td> <!-- Assignment / Exam -->
@@ -524,8 +524,8 @@
         <th>Mon 3/17</th> <!-- Date -->
         <td>Lec 15. Programming Paradigms<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 15)</a><br/>      
-            <a href="">(Slides 15)</a><br/>
-            <a href="">(Lecture Quiz 15)</a> </td> <!-- Lecture -->
+            <a href="https://drive.google.com/drive/folders/1BVJTok7gsWOMYMFbd3CoE4qxWbf6E_Bl?usp=drive_link">(Slides 15)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617885">(Lecture Quiz 15)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="/sp25/projects">Proj 3: 2048 Due</a> <br/><br/>
@@ -627,7 +627,7 @@
         <th>Mon 3/31</th> <!-- Date -->
         <td>Lec 17. Intro to Python<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 17)</a><br/>      
-            <a href="">(Slides 17)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1BvD717JsypWx8Pfx04C62yX2Ri8Vci39?usp=drive_link">(Slides 17)</a><br/>
             <a href="">(Lecture Quiz 17)</a></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -644,7 +644,7 @@
         <th>Wed 4/02</th> <!-- Date -->
         <td>Lec 18. Data Types & Structures in Python<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 18)</a><br/>      
-            <a href="">(Slides 18)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1CE7yfHAUxIW8lgLNP2JsDcCJSmukc7t5?usp=drive_link">(Slides 18)</a><br/>
             <a href="">(Lecture Quiz 18)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -690,7 +690,7 @@
         <th>Mon 4/7</th> <!-- Date -->
         <td>Lec 19. Concurrency<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 19)</a><br/>      
-            <a href="">(Slides 19)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1CZM__yjfKV2EQkSfYy2x57TexQjrFFNd?usp=drive_link">(Slides 19)</a><br/>
             <a href="">(Lecture Quiz 19)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -707,7 +707,7 @@
         <th>Wed 4/9</th> <!-- Date -->
         <td>Lec 20. Human-Computer Interaction (HCI) - Guest <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 20)</a><br/>      
-            <a href="">(Slides 20)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1CtyMZJ1gGxe-DT0S5bPRmh3nMGuFnvi0?usp=drive_link">(Slides 20)</a><br/>
             <a href="">(Lecture Quiz 20)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
@@ -756,7 +756,7 @@
         <th>Mon 4/14</th> <!-- Date -->
         <td>Lec 21. Generative AI<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 21)</a><br/>      
-            <a href="">(Slides 21)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1CgCOk_lcTJJnm68o5JpV6X5XtFfD7QlE?usp=drive_link">(Slides 21)</a><br/>
             <a href="">(Lecture Quiz 21)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -773,7 +773,7 @@
         <th>Wed 4/16</th> <!-- Date -->
         <td>Lec 22. Ethics in AI<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 22)</a><br/>      
-            <a href="">(Slides 22)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1D7WxDXfFJyWUMvxGY5mTqnwnkjXRIFT4?usp=drive_link">(Slides 22)</a><br/>
             <a href="">(Lecture Quiz 22)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -817,7 +817,7 @@
         <th>Mon 4/21</th> <!-- Date -->
         <td>Lec 23. Tree Recursion & Game Theory<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 25)</a><br/>      
-            <a href="">(Slides 25)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1DGJUQG823PQ6P1hUvGZ7K-IRJUqs8UIm?usp=drive_link">(Slides 25)</a><br/>
             <a href="">(Lecture Quiz 25)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -834,7 +834,7 @@
         <th>Wed 4/23</th> <!-- Date -->
         <td>Lec 24. OOP in Python<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 24)</a><br/>      
-            <a href="">(Slides 24)</a><br/>
+            <a href="https://drive.google.com/drive/folders/1DbB7rk-1K3Sp5xvETPoJDJC-lYnkpMbY?usp=drive_link">(Slides 24)</a><br/>
             <a href="">(Lecture Quiz 24)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
