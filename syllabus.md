@@ -184,7 +184,7 @@ If your percentage score on a latter exam is higher than your percentage score o
 | Projects                                      | 36.25%   |
 | Quest                                         | 6.25%    |
 | Midterm                                       | 12.5%    |
-| Final Exam                                    | 18.75%   |
+| Postterm                                      | 18.75%   |
 
 ### Specific Grading Breakdown — Points
 
