@@ -5,7 +5,9 @@ description: Logistics about resolving your Incomplete grade
 nav_order: 11
 ---
 
-# Resolving your Incomplete Grade
+# Resolving your Incomplete / Continuing Work Grade
+
+Here you will find logistics about resolving your grade, along with next steps and the forms needed to submit.
 
 ## What should I do first?
 
@@ -51,8 +53,7 @@ If your grade lapsed to an 'F' because we did not file the correct form, or ther
 
 If you are ready to receive your final letter grade, please reach out on EdStem. Note, we are only able to change your grade once, so please ensure that you know what the current grade is and are satisfied to move forward with it being resovled on CalCentral.
 
-# Continuing Work Students
+## Continuing Work Students
 
 Much of the process is the same as resolving an Incomplete. The other difference is that you do not need to request an Extension. Please follow all other steps though. 
-
 
