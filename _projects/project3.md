@@ -15,7 +15,7 @@ submission_files:
 
 > Any important announcements will be made here:
 
->> Project 3 Party is TBD
+>> Project 3 Party is Friday, 3/14 from 3 to 5PM in Soda 411
 
 >> *We highly recommend reading through this spec in its entirety before you begin.*
 
