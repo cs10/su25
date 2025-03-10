@@ -93,7 +93,7 @@ The artifact should adhere to the following guidelines:
 
 ### Content
 
-Your artifact should include details that express your technical topic in a creative and novel way.  To help you do so, your artifact should answer some (but need not answer all) of the following questions, but you must select questions from each category (define the purpose, positive and negative impacts, and technical elements):
+Your artifact should include details that express your technical topic in a creative and novel way. To help you do so, your artifact should answer some (but need not answer all) of the questions below. You must select at least two questions from each category (define the purpose, positive and negative impacts, and technical elements):
 
 - DEFINE THE PURPOSE:
     - What is the innovation you are focusing on? 
