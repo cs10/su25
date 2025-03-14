@@ -100,10 +100,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 8 Discussion </td>
       <td>Midterm Practice</td>
-      <td><a href="">Worksheet 8</a></td>
+      <td><a href="https://docs.google.com/document/d/1D9IXfUUF4fWB0yx8dP3m3K0nE0yFiPFd/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 8</a></td>
       <td><a href="">Solutions 8</a></td>
       <td><a href="">Recording 8</a></td>
-      <td><a href="">Slides 8</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1I43M77RnnZFXQohqYy1EPu4xWAi72KtJK0HOrXmd2jo/edit?usp=sharing">Slides 8</a></td>
     </tr>
      <tr>
       <td>Week 9 Discussion</td>
