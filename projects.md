@@ -49,7 +49,7 @@ nav_order: 6
     </tr>
         <tr>
       <td><a href="">Project 4: Presentations</a></td>
-      <td><a href=>-</a></td>
+      <td>-</td>
       <td>-</td>
       <td>Thursday, 4/03</td>
     </tr>
