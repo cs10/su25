@@ -64,6 +64,7 @@ We want this to be a fun and exciting project that allows you to pursue your int
 
 ## AI and Generative Tool Guidelines 
 
+- You must create the artifact yourself. The artifact cannot be AI generated.
 - You may only use AI tools for research, feedback, idea formation, captioning, and/or image generation to support your project.
 - Plagiarism, including uncredited AI-generated work, will not be tolerated.
 - All final work you submit must be your own creative work. AI should assist, but not replace, your creativity and effort.
@@ -93,7 +94,7 @@ The artifact should adhere to the following guidelines:
 
 ### Content
 
-Your artifact should include details that express your technical topic in a creative and novel way.  To help you do so, your artifact should answer some (but need not answer all) of the following questions, but you must select questions from each category (define the purpose, positive and negative impacts, and technical elements):
+Your artifact should include details that express your technical topic in a creative and novel way.  To help you do so, your artifact should answer some (but need not answer all) of the following questions, but you must select two questions to answer from each category (define the purpose, positive and negative impacts, and technical elements):
 
 - DEFINE THE PURPOSE:
     - What is the innovation you are focusing on? 
@@ -106,10 +107,12 @@ Your artifact should include details that express your technical topic in a crea
     - What has happened as a result of this innovation, intentional or unintentional? 
     - Are there any long-term or short-term concerns for this innovation? 
     - What major impact(s) has it contributed to in society, economics, or a particular culture or subculture?
+    - What kind of regulations are in place for the technology, and how do these regulations (or lack of regulations) affect the public and society?
 - TECHNICAL ELEMENTS: 
     - How might we understand this innovation? 
     - How does this innovation relate to other innovations? 
     - What algorithms are involved in this innovation?
+    - How is the data used and analyzed for this technology? 
 
 
 ### Project Documentation Guide (200-350* Words) 
@@ -132,6 +135,8 @@ Your artifact should include details that express your technical topic in a crea
     - Citations
         - Include proper in-text citations in MLA format for any sources used and a Works Cited page at the end
         - The Works Cited page does not contribute to your final word count
+        - You must include at least two citations.
+        - The citations must be from reputable journals or news outlets, or academic publications, books, or articles.
 
 
 ### Submission
@@ -149,7 +154,7 @@ Your artifact should include details that express your technical topic in a crea
 
 ## Part 2: Group Presentation + Peer Feedback
 
-For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session (Thursday 7-8 PM). This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
+For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session (Thursday 6-7 PM). This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
 
 The small group setting is intended to create a supportive environment where you can confidently showcase your creative medium, whether it be an artwork, sculpture, video, infographic, collage, or diorama. The goal of the presentations is not only to exhibit your work but to engage with your peers, offering insights into how your chosen medium effectively communicates the implications of your topic.
 
@@ -160,10 +165,11 @@ You will sign-up for a time and group (rec: 4-5) that best works for you. Sign u
 If you can not attend the allotted Discussion Time for any reason. You will have time in Makeup Office Hours to regain your points. Please, note we are only offering specific, limited times, and we will release more information later. Sign Ups will be released in the future. 
 
 
+
 ### Presentation Guidelines (7 minutes)
 
 - Signing up for a time
-    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet]()
+    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/13hr-Bd5E_xl70l_q3Taru-Hf0yps4w9byppIRZEPrzI/edit?usp=sharing)
     - Please note, you are expected to stay the full discussion hour
 - Artifact/Visual Aids
     - Present your physical project or digital archive
@@ -180,7 +186,13 @@ If you can not attend the allotted Discussion Time for any reason. You will have
     - Speak clearly, make eye contact, and engage your audience. 
     - Focus on key insights from your project and why it’s important, leaving details for the Q&A.
 - Grading
-    - Points are given from peers’ feedback form. You must collect each feedback form from the peers you presented in front of for credit. Failure to collect all responses will result in a 0.
+    - Points from peers’ feedback forms - You must collect each feedback form from the peers you presented in front of for credit. Failure to collect all responses will result in a 0.
+    - Points from staff members - Staff members will be grading your participation to ensure that you adhered to the following:
+        - Presents for at least six minutes.
+        - Facilitates and leads discussion/Q&A with peers
+        - Explains artifact’s purpose and impact   
+        - Provides thoughtful answers to at least 2 peer questions
+        - Asks a question (as an audience member) to each presenter in the group
 
 
 ### Q&A Discussion Guidelines (3 minutes)
@@ -194,6 +206,8 @@ Aim to facilitate dialogue by asking the audience or classmates for their though
 Conclude the Q&A with a brief summary of your project’s key points or takeaways based on the discussion. 
 
 ## Part 3: Peer Reflection/Comments
+
+You will be writing comments for two members of your group. These comments will be posted in EdStem Thread (which will be linked here later). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
 
 - Guidelines & Submission
     - Reflect on 2 of your classmates’ essays on Gradescope (Due: 4/11) .
@@ -209,7 +223,7 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 
 Congratulations on finishing your fourth project in CS10🥳
 
-Please spend some time completing this [feedback form](). This will be worth 1 point of your project grade. Thank you!
+Please spend some time completing this [feedback form](https://forms.gle/KxdNfQAbNpe7VX57A). This will be worth 1 point of your project grade. Thank you!
 
 ## Rubric & Grading
 
@@ -218,18 +232,20 @@ Project 4 will be graded for coherence and content based on the following rubric
 | **Part**                         | **Criteria**                                                | **Points** |
 |-----------------------------------|-------------------------------------------------------------|------------|
 | **Part 1: Artifact and Documentation (8 pts)** |                                                             |            |
-|                                   | Submission of Artifact in the correct format on Gradescope  | +0.5       |
 |                                   | Artifact is an acceptable medium to explore a single, tech-related topic. | +0.5       |
 |                                   | Artifact includes details that express technical topic of choice in a creative and novel way | +3.0       |
-|                                   | Documentation is between 200 and 350 words (450 hard max), and is clear and coherent | +0.5       |
-|                                   | Documentation explores the creative and research process on the Artifact | +1.5       |
-|                                   | Documentation highlights intended message of Artifact        | +1.5       |
-|                                   | All references are properly cited and submission follows style guide | +0.5       |
+|   | Documentation addresses at least two questions from “Define the Purpose” | +1.0 |
+|   | Documentation addresses at least two questions from “POSITIVE & NEGATIVE IMPACTS” | +1.0 |
+|   | Documentation addresses at least two questions from “TECHNICAL ELEMENTS” | +1.0 |
+|   | Documentation highlights intended message of Artifact        | +1.0   |
+|   | All references are properly cited and submission follows style guide | +0.5 |
+
 | **Part 2: Presentation (4 pts)** (Partially graded by peers) |                             |            |
-|                                   | Signs up and is present at the allotted time                | +1.0       |
+|                                   | Signs up and is present at the allotted time. Presents for at least six minutes      | +1.0       |
 |                                   | Explains artifact’s purpose and impact (Peer graded)         | +1.0       |
-|                                   | Facilitates and leads discussion/Q&A with peers (Peer graded) | +1.0       |
-|                                   | Provides thoughtful answers to at least 2 peer questions (Peer graded) | +1.0       |
+|                                   | Facilitates and leads discussion/Q&A with peers | +0.5       |
+|                                   | Provides thoughtful answers to at least 2 peer questions | +0.5       |
+|                                   | Asks a question (as an audience member) to each presenter in the group | +1.0 |
 | **Part 3: Peer Reflection (3 pts)** |                                                         |            |
 |                                   | Reflects on a student’s presentation (3-6 sentences). Comments are insightful and thoughtful         | +1.0       |
 |                                   | Reflects on a second student’s presentation (3-6 sentences). Comments are insightful and thoughtful  | +1.0       |
