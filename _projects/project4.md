@@ -149,7 +149,7 @@ Your artifact should include details that express your technical topic in a crea
 
 ## Part 2: Group Presentation + Peer Feedback
 
-For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session (Thursday 7-9 PM). This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
+For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session (Thursday 7-8 PM). This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
 
 The small group setting is intended to create a supportive environment where you can confidently showcase your creative medium, whether it be an artwork, sculpture, video, infographic, collage, or diorama. The goal of the presentations is not only to exhibit your work but to engage with your peers, offering insights into how your chosen medium effectively communicates the implications of your topic.
 
@@ -157,7 +157,7 @@ Presentations will be largely student led with AI/Tutor/TA supervision. You will
 
 You will sign-up for a time and group (rec: 4-5) that best works for you. Sign ups are filled on a first-come first-serve basis. 
 
-If you can not attend the allotted Discussion Time for any reason. You will have time in Makeup Office Hours to regain your points. Please, note we are only offering specific, limited times, and we will release more information later. Sign Ups will be released on Thursday, 10/17. 
+If you can not attend the allotted Discussion Time for any reason. You will have time in Makeup Office Hours to regain your points. Please, note we are only offering specific, limited times, and we will release more information later. Sign Ups will be released in the future. 
 
 
 ### Presentation Guidelines (7 minutes)
@@ -196,7 +196,7 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 ## Part 3: Peer Reflection/Comments
 
 - Guidelines & Submission
-    - Reflect on 2 of your classmates’ essays on Gradescope (Due: 10/23) .
+    - Reflect on 2 of your classmates’ essays on Gradescope (Due: 4/11) .
         - Your response should be a short reflection based on two presentations you participated in. 
         - You can write about something new you learned, something that stood out to you or you found surprising, or how the project relates to your prior knowledge about the subject, how the topic of the essay connects with your topic, etc.
         - Your comments should include at least one question about the topic.
@@ -209,7 +209,7 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 
 Congratulations on finishing your fourth project in CS10🥳
 
-Please spend some time completing this [feedback form](https://forms.gle/hPmggueTSx2EuiDq5). This will be worth 1 point of your project grade. Thank you!
+Please spend some time completing this [feedback form](). This will be worth 1 point of your project grade. Thank you!
 
 ## Rubric & Grading
 
