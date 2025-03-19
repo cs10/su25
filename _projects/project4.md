@@ -1,21 +1,21 @@
 ---
 title: Project 4
 description: Tech in Context
-due: "11:59 PM PST on Wednesday, 10/16"
-gradescope_assignment_id: 5139139
+due: "11:59 PM PDT on Tuesday, 4/1"
+gradescope_assignment_id: 
 submission_files:
     - N/A
 ---
 
-*Version 1.0. Last Updated: 2024-10-10.*
+*Version 1.0. Last Updated: 2025-3-18.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- [Artifact + Documentation](https://www.gradescope.com/courses/831412/assignments/5139139/) Due: **Thursday, 10/16 at 11:59 PM PT** on Gradescope
+- [Artifact + Documentation]() Due: **Tuesday, 4/1 at 11:59 PM PDT** on Gradescope
 
-- Presention on **Thursday, 10/17** during discussion.
+- Presention on **Thursday, 4/3** during discussion.
 
-- [Comments + Peer Feedback](https://www.gradescope.com/courses/831412/assignments/5139188/) Due: **Wednesday, 10/23 at 11:59 PM PT** on Gradescope
+- [Comments + Peer Feedback]() Due: **Friday, 4/11 at 11:59 PM PT** on Gradescope
 
 > Any important updates or clarifications will be made here.
 
@@ -58,9 +58,9 @@ We want this to be a fun and exciting project that allows you to pursue your int
 
 | Part  | Submission Method | Due Date |
 | :------------------------------: | :--------: | :-------------------: | 
-| Part 1: Artifact + Documentation | Gradescope | WED 10/16 AT 11:59 PM |
-| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | THURS 10/17 |
-| Part 3: Peer Reflection/Comment + Feedback | Gradescope | WED 10/23 11:59 PM |
+| Part 1: Artifact + Documentation | Gradescope | TUES 4/1 AT 11:59 PM |
+| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | THURS 4/3 |
+| Part 3: Peer Reflection/Comment + Feedback | Gradescope | FRI 4/11 11:59 PM |
 
 ## AI and Generative Tool Guidelines 
 
@@ -93,7 +93,7 @@ The artifact should adhere to the following guidelines:
 
 ### Content
 
-Your artifact should include details that express your technical topic in a creative and novel way. To help you do so, your artifact should answer some (but need not answer all) of the questions below. You must select at least two questions from each category (define the purpose, positive and negative impacts, and technical elements):
+Your artifact should include details that express your technical topic in a creative and novel way.  To help you do so, your artifact should answer some (but need not answer all) of the following questions, but you must select questions from each category (define the purpose, positive and negative impacts, and technical elements):
 
 - DEFINE THE PURPOSE:
     - What is the innovation you are focusing on? 
@@ -163,7 +163,7 @@ If you can not attend the allotted Discussion Time for any reason. You will have
 ### Presentation Guidelines (7 minutes)
 
 - Signing up for a time
-    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/1bDtOn49qoq-UXtEvn5_7DbgBgI5fOOiKo3iRFjW7gOo/edit?usp=sharing)
+    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet]()
     - Please note, you are expected to stay the full discussion hour
 - Artifact/Visual Aids
     - Present your physical project or digital archive
