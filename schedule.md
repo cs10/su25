@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week8">Jump to Current Week</a>
+    <a href="#week9">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -528,16 +528,14 @@
             <a href="https://www.gradescope.com/courses/957259/assignments/5617885">(Lecture Quiz 15)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects">Proj 3: 2048 Due</a> <br/><br/>
-            <a href="/sp25/projects">Proj 4: Tech in Context Released</a> <br/> (Due 3/31) 
-            </td> <!-- Assignment / Exam -->
+        <td><a href="/sp25/projects">Proj 3: 2048 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 3/18</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td>Catchup Session<br/>(no attendance required)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td><!-- Assignment / Exam -->
+        <td><a href="/sp25/projects">Proj 4: Tech in Context Released</a> <br/> (Due 3/31) </td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 3/19</th> <!-- Date -->
