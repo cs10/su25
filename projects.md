@@ -43,13 +43,13 @@ nav_order: 6
     </tr>
     <tr>
       <td><a href="/sp25/projects/project4">Project 4: Tech in Context</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projectst</a></td>
       <td>Tuesday, 3/18</td>
       <td>Tuesday, 4/1</td>
     </tr>
         <tr>
       <td><a href="">Project 4: Presentations</a></td>
-      <td><a href="">Example Presentation</a></td>
+      <td><a href=>-</a></td>
       <td>-</td>
       <td>Thursday, 4/03</td>
     </tr>
