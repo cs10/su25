@@ -5,7 +5,7 @@ description: A list of all Project specifications and walkthroughs
 nav_order: 6
 ---
 
-# Projects (Under Construction)
+# Projects
 
 > This page will be updated with CS10's project specifications / guidelines (specs) and walkthroughs. Recordings, if avaiable, will also be updated here. 
 
