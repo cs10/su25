@@ -91,7 +91,6 @@ The artifact should adhere to the following guidelines:
     - For in-text citations, reference the author and page number in parentheses, e.g., “Technology is cool” (AuthorLastName 40)
 - Credit any and all images used in your project
 
-
 ### Content
 
 Your artifact should include details that express your technical topic in a creative and novel way.  To help you do so, your artifact should answer some (but need not answer all) of the following questions, but you must select two questions to answer from each category (define the purpose, positive and negative impacts, and technical elements):
@@ -114,6 +113,7 @@ Your artifact should include details that express your technical topic in a crea
     - What algorithms are involved in this innovation?
     - How is the data used and analyzed for this technology? 
 
+> You can see (examples here)[https://drive.google.com/drive/folders/1UUBa6o1IGNu2VKBAQQS14p2CDwHezNkM?usp=drive_link]
 
 ### Project Documentation Guide (200-350* Words) 
 
@@ -138,6 +138,7 @@ Your artifact should include details that express your technical topic in a crea
         - You must include at least two citations.
         - The citations must be from reputable journals or news outlets, or academic publications, books, or articles.
 
+> You can see (documentation examples here)[https://drive.google.com/drive/folders/1RDKTu829FXAnCasOGihAe-r5zEgY8QiN]
 
 ### Submission
 
