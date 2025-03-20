@@ -108,10 +108,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
      <tr>
       <td>Week 9 Discussion</td>
       <td>OOP, Clones, Events</td>
-      <td><a href="">Worksheet 9</a></td>
+      <td><a href="https://docs.google.com/document/d/1wEHLzcK4gUhcPd5ILaLEg8RPs8OXZT3E/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 9</a></td>
       <td><a href="">Solutions 9</a></td>
       <td><a href="">Recording 9</a></td>
-      <td><a href="">Slides 9</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1GHmzEf9VRkYVUA5D-_IZC4YJmClDxjCN0t-Mq01s-xw/edit?usp=sharing">Slides 9</a></td>
     </tr>
     <tr>
     <td>Week 11 Discussion</td>
