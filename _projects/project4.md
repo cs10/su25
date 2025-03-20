@@ -113,7 +113,7 @@ Your artifact should include details that express your technical topic in a crea
     - What algorithms are involved in this innovation?
     - How is the data used and analyzed for this technology? 
 
-> You can see [artifact examples here[(https://drive.google.com/drive/folders/1UUBa6o1IGNu2VKBAQQS14p2CDwHezNkM?usp=drive_link)
+> You can see [artifact examples here](https://drive.google.com/drive/folders/1UUBa6o1IGNu2VKBAQQS14p2CDwHezNkM?usp=drive_link)
 
 ### Project Documentation Guide (200-350* Words) 
 
