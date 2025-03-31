@@ -660,8 +660,8 @@
     <tr>
         <th>Fri 4/04</th> <!-- Date -->
         <td>Talk 11: Midterm 2 Review<br/>
-            (No Recording)</a><br/>      
-            (No Slides)</a> </td> <!-- Lecture -->
+            (No Recording)<br/>      
+            (No Slides)</td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Midterm 3</td> <!-- Assignment / Exam -->
