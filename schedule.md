@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week9">Jump to Current Week</a>
+    <a href="#week11">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -541,8 +541,8 @@
         <th>Wed 3/19</th> <!-- Date -->
         <td>Lec 16. OOP in Snap!<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 16)</a> <br/>      
-            <a href="">(Slides 16)</a> <br/>
-            <a href="">(Lecture Quiz 16)</a>
+            <a href="https://drive.google.com/drive/folders/1BtiGKY4zm31czgSZoDIwqvBUtz-2Krbc?usp=drive_link">(Slides 16)</a> <br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/6015646">(Lecture Quiz 16)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -626,7 +626,7 @@
         <td>Lec 17. Intro to Python<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 17)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1BvD717JsypWx8Pfx04C62yX2Ri8Vci39?usp=drive_link">(Slides 17)</a><br/>
-            <a href="">(Lecture Quiz 17)</a></td><!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617882">(Lecture Quiz 17)</a></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="/sp25/projects">Proj 4: Tech in Context Due</a></td> <!-- Assignment / Exam -->
@@ -643,7 +643,7 @@
         <td>Lec 18. Data Types & Structures in Python<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 18)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1CE7yfHAUxIW8lgLNP2JsDcCJSmukc7t5?usp=drive_link">(Slides 18)</a><br/>
-            <a href="">(Lecture Quiz 18)</a>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617891">(Lecture Quiz 18)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -689,7 +689,7 @@
         <td>Lec 19. Concurrency<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 19)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1CZM__yjfKV2EQkSfYy2x57TexQjrFFNd?usp=drive_link">(Slides 19)</a><br/>
-            <a href="">(Lecture Quiz 19)</a></td> <!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617920/">(Lecture Quiz 19)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="/sp25/projects">Proj 6: Final Project Proposals Due</a></td><!-- Assignment / Exam -->
@@ -706,7 +706,7 @@
         <td>Lec 20. Shm Almeda: Human-Computer Interaction (HCI) - Guest Lecture <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 20)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1CtyMZJ1gGxe-DT0S5bPRmh3nMGuFnvi0?usp=drive_link">(Slides 20)</a><br/>
-            <a href="">(Lecture Quiz 20)</a>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617929/">(Lecture Quiz 20)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -755,7 +755,7 @@
         <td>Lec 21. Generative AI<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 21)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1CgCOk_lcTJJnm68o5JpV6X5XtFfD7QlE?usp=drive_link">(Slides 21)</a><br/>
-            <a href="">(Lecture Quiz 21)</a> </td> <!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617830/">(Lecture Quiz 21)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -772,7 +772,7 @@
         <td>Lec 22. Ethics in AI<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 22)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1D7WxDXfFJyWUMvxGY5mTqnwnkjXRIFT4?usp=drive_link">(Slides 22)</a><br/>
-            <a href="">(Lecture Quiz 22)</a> </td> <!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617926">(Lecture Quiz 22)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
@@ -816,7 +816,7 @@
         <td>Lec 23. Tree Recursion & Game Theory<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 25)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1DGJUQG823PQ6P1hUvGZ7K-IRJUqs8UIm?usp=drive_link">(Slides 25)</a><br/>
-            <a href="">(Lecture Quiz 25)</a> </td> <!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617899">(Lecture Quiz 25)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
