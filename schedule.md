@@ -640,7 +640,7 @@
     </tr>
     <tr>
         <th>Wed 4/02</th> <!-- Date -->
-        <td>Lec 18. Data Types & Structures in Python<br/>
+        <td>Lec 18. Victoria Phelps - Data Types & Structures in Python (Guest Lecture)<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 18)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1CE7yfHAUxIW8lgLNP2JsDcCJSmukc7t5?usp=drive_link">(Slides 18)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617891">(Lecture Quiz 18)</a>
@@ -686,7 +686,7 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 12</td> <!-- Week Number -->
         <th>Mon 4/7</th> <!-- Date -->
-        <td>Lec 19. Concurrency<br/>
+        <td>Lec 19. Victoria Phelps - Concurrency (Guest Lecture) <br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 19)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1CZM__yjfKV2EQkSfYy2x57TexQjrFFNd?usp=drive_link">(Slides 19)</a><br/>
             <a href="https://www.gradescope.com/courses/957259/assignments/5617920/">(Lecture Quiz 19)</a></td> <!-- Lecture -->
