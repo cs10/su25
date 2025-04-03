@@ -47,20 +47,20 @@ nav_order: 6
       <td>Tuesday, 3/18</td>
       <td>Tuesday, 4/1</td>
     </tr>
-        <tr>
-      <td><a href="">Project 4: Presentations</a></td>
+    <tr>
+      <td>>Project 4: Presentations</td>
       <td>-</td>
       <td>-</td>
       <td>Thursday, 4/03</td>
     </tr>
-        <tr>
-      <td><a href="">Project 4: Feedback + Comments</a></td>
+    <tr>
+      <td>Project 4: Feedback + Comments</td>
       <td><a href="">Example Feedback + Comments</a></td>
       <td>-</td>
       <td>Friday, 4/11</td>
     </tr>
     <tr>
-      <td><a href="">Project 6: Proposals</a></td>
+      <td><a href="/sp25/projects/project4">Project 6: Proposals</a></td>
       <td>-</td>
       <td>Wednesday, 4/02</td>
       <td>Monday, 4/07</td>

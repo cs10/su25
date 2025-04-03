@@ -1,20 +1,21 @@
 ---
-title: Project 6
+title: Project 5
 description: Final Project Proposals
-due: "11:59 PM PST on Wednesday, 10/30"
-gradescope_assignment_id: 5222027
+due: "11:59 PM PST on Monday, 4/7"
+gradescope_assignment_id: 5617918
 submission_files:
     - N/A
 ---
 
-*Version 1.0. Last Updated: 2024-10-25.*
+*Version 1.1. Last Updated: 2025-04-02.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 - Meeting with a Staff Member
     - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
-        - Click here for the [link to sign up](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1wfS7Mu8x1sQTGPGoJaw56hHplSBvKqfuYn10=)
-    - Meetings will run a specific times during Week 11 (November 4th through November 11th)
+        - Click here for the [link to sign up](https://calendar.app.google/Ba7tMu12rEPyrAveA)
+    - Meetings will run a specific times during Week 12 (April 7th through April 11th)
+    - As of 4/2, there are only a limited number of spots, but we will add more.
 
 ## Content
 
@@ -34,7 +35,7 @@ submission_files:
 
 ## Important logistics
 
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 11 in Soda 326. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1wfS7Mu8x1sQTGPGoJaw56hHplSBvKqfuYn10=).
+- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 11 in Soda 326. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/Ba7tMu12rEPyrAveA).
 - You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
 - The deadline for this proposal part of the project is Wednesday, 10/30 at 11:59pm PST. Please ensure that you submit your proposal before the deadline. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
 - Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
@@ -55,9 +56,10 @@ If your project idea relies heavily on the following, we recommend you consider 
 - Mainly being a guess-and-check game: This is generally considered too easy since it consists primarily of a - series of if-then-else statements. A number guessing game, for example, would not be complex enough. This might be a good mini-game in a bigger project.
 - Data entry: Alone, this might be considered too simple. Often, projects that rely on data entry get ‘bigger’ by having a bigger database. A fix for this would be having the data component be just one part of a bigger project. 
 - Robot/AI player: Depending on the game, this could be a good fit, or too complex. An AI player for chess or Go would be too complex. 
-- Games like Pong, Tic-Tac-Toe, Guess the word, or Hangman would likely not be complex enough and are NOT ALLOWED.
+- Games like Pong, Tic-Tac-Toe, Guess the word, Hangman, dress-up games, point and click games would not be complex enough and are NOT ALLOWED.
 - Games like Angry Birds, Balloons Tower Defense, or Need for Speed would likely be too complex. 
 - Games previously implemented in Projects are not allowed (because you’ve already done them).
+- Use of generative AI is NOT allowed.
 
 Don’t be worried if you really like a project idea but think it may be too complex, or not complex enough — that’s the purpose of having a proposal and proposal review process, so you can work with a TA to get your project complexity into the right range! 
 
@@ -114,7 +116,9 @@ On top of the technical requirement your project must have required features. He
     - Examples:
         - Merge sort algorithm
         - Determining whether a game is over condition
+            - If your future is a game over condition, then you CANNOT use the "is touching" block in Snap!
         - Determining whether a move is valid
+        - Determining and displaying the top three (or some number) of high scores
 - Extensive use of libraries (in either Python or Snap!)
     - Must use at least three different functions for the library imported
     - Or three different libraries imported, and one function each is used. 
@@ -124,6 +128,8 @@ On top of the technical requirement your project must have required features. He
     - Helper functions
     - Inputs/Outputs and Response/Prompt
         - Example: Games that simply ask a user for a response/prompt to input
+    - Broadcasting messages
+    - Pointing and clicking
 
 ## Proposal Contents 
 

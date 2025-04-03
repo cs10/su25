@@ -1,13 +1,13 @@
 ---
-title: Project 6 
+title: Project 5
 description: Final Project - The Project 
-due: "11:59 PM PST on Friday, 12/06"
-gradescope_assignment_id:  
+due: "11:59 PM PST on Monday, 5/05"
+gradescope_assignment_id: 5617938
 submission_files:
     - N/A
 ---
 
-*Version 1.0. Last Updated: 2024-11-05.*
+*Version 1.0. Last Updated: 2025-04-02.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
@@ -18,9 +18,9 @@ submission_files:
 >>README / documentation on your project
 >>Video of your group interacting with your project
 
->Project 6 Parties (both during lab from 5 to 9PM in Moffit-145)
->>Monday, November 25th
->>Monday, December 2nd
+>Project 6 Parties (both during lab from 3 to 5PM in The Woz)
+>>Tuesday, 4/29 
+>>Thursday, 5/1 
 
 ## Content
 
@@ -45,16 +45,16 @@ submission_files:
 
 ## Recommended Timeline
 - The dates listed below are the suggest timeline for completion of each component of the final project.
--  This timeline asumes that you have completed both the proposal review and Project 5: Pyturis by Wed 11/13.
+-  This timeline asumes that you have completed the proposal review
     - It is recommended that you start working on your project as soon as your proposal is approved. 
 
 | Group w/ 2 Features | Group w/ 3 Features |
 | :--------: | :-------: |
-| Feature 1: 11/17  |Feature 1: 11/14   |
-| Feature 2: 11/28  | Feature 2: 11/21   |
-| Full Project Submission Ready: 12/4  | Feature 3:11/28  |
-| README and Submission: By 12/6  | Full Project Submission Ready: 12/4   |
-|   | README and Submission: By 12/6   |
+| Feature 1: 4/18  |Feature 1: 4/16   |
+| Feature 2: 4/25  | Feature 2: 4/23  |
+| Full Project Submission Ready: 5/2  | Feature 3: 4/28  |
+| README and Submission: By 5/5  | Full Project Submission Ready: 5/2   |
+|   | README and Submission: By 5/5   |
 
 
 ## Introduction
