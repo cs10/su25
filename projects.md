@@ -48,7 +48,7 @@ nav_order: 6
       <td>Tuesday, 4/1</td>
     </tr>
     <tr>
-      <td>>Project 4: Presentations</td>
+      <td>Project 4: Presentations</td>
       <td>-</td>
       <td>-</td>
       <td>Thursday, 4/03</td>
@@ -60,19 +60,19 @@ nav_order: 6
       <td>Friday, 4/11</td>
     </tr>
     <tr>
-      <td><a href="/sp25/projects/project4">Project 6: Proposals</a></td>
+      <td><a href="/sp25/projects/project6-proposals">Project 5: Proposals</a></td>
       <td>-</td>
       <td>Wednesday, 4/02</td>
       <td>Monday, 4/07</td>
     </tr>
     <tr>
-      <td><a href="">Project 6: Proposal Meetings</a></td>
+      <td>Project 6: Proposal Meetings</td>
       <td>-</td>
       <td>Tuesday, 4/08</td>
       <td>Thursday, 4/10</td>
     </tr>
     <tr>
-      <td><a href="">Project 6: Final Project</a></td>
+      <td><a href="/sp25/projects/project6">Project 6: Final Project</a></td>
       <td>-</td>
       <td>Tuesday, 4/08 (earliest)<br/>Only start once your project has been approved</td>
       <td>Monday, 5/05</td>

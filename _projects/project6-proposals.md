@@ -14,7 +14,7 @@ submission_files:
 - Meeting with a Staff Member
     - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
         - Click here for the [link to sign up](https://calendar.app.google/Ba7tMu12rEPyrAveA)
-    - Meetings will run a specific times during Week 12 (April 7th through April 11th)
+    - Meetings will run a specific times during Week 12 (April 8th through April 11th)
     - As of 4/2, there are only a limited number of spots, but we will add more.
 
 ## Content
