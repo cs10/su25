@@ -31,7 +31,7 @@ Lab Slides and Worksheets: [Folder](https://drive.google.com/drive/folders/1z651
 | [Practice Midterm: without Snap](https://us.prairielearn.com/pl/course_instance/177790/assessment/2509379)               | THU 3/13                   |
 | [Practice Midterm: with Snap Fractal](https://us.prairielearn.com/pl/course_instance/177790/assessment/2509405)          | THU 3/13                   |
 | [Lab 13: OOP in Snap!](https://docs.google.com/document/d/18OMc8HFIkOR8OigJdIvrlA96PIGkPdeVruULt_Wp6kk/edit?tab=t.0)                          | TUE 4/01                   |
-| Lab 14: Welcome to Python                     | THU 4/03                   |
+| [Lab 14: Welcome to Python](https://docs.google.com/document/d/1lbhe0cc_rlM90a5W_d2HTXUrC4Gyrh50B4QJk6h---o/edit?tab=t.0#heading=h.ew4i1encppj2)                     | THU 4/03                   |
 | Lab 15: Data Structures                       | TUE 4/08                   |
 | Lab 16: Concurrency and Parallelism           | THU 4/10                   |
 | Practice Postterm: without Snap!/Python       | TUE 4/15                   |
