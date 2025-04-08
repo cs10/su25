@@ -208,7 +208,7 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 
 ## Part 3: Peer Reflection/Comments
 
-You will be writing comments for two members of your group. These comments will be posted in EdStem Thread (which will be linked here later). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
+You will be writing comments for two members of your group. These comments will be posted in [EdStem Thread](https://edstem.org/us/courses/74174/discussion/6495748). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
 
 - Guidelines & Submission
     - Reflect on 2 of your classmates’ essays on Gradescope (Due: 4/11) .
@@ -247,8 +247,8 @@ Project 4 will be graded for coherence and content based on the following rubric
 |                                   | Facilitates and leads discussion/Q&A with peers | +0.5       |
 |                                   | Provides thoughtful answers to at least 2 peer questions | +0.5       |
 |                                   | Asks a question (as an audience member) to each presenter in the group | +1.0 |
-| **Part 3: Peer Reflection (3 pts)** |                                                         |            |
-|                                   | Reflects on a student’s presentation (3-6 sentences). Comments are insightful and thoughtful         | +1.0       |
-|                                   | Reflects on a second student’s presentation (3-6 sentences). Comments are insightful and thoughtful  | +1.0       |
+| **Part 3: Peer Reflection / Comments (3 pts)** |                                                         |            |
+|                                   | Reflects on a student’s presentation (3-6 sentences). Comments are insightful and thoughtful         | +1.5       |
+|                                   | Reflects on a second student’s presentation (3-6 sentences). Comments are insightful and thoughtful  | +1.5       |
 | **Feedback Form (1 pt)**           |                                                         |            |
 |                                   | Complete the feedback form                                   | +1.0       |
