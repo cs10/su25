@@ -13,7 +13,7 @@ submission_files:
 
 - Meeting with a Staff Member
     - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
-        - Click here for the [link to sign up]([https://calendar.app.google/Ba7tMu12rEPyrAveA](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0M3BGVDzXUJGQox-ll8mEjEBmU4JymKJZHZ4q6seI3ckVv2QVW0uvaZcyuL-BKH_Jk9xUVfP3W))
+        - Click here for the [link to sign up](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2gYOJsSLRS97v-zbASRViZIUo_fKvMB9qPQEQ=)
     - Meetings will run a specific times during Week 12 (April 8th through April 11th)
     - As of 4/2, there are only a limited number of spots, but we will add more.
 
@@ -35,7 +35,7 @@ submission_files:
 
 ## Important logistics
 
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 11 in Soda 326. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/Ba7tMu12rEPyrAveA).
+- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 11 in Soda 326. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2gYOJsSLRS97v-zbASRViZIUo_fKvMB9qPQEQ=).
 - You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
 - The deadline for this proposal part of the project is Wednesday, 10/30 at 11:59pm PST. Please ensure that you submit your proposal before the deadline. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
 - Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
