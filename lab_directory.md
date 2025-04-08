@@ -33,7 +33,7 @@ Lab Slides and Worksheets: [Folder](https://drive.google.com/drive/folders/1z651
 | [Lab 13: OOP in Snap!](https://docs.google.com/document/d/18OMc8HFIkOR8OigJdIvrlA96PIGkPdeVruULt_Wp6kk/edit?tab=t.0)                          | TUE 4/01                   |
 | [Lab 14: Welcome to Python](https://docs.google.com/document/d/1lbhe0cc_rlM90a5W_d2HTXUrC4Gyrh50B4QJk6h---o/edit?tab=t.0#heading=h.ew4i1encppj2)                     | THU 4/03                   |
 | [Lab 15: Data Structures](https://docs.google.com/document/d/1ST2xCSM4uPI_7m9NT_iyLvwXngTuR9geQf5YzYWy_vA/edit?tab=t.0#heading=h.ew4i1encppj2)                       | TUE 4/08                   |
-| Lab 16: Concurrency and Parallelism           | THU 4/10                   |
+| [Lab 16: Concurrency and Parallelism](https://cs10.org/bjc-r/cur/programming/concurrency/snap/snap-machine-concepts.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment)           | THU 4/10                   |
 | Practice Postterm: without Snap!/Python       | TUE 4/15                   |
 | Practice Postterm: with Snap!/Python          | THU 4/17                   |
 | Lab 17: Text Processing                       | THU 4/17                   |
