@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week11">Jump to Current Week</a>
+    <a href="#week12">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -833,7 +833,7 @@
         <td>Lec 24. OOP in Python<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 24)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1DbB7rk-1K3Sp5xvETPoJDJC-lYnkpMbY?usp=drive_link">(Slides 24)</a><br/>
-            <a href="">(Lecture Quiz 24)</a> </td> <!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617905">(Lecture Quiz 24)</a> </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -877,7 +877,7 @@
         <td>Lec 25. Alumni Panel<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 25)</a><br/>      
             <a href="">(Slides 25)</a><br/>
-            <a href="">(Lecture Quiz 25)</a></td> <!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617930">(Lecture Quiz 25)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
@@ -894,7 +894,7 @@
         <td>Lec 27. Conclusion + Farewell<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 27)</a><br/>      
             <a href="">(Slides 27)</a><br/>
-            <a href="">(Lecture Quiz 27)</a></td> <!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617931">(Lecture Quiz 27)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
