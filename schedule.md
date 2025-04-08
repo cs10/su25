@@ -697,7 +697,7 @@
     <tr>
         <th>Tue 4/8</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Lab 16. Concurrency + Parallelism</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Lab 16. Concurrency + Parallelism and Posterm Practice Non-Coding</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Final Project Proposal Meetings</td><!-- Assignment / Exam -->
     </tr>
@@ -715,7 +715,7 @@
     <tr>
         <th>Thu 4/10</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td><a href="/sp25/lab_directory">Practice Postterm (coding and non-coding)</a></td> <!-- Lab -->
+        <td><a href="/sp25/lab_directory">Practice Postterm (coding)</a></td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 12: Data Structures in Python</a></td> <!-- Discussion -->
         <td>Final Project Proposal Meetings<br/>
             <a href="/sp25/readings">Reading: Week 12 Due</a></td> <!-- Assignment / Exam -->
