@@ -116,7 +116,6 @@ On top of the technical requirement your project must have required features. He
     - Examples:
         - Merge sort algorithm
         - Determining whether a game is over condition
-            - If your future is a game over condition, then you CANNOT use the "is touching" block in Snap!
         - Determining whether a move is valid
         - Determining and displaying the top three (or some number) of high scores
 - Extensive use of libraries (in either Python or Snap!)
