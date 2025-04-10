@@ -60,21 +60,21 @@ Readings will be discussed and due at the beginning of Discussion section every 
 - Required:
   - [Why Python is a Great First Language](https://blog.trinket.io/why-python/)
 
-**Week 10 Reading**{: .label .label-reading }
+**Week 12 Reading**{: .label .label-reading }
 
 - Required:
   - [StarCraft II-playing AI AlphaStar takes out pros undefeated](https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/)
 
-**Week 11 Reading**{: .label .label-reading }
+**Week 13 Reading**{: .label .label-reading }
 
 - Required:
   - [What is Data Science?](https://www.thinkful.com/blog/what-is-data-science/)
   - [How to Start Thinking Like a Data Scientist](https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist)
   - [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
 
-**Week 12 Reading**{: .label .label-reading }
+**Week 14 Reading**{: .label .label-reading }
 
-  - Optional: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
+  - Required: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
 
 <!--
 **Week 5 Reading**{: .label .label-reading }
