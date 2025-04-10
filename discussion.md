@@ -115,15 +115,15 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
     <td>Week 11 Discussion</td>
-      <td>Data Structures in Python</td>
-      <td><a href="">Worksheet 11</a></td>
-      <td><a href="">Solutions 11</a></td>
-      <td><a href="">Recording 11</a></td>
-      <td><a href="">Slides 11</a></td>
+      <td>Project 4 Presentations</td>
+      <td>No Worksheet</td>
+      <td>No Solutions</td>
+      <td>No Recording</td>
+      <td>No Slides</td>
     </tr>
     <tr>
     <td>Week 12 Discussion</td>
-      <td>Concurrency + Postterm Practice</td>
+      <td>Data Structures in Python</td>
      <td><a href="">Worksheet 12</a></td>
       <td><a href="">Solutions 12</a></td>
       <td><a href="">Recording 12</a></td>
@@ -131,7 +131,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
     <td>Week 13 Discussion</td>
-      <td>Concurrency + Python HOFs</td>
+      <td>Concurrency + Postterm Practice</td>
       <td><a href="">Worksheet 13</a></td>
       <td><a href="">Solutions 13</a></td>
       <td><a href="">Recording 13</a></td>
