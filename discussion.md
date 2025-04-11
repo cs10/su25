@@ -124,10 +124,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
     <td>Week 12 Discussion</td>
       <td>Data Structures in Python</td>
-     <td><a href="">Worksheet 12</a></td>
+     <td><a href="https://docs.google.com/document/d/1XEQ_jNvb733_Wyw5rCyA0n3DUXwAApZQ/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 12</a></td>
       <td><a href="">Solutions 12</a></td>
       <td><a href="">Recording 12</a></td>
-      <td><a href="">Slides 12</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1trRK1h2cHtBc-P7mYE7H2ausribYl0k5yDdCWCrItmg/edit?usp=sharing">Slides 12</a></td>
     </tr>
     <tr>
     <td>Week 13 Discussion</td>
