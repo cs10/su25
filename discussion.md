@@ -86,7 +86,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>More Recursion!</td>
       <td><a href="https://docs.google.com/document/d/1tZpZwPyIhQjeS-yHn_0pV_Xk-vNRzlH9/edit">Worksheet 6</a></td>
       <td><a href="">Solutions 6</a></td>
-      <td><a href="">No Recording 6</a></td>
+      <td>No Recording 6</td>
       <td><a href="https://docs.google.com/presentation/d/1IWQugmARJde4mJ7U_-9hrAuq792clhW7KBVRKt4djpg/edit#slide=id.p">Slides 6</a></td>
     </tr>
     <tr>
