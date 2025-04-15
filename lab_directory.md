@@ -35,8 +35,8 @@ Lab Slides and Worksheets: [Folder](https://drive.google.com/drive/folders/1z651
 | [Lab 15: Data Structures](https://docs.google.com/document/d/1ST2xCSM4uPI_7m9NT_iyLvwXngTuR9geQf5YzYWy_vA/edit?tab=t.0#heading=h.ew4i1encppj2)                       | TUE 4/08                   |
 | [Lab 16: Concurrency and Parallelism](https://cs10.org/bjc-r/cur/programming/concurrency/snap/snap-machine-concepts.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment)           | THU 4/10                   |
 | [Practice Postterm: without Snap!/Python](https://us.prairielearn.com/pl/course_instance/177790/instructor/assessment/2509388/)       | TUE 4/10                   |
-| [Practice Postterm: with Snap!/Python](https://us.prairielearn.com/pl/course_instance/177790/instructor/assessment/2509389/)          | THU 4/15                   |
-| Lab 17: Text Processing                       | THU 4/17                   |
+| [Practice Postterm: with Snap!/Python](https://us.prairielearn.com/pl/course_instance/177790/instructor/assessment/2509389/)          | TUE 4/15                   |
+| [Lab 17: Text Processing](https://docs.google.com/document/d/1-QROXwE247RlwVTqflFcanSEAMLYhnY6Ysf2MZvfLUA/edit?tab=t.0)                       | THU 4/17                   |
 | Lab 18: Data Science                          | TUE 4/22                   |
 
 
