@@ -54,6 +54,11 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 
 ## Primary Course Components
 
+Here is a visualization that summarizes the components of the course, and which platform to use to submit work.
+
+![](sp25/assets/images/general/course1.png)
+![](sp25/assets/images/general/course2.png)
+
 
 ### Lecture 
 

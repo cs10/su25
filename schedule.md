@@ -703,10 +703,10 @@
     </tr>
     <tr>
         <th>Wed 4/9</th> <!-- Date -->
-        <td>Lec 20. Shm Almeda: Human-Computer Interaction (HCI) - Guest Lecture <br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 20)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1CtyMZJ1gGxe-DT0S5bPRmh3nMGuFnvi0?usp=drive_link">(Slides 20)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617929/">(Lecture Quiz 20)</a>
+        <td>Lec 20. Generative AI<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 21)</a><br/>      
+            <a href="https://drive.google.com/drive/folders/1CgCOk_lcTJJnm68o5JpV6X5XtFfD7QlE?usp=drive_link">(Slides 21)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617830/">(Lecture Quiz 21)</a> </td> <!-- Lecture -->
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -752,10 +752,12 @@
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 13</td> <!-- Week Number -->
         <th>Mon 4/14</th> <!-- Date -->
-        <td>Lec 21. Generative AI<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 21)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1CgCOk_lcTJJnm68o5JpV6X5XtFfD7QlE?usp=drive_link">(Slides 21)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617830/">(Lecture Quiz 21)</a> </td> <!-- Lecture -->
+        <td>Lec 21. Shm Almeda: Human-Computer Interaction (HCI) - Guest Lecture <br/>
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 20)</a><br/>      
+            <a href="https://drive.google.com/drive/folders/1CtyMZJ1gGxe-DT0S5bPRmh3nMGuFnvi0?usp=drive_link">(Slides 20)</a><br/>
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617929/">(Lecture Quiz 20)</a>
+            </td> <!-- Lecture -->
+        <td></td> <!-- Lab -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
