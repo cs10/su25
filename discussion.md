@@ -132,10 +132,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
     <td>Week 13 Discussion</td>
       <td>Concurrency + Postterm Practice</td>
-      <td><a href="">Worksheet 13</a></td>
+      <td><a href="https://docs.google.com/document/d/1d6GNGGC0m6ONPN4zNmjXm20dCDw6MLqj/edit?usp=drive_link&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 13</a></td>
       <td><a href="">Solutions 13</a></td>
       <td><a href="">Recording 13</a></td>
-      <td><a href="">Slides 13</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1_vudIQLZSGVlxs5QZ8WYWVy0Ccpltofouy6T4UYg4yk/edit?usp=drive_link">Slides 13</a></td>
     </tr>
     <tr>
     <td>Week Discussion 14</td>
