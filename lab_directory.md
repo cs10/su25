@@ -38,8 +38,8 @@ Lab Slides and Worksheets: [Folder](https://drive.google.com/drive/folders/1z651
 | [Practice Postterm: with Snap!/Python](https://us.prairielearn.com/pl/course_instance/177790/instructor/assessment/2509389/)          | TUE 4/15                   |
 | [Lab 17: Text Processing](https://docs.google.com/document/d/1-QROXwE247RlwVTqflFcanSEAMLYhnY6Ysf2MZvfLUA/edit?tab=t.0)                       | THU 4/17                   |
 | [Lab 18: Data Science](https://docs.google.com/document/d/1dAiLwS48YmlgGpUUNhgyq9oW5oj9hcXHnqp-7-4TYH8/edit?tab=t.0#heading=h.tfllvyhixsuc)                          | TUE 4/22                   |
-| [Optional Lab 1: Linear Recursion in Python]()                       | THU 4/17                   |
-| [Optional Lab 2: Object Oriented Programming]()                          | TUE 4/22                   |
+| Optional Lab 1: Linear Recursion in Python                      | NONE                   |
+| Optional Lab 2: Object Oriented Programming                       | NONE           |
 
 
 
