@@ -140,10 +140,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
     <td>Week Discussion 14</td>
       <td>Postterm Practice (Tentative)</td>
-      <td><a href="">Worksheet 14</a></td>
+      <td><a href="https://docs.google.com/document/d/1yP9OYjgHTo4rTRva5f7bDcf3DX5s-9YG/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 14</a></td>
       <td><a href="">Solutions 14</a></td>
       <td><a href="">Recording 14</a></td>
-      <td><a href="">Slides 14</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1OpLKm3qLQJ-kyvgFOTdMP89XMhUClEMD5kUoA8RY4WA/edit?usp=sharing">Slides 14</a></td>
     </tr>
     <tr>
     <td>Week Discussion 15</td>
