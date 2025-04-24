@@ -706,7 +706,7 @@
         <td>Lec 20. Generative AI<br/>
             <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording 21)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1CgCOk_lcTJJnm68o5JpV6X5XtFfD7QlE?usp=drive_link">(Slides 21)</a><br/>
-            <a href="https://www.gradescope.com/courses/957259/assignments/5617830/">(Lecture Quiz 21)</a> </td> <!-- Lecture -->
+            <a href="https://www.gradescope.com/courses/957259/assignments/5617830/">(Lecture Quiz 21)</a></td> <!-- Lecture -->
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
@@ -723,10 +723,7 @@
     <tr>
         <th>Fri 4/11</th> <!-- Date -->
         <td>Talk 12. Python Live Coding<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 12)</a><br/>      
-            <a href="">(Slides: Talk 12)</a><br/>
-            <a href="">(Code Demo: Talk 12)</a>
-            </td> <!-- Lecture -->
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 12)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Proj 4: Feedback + Comments Due<br/>
@@ -758,7 +755,6 @@
             <a href="https://www.gradescope.com/courses/957259/assignments/5617929/">(Lecture Quiz 20)</a>
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
@@ -789,8 +785,7 @@
     <tr>
         <th>Fri 4/18</th> <!-- Date -->
         <td>Talk 13. Postterm Preview<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 13)</a><br/>      
-            <a href="">(Slides: Talk 13)</a> </td> <!-- Lecture -->
+            <a href="https://bcourses.berkeley.edu/courses/1542284/external_tools/90481">(Recording: Talk 13)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td>Postterm 1</td> <!-- Assignment / Exam -->
