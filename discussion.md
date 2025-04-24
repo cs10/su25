@@ -139,7 +139,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
     <td>Week Discussion 14</td>
-      <td>Postterm Practice (Tentative)</td>
+      <td>Social Implications of AI</td>
       <td><a href="https://docs.google.com/document/d/1yP9OYjgHTo4rTRva5f7bDcf3DX5s-9YG/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 14</a></td>
       <td><a href="">Solutions 14</a></td>
       <td><a href="">Recording 14</a></td>
