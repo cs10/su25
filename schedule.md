@@ -839,7 +839,7 @@
         <th>Thu 4/24</th> <!-- Date -->
         <td></td> <!-- Lecture -->
         <td>Postterm Practice<br/>(no attendance required)</td> <!-- Lab -->
-        <td><a href="/sp25/discussion">Disc 14. Postterm Practice</a></td> <!-- Discussion -->
+        <td><a href="/sp25/discussion">Disc 14. Social Implications of AI</a></td> <!-- Discussion -->
         <td><a href="/sp25/readings">Reading: Week 14 Due</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
