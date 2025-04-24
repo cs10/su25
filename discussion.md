@@ -138,7 +138,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://docs.google.com/presentation/d/1_vudIQLZSGVlxs5QZ8WYWVy0Ccpltofouy6T4UYg4yk/edit?usp=drive_link">Slides 13</a></td>
     </tr>
     <tr>
-    <td>Week Discussion 14</td>
+    <td>Week 14 Discussion</td>
       <td>Social Implications of AI</td>
       <td><a href="https://docs.google.com/document/d/1yP9OYjgHTo4rTRva5f7bDcf3DX5s-9YG/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Worksheet 14</a></td>
       <td><a href="">Solutions 14</a></td>
@@ -146,7 +146,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td><a href="https://docs.google.com/presentation/d/1OpLKm3qLQJ-kyvgFOTdMP89XMhUClEMD5kUoA8RY4WA/edit?usp=sharing">Slides 14</a></td>
     </tr>
     <tr>
-    <td>Week Discussion 15</td>
+    <td>Week 15 Discussion</td>
       <td>Conceptual Review + Ask Me Anything</td>
       <td><a href="">Worksheet 15</a></td>
       <td><a href="">Solutions 15</a></td>
