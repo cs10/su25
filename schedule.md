@@ -647,7 +647,7 @@
             </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects">Proj 6: Final Project Proposals Released</a> <br/> (Due 4/7) </td> <!-- Assignments -->
+        <td><a href="/sp25/projects">Proj 5: Final Project Proposals Released</a> <br/> (Due 4/7) </td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 4/03</th> <!-- Date -->
@@ -692,7 +692,7 @@
             <a href="https://www.gradescope.com/courses/957259/assignments/5617920/">(Lecture Quiz 19)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/sp25/projects">Proj 6: Final Project Proposals Due</a></td><!-- Assignment / Exam -->
+        <td><a href="/sp25/projects">Proj 5: Final Project Proposals Due</a></td><!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 4/8</th> <!-- Date -->
@@ -882,7 +882,7 @@
     <tr>
         <th>Tue 4/29</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td>Project 6 Party <br/>(no attendance required)</td> <!-- Lab -->
+        <td>Project 5 Party <br/>(no attendance required)</td> <!-- Lab -->
         <td></td><!-- Discussion -->
         <td></td><!-- Assignment / Exam -->
     </tr>
@@ -899,7 +899,7 @@
     <tr>
         <th>Thu 5/1</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td>Project 6 Party <br/>(no attendance required)</td> <!-- Lab -->
+        <td>Project 5 Party <br/>(no attendance required)</td> <!-- Lab -->
         <td><a href="/sp25/discussion">Disc 15: Conceptual Review + Ask Me Anything</a></td> <!-- Discussion -->
         <td><a href="/sp25/readings">Reading: Week 15 Due</a></td> <!-- Assignment / Exam -->
     </tr>
@@ -933,7 +933,7 @@
         <td class="schedule-week-num" rowspan=5>Week 16</td> <!-- Week Number -->
         <th>Mon 5/5</th> <!-- Date -->
         <td colspan="3">NO CLASS (RRR Week)</td>
-        <td>Proj 6: Final Project Due</td> <!-- Assignment / Exam -->
+        <td>Proj 5: Final Project Due</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 5/6</th> <!-- Date -->
