@@ -66,13 +66,13 @@ nav_order: 6
       <td>Monday, 4/07</td>
     </tr>
     <tr>
-      <td>Project 6: Proposal Meetings</td>
+      <td>Project 5: Proposal Meetings</td>
       <td>-</td>
       <td>Tuesday, 4/08</td>
       <td>Thursday, 4/10</td>
     </tr>
     <tr>
-      <td><a href="/sp25/projects/project6-project">Project 6: Final Project</a></td>
+      <td><a href="/sp25/projects/project6-project">Project 5: Final Project</a></td>
       <td>-</td>
       <td>Tuesday, 4/08 (earliest)<br/>Only start once your project has been approved</td>
       <td>Monday, 5/05</td>
