@@ -37,8 +37,7 @@ Below, you can find various resources to help with your understanding of the mat
 
 ## Project Walkthroughs and Hint Videos
 
-* [Project 1: Matching Slots](https://drive.google.com/file/d/1cGPSgDZz56jPghbzh2wnFYYCdw55ms8I/view?usp=sharing)
-* [Project 3: Algorithms](https://www.youtube.com/playlist?list=PL34ReHGfKCa93yNL1WZacxM3nG8zJndfQ)
+Project Walkthrough Videos will be linked here
 
 ## Past Exams
 
