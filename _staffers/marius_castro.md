@@ -1,6 +1,6 @@
 ---
 name: Marius Castro
-role: Teaching Assistant
+role: Head Teaching Assistant
 
 pronouns: he/him
 photo: marius_castro.jpeg
