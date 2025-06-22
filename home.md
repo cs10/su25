@@ -16,11 +16,24 @@ UC Berkeley, Summer 2025
 
 {{ site.description }}
 
-**Instructor:** <a href="">Jedi Tsang</a><br/>
-**Instructor's OH:** TBD <br/>
-**Lectures:**  Monday, Tuesday, Wednesday, Thursday 4-5 PM @  [Genetics & Plant Bio, Room 100](https://maps.app.goo.gl/xoMobDDNmXBST1Gy8) <br/>
-**Labs:**  Mon-Thurs 10-12P M or 12-2 PM @ Soda Hall, Room 330 <br/>
-**Discussion:**  Tues, Thurs 6-7 or 7-8 PM @ Soda Hall, Room 320 <br/>
+**Instructor:** [Jedi Tsang](#)  
+**Office Hours:** TBD  
+
+**Lecture:**  
+- **Days:** Monday–Thursday  
+- **Time:** 4:00–5:00 PM  
+- **Location:** [Genetics & Plant Biology, Room 100](https://maps.app.goo.gl/xoMobDDNmXBST1Gy8)
+
+**Lab Sections:**  
+- **Days:** Monday–Thursday  
+- **Times:** 10:00 AM–12:00 PM *or* 12:00–2:00 PM  
+- **Location:** Soda Hall, Room 330
+
+**Discussion Sections:**  
+- **Days:** Tuesday & Thursday  
+- **Times:** 6:00–7:00 PM *or* 7:00–8:00 PM
+- **Location:** Soda Hall, Room 320
+
 
 <br/>
 
