@@ -8,11 +8,11 @@ nav_order: 8
 
 Supplementary Lab Slides can be found in this [folder]()
 
-> Labs are an opportunity for you to apply what you've learned in lecture in code (and other forms). Labs have a conceptual and a coding component. Labs assignments must be uploaded and autograded using Gradescope. There are also practice exams that will count towards your lab grade (the Practice Midterm and the Practice Postterm). You will need to take both the coding and non-coding portions to receive credit. Credit for the practice exams is based on completion only not the score you received on the practice exam. 
+>Labs are an opportunity to apply what you’ve learned in lecture through coding and other formats. Each lab includes both conceptual and coding components. Lab assignments must be uploaded and autograded on Gradescope. Practice exams—specifically the Practice Midterm and the Practice Postterm—also count toward your lab grade. To receive credit, you must complete both the coding and non-coding portions. Credit for these practice exams is based on completion, not your score.
 
-> The worksheeks linked below are high-level overviews and can be seen as a set of instructions for  lab. Each worksheet lists all the required blocks, functions, or tasks for a particular lab. The worksheets also contain some of the test cases used to grade the lab.
+>The labs linked below provide high-level overviews and serve as instructions for each lab. They list all required blocks, functions, and tasks, and include some of the test cases used for grading.
 
-> The workbook, which differs from the worksheet, is used as a step-by-step guide to complete each lab. Lab worksheets will be released at 5:00 PM on the lab day. 
+> The workbook, which is part of our website (and distinct from the lab instructions), can be used as a step-by-step guide to complete each lab. Labs will be released at 10:00 AM on the day they are scheduled.
 
 | Labs                                       | Submission Deadline       |
 | :----:                                     | :----:                     |
@@ -30,16 +30,16 @@ Supplementary Lab Slides can be found in this [folder]()
 | Lab 11: Data Science | WED 7/16 |
 | Practice Midterm: without Snap | TBD |
 | Practice Midterm: with Snap | TBD |
-| Lab: Python Set Up | WED 7/22 |
-| Lab: Welcome to Python! | WED 7/23 |
-| Lab: Lists and Mutability | THU 7/24 |
-| Lab: Data Structures | MON 7/28 |
-| Lab: Text Processing | TUE 7/29 |
-| Lab: Object Oriented Programming | WED 7/30 |
-| Lab: Python Recursion | THU 7/31 |
+| Lab 12: Python Set Up | WED 7/22 Nothing to submit|
+| Lab 13: Welcome to Python! | WED 7/23 |
+| Lab 14: Lists and Mutability | THU 7/24 |
+| Lab 15: Data Structures | MON 7/28 |
+| Lab 16: Text Processing | TUE 7/29 |
+| Lab 17: Object Oriented Programming | WED 7/30 |
+| Lab 18: Python Recursion | THU 7/31 |
 | Practice Postterm  | TBD |
-| Lab: Tree Recursion | TUE 8/5 |
-| Lab: Concurrency | WED 8/6 |
+| Lab 19: Tree Recursion | TUE 8/5 |
+| Lab 20: Concurrency | WED 8/6 |
 
 
 
