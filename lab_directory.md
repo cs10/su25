@@ -20,8 +20,8 @@ Supplementary Lab Slides can be found in this [folder]()
 | Lab 1: Build your Own Blocks                    | THU 6/26 |
 | Lab 2: Conditionals, Reporters, Testing         | MON 6/30 |
 | Lab 3: Lists and Loops (Iteration)        | TUE 7/01 |
-| Lab 4: Lists + HoFs       | TUE 7/02 |
-| Lab 5: HoFs and Functions as Data      | MON 7/07 |
+| Lab 4: Lists + HoFs       |WED 7/02 |
+| Lab 5: HoFs and Functions as Data      | THU 7/03 |
 | Lab 6: Boards     | TUE 7/08 |
 | Lab 7: Recursive Reports (Linear Recursion)     | WED 7/09 |
 | Lab 8: Trees & Fractals  | THU 7/10 |
@@ -30,7 +30,7 @@ Supplementary Lab Slides can be found in this [folder]()
 | Lab 11: Data Science | WED 7/16 |
 | Practice Midterm: without Snap | TBD |
 | Practice Midterm: with Snap | TBD |
-| Lab 12: Python Set Up | WED 7/22 Nothing to submit|
+| Lab 12: Python Set Up | TUE 7/22 Nothing to submit|
 | Lab 13: Welcome to Python! | WED 7/23 |
 | Lab 14: Lists and Mutability | THU 7/24 |
 | Lab 15: Data Structures | MON 7/28 |
