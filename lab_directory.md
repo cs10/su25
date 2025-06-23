@@ -18,7 +18,7 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | :----:                                     | :----:                     |
 | [Lab 0: Welcome to Snap!]()                    | WED 6/25 Nothing to submit |
 | Lab 1: Build your Own Blocks                    | THU 6/26 |
-| Lab 2: Conditionals, Reporters, Testing         | MON 6/30 |
+| Lab 2: Conditionals, Reporters & Abstraction   | MON 6/30 |
 | Lab 3: Lists and Loops (Iteration)        | TUE 7/01 |
 | Lab 4: Lists + HoFs       |WED 7/02 |
 | Lab 5: HoFs and Functions as Data      | THU 7/03 |
