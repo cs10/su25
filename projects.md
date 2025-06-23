@@ -24,26 +24,26 @@ nav_order: 6
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://cs10.org/fa24/projects/project1/">Project 1: Wordle™-lite</a></td>
-      <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td>
+      <td><a href="">Project 1: Wordle™-lite</a></td>
+      <td><a href="">Proj 1 Walkthrough Slides</a></td>
       <td>Monday, 1/27</td>
       <td>Wednesday, 2/05</td>
     </tr>
     <tr>
-      <td><a href="https://cs10.org/sp25/projects/project2/">Project 2: Spelling Bee</a></td>
-      <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td>
+      <td><a href="">Project 2: Spelling Bee</a></td>
+      <td><a href="">Proj 2 Walkthrough Slides</a></td>
       <td>Monday, 2/10</td>
       <td>Monday, 2/24</td>
     </tr>
      <tr>
-      <td><a href="/sp25/projects/project3">Project 3: 2048</a></td>
-      <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td>
+      <td><a href="">Project 3: 2048</a></td>
+      <td><a href="">Proj 3 Walkthrough Slides</a></td>
       <td>Monday, 3/03</td>
       <td>Monday, 3/17</td>
     </tr>
     <tr>
-      <td><a href="/sp25/projects/project4">Project 4: Tech in Context</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td>
+      <td><a href="">Project 4: Tech in Context</a></td>
+      <td><a href="">Example Projects</a></td>
       <td>Tuesday, 3/18</td>
       <td>Tuesday, 4/1</td>
     </tr>
@@ -60,7 +60,7 @@ nav_order: 6
       <td>Friday, 4/11</td>
     </tr>
     <tr>
-      <td><a href="/sp25/projects/project6-proposals">Project 5: Proposals</a></td>
+      <td><a href="">Project 5: Proposals</a></td>
       <td>-</td>
       <td>Wednesday, 4/02</td>
       <td>Monday, 4/07</td>
@@ -72,7 +72,7 @@ nav_order: 6
       <td>Thursday, 4/10</td>
     </tr>
     <tr>
-      <td><a href="/sp25/projects/project6-project">Project 5: Final Project</a></td>
+      <td><a href="">Project 5: Final Project</a></td>
       <td>-</td>
       <td>Tuesday, 4/08 (earliest)<br/>Only start once your project has been approved</td>
       <td>Monday, 5/05</td>
