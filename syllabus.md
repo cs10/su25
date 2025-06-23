@@ -41,13 +41,8 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/su25/schedule/) to find the times/locations for all synchronous course engagements.
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](https://edstem.org/us/courses/79923/discussion)
-* **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/1057248).
+* **Gradescope**: This is where you will submit Labs, Discussions, and Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/1057248).
 * **Bcourses**: Lecture recordings can be found on [the Bcourses site](https://bcourses.berkeley.edu/courses/1545431), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
-<!-- * **IClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should signup with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this the following links:
-    -  [Lecture iClcker](https://join.iclicker.com/NATV).
-    -  [Discussion iClicker](https://join.iclicker.com/DSRE)
-    -  [Lab iClicker](https://join.iclicker.com/TOXH) -->
-<!-- * **PrairieLearn**: This is the platform you will use to take exams (Quest, Midterm, and Postterm) -->
 * **Snap!**: The programming language we will be using for more than half the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/)
 <!-- * **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign-in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website. -->
 
@@ -62,7 +57,7 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 
 ### Lecture 
 
-Lectures will be live and in-person in GPBB 100 Monday through Thursday from 4:00 - 5:00 PM. They will be recorded, and recordings will be posted on Bcourses (see `platforms` section). 
+Lectures will be live and in-person in [GPBB 100](https://www.google.com/maps?rlz=1C5CHFA_enUS954US954&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyMGowajeoAgCwAgA&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KcUcHpogfIWAMVSVWZ-nteEI&daddr=Genetics+%26+Plant+Biology,+Berkeley,+CA+94720) Monday through Thursday from 4:00 - 5:00 PM. They will be recorded, and recordings will be posted on Bcourses (see `platforms` section). 
 
 Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. 
 
@@ -79,11 +74,11 @@ Labs will be held synchronously and are the primary place you will learn to prog
 
 Lab assignments will be submitted to Gradescope. There will be two assignments for each lab (unless specified): one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections, TAs and Tutors will be available to help you with the problems.
 
-Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Thursday, then Lab-12 will be due at midnight on Thursday. There will be 19 graded labs (there's no submission or credit for lab-0 and this includes the two practice exams you must complete), and your lowest 2 lab scores will be dropped.
+Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Thursday, then Lab-12 will be due at midnight on Thursday. There will be ~24 graded labs (there's no submission or credit for lab-0 and this includes the two practice exams you must complete), and your lowest 2 lab scores will be dropped.
 
 <b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 3 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 3 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 3 "skip days" for lab sections only applies to attendance (although you do have 2 drops). You are still required to complete and submit the lab assignment. Lab attendance will be tracked through Google Forms.
 
-If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot regularly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Tuesday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Tuesday at 3PM (the time before the lab section).
+If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot regularly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Tuesday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Tuesday at 10 AM or 12 PM (the time before the lab section).
 
 ### Discussion Sections
 
@@ -97,23 +92,20 @@ From experience, we've observed that students who regularly attend and pay atten
 
 There will be three kinds of OH, described bellow. The times and locations for all OH are all posted under the 'daily schedule' tab on the course website. You <b>don't</b> need to email / obtain an appointment. You can attend any and all OH that work for you (i.e. you don't just have to attend your TA's OH.)
 
-
 #### General OH
 
-General OH is intended for any course and content related questions. Here, you can get help with your code, debugging, understanding something conceptually, getting started on assignments, etc. General OH will be located in Soda-326
+General OH is intended for any course and content related questions. Here, you can get help with your code, debugging, understanding something conceptually, getting started on assignments, etc. General OH will be located in **TBD**.
 
 #### Support OH 
 
-These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH.
+These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH. Please check out [this calendar](https://calendar.google.com/calendar/embed?src=c_94c8bd6e6c4ddbca139c743e3cdf7c27d6da5a7f3ae8452d9452d4e6ca72ea88%40group.calendar.google.com&ctz=America%2FLos_Angeles) for locations and times. 
 
 #### Instructor OH 
 
 Jedi will be hosting Instructor OH (5 to 6 PM on Tuesday, Wednesday, and Thursday), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
 
 ### Projects 
-
 These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the course.
-
 
 - There will be 3 Snap<em>!</em> projects, 1 research-based project, and 1 project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
 
@@ -132,7 +124,10 @@ These assignments will be one of the best ways for you to apply what you have le
 
 **All deadlines are at 11:59PM.**
 
-* **Project Parties**: These will serve as specialized OH wherein you'll be able to work with your peers <b>(within the limits of our collaboration policies)</b> and seek assistance from course-staff on whatever project is currently assigned. We strongly encourage you to attend project parties as they will help you finish your assignments on time. Project Parties will typically take place during scheduled Lab Times or special Office Hours. Dates and locations will be listed on the daily schedule and announced in the weekly blast.
+**Project Parties**: These are specialized office hours where you can collaborate with your peers (within the limits of our policies) and get help from course staff on projects. We strongly encourage you to attend, as Project Parties are a great way to stay on track and complete your assignments on time.
+
+Project Parties will typically be held every Monday from 6–8 PM and Friday from 10 AM–12 PM, unless otherwise noted. Dates and locations will be posted on the daily schedule and announced in the weekly blast.
+
 
 ## Exams
 
@@ -211,10 +206,9 @@ Your total points will be rounded to the nearest integer when we compute letter 
 
 ## Extension Requests
 
-For all extension requests on any assignment, please use the [Extension Request Form](https://forms.gle/sBiw8meKvvjMX9px5).
+For all extension requests on any assignment, please use the [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfEcpevvJRSTWw69FjaZtKUSPCjbcScPWUI_kIoNVqbbrCQqA/viewform?usp=dialog).
 
-You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs, as noted above, is the day that the next lab is scheduled, at 2359 hrs; for projects, it's 72h after the original deadline.
-
+You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs, as noted above, is the day that the next lab is scheduled, at 2359 hrs; for projects, it's 48h after the original deadline.
 
 <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b>
 
@@ -234,7 +228,7 @@ The policy for project extension requests on projects are as follows:
 
 ### Discussion Worksheet Extensions
 
-- An extension request will automatically extend your discussion worksheet submission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on 1/30, it is now due on 2/06. 
+- An extension request will automatically extend your discussion worksheet submission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on THU 6/26, it is now due on 7/01. 
 
 
 ## Lateness Penalties
