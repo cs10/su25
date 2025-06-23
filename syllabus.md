@@ -230,7 +230,7 @@ We understand that circumstances may arise that may cause you to not be able to 
 
 The policy for project extension requests on projects are as follows:
 
-- An extension request will automatically extend your project submission deadline by 72 hours without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
+- An extension request will automatically extend your project submission deadline by 48 hours without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
 
 ### Discussion Worksheet Extensions
 
