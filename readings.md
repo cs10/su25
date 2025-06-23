@@ -8,9 +8,9 @@ nav_order: 9
 
 # Readings
 
-Readings will be discussed and due at the beginning of Discussion section every Thursday. Some of the 'readings' are videos, articles, journals, etc.
+Readings will occasionally be discussed at the beginning of Discussion section. Some of the 'readings' are videos, articles, journals, etc.
 
-**Week 2 Reading**{: .label .label-reading }
+<!-- **Week 2 Reading**{: .label .label-reading }
 
 - Required: [Learning to Code](https://www.youtube.com/watch?v=dU1xS07N-FA)
 - Discussion Question: Why is learning how to code important? Are you convinced about the importance of computer science in the world today? Include at least one point made in the video, 'Code Stars’. (Expected length: 2 - 4 sentences).

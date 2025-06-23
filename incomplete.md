@@ -1,10 +1,3 @@
----
-layout: default
-title: Incomplete / Continuing Work Student
-description: Logistics about resolving your Incomplete grade 
-nav_order: 11
----
-
 # Resolving your Incomplete / Continuing Work Grade
 
 Here you will find logistics about resolving your grade, along with next steps and the forms needed to submit.
