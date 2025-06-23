@@ -17,7 +17,7 @@ UC Berkeley, Summer 2025
 {{ site.description }}
 
 **Instructor:** [Jedi Tsang](#)  
-**Office Hours:** TBD  
+**Office Hours:** Tuesday, Wednesday, Thursday 5:00-6:00 PM in Soda 783 
 
 **Lecture:**  
 - **Days:** Monday–Thursday  
