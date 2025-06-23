@@ -39,61 +39,57 @@ We’re really excited to have you on board with us this semester for a gentle, 
 This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) students can not be supported. However, there are make-up options for lecture, lab, and discussion attendance. 
 
 
-* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/sp25/schedule/) to find the times/locations for all synchronous course engagements.
-* **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](https://edstem.org/us/courses/74174)
-* **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/957259).
-* **Bcourses**: Lecture recordings can be found on [the Bcourses site](https://bcourses.berkeley.edu/courses/1542284/external_tools/90481), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
-* **IClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should signup with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this the following links:
+* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/su25/schedule/) to find the times/locations for all synchronous course engagements.
+* **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](https://edstem.org/us/courses/79923/discussion)
+* **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/1057248).
+* **Bcourses**: Lecture recordings can be found on [the Bcourses site](https://bcourses.berkeley.edu/courses/1545431), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
+<!-- * **IClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should signup with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this the following links:
     -  [Lecture iClcker](https://join.iclicker.com/NATV).
     -  [Discussion iClicker](https://join.iclicker.com/DSRE)
-    -  [Lab iClicker](https://join.iclicker.com/TOXH)
-* **PrairieLearn**: This is the platform you will use to take exams (Quest, Midterm, and Postterm)
+    -  [Lab iClicker](https://join.iclicker.com/TOXH) -->
+<!-- * **PrairieLearn**: This is the platform you will use to take exams (Quest, Midterm, and Postterm) -->
 * **Snap!**: The programming language we will be using for more than half the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/)
-* **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign-in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website.
+<!-- * **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign-in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website. -->
 
 
 ## Primary Course Components
 
-Here is a visualization that summarizes the components of the course, and which platform to use to submit work.
+<!-- Here is a visualization that summarizes the components of the course, and which platform to use to submit work.
 
 ![](sp25/assets/images/general/course1.png)
-![](sp25/assets/images/general/course2.png)
+![](sp25/assets/images/general/course2.png) -->
 
 
 ### Lecture 
 
-Lectures will be live and in-person in Anthropology and Art Practice Building, Room 160 Mondays and Wednesdays, from 1PM to 2PM. They will be recorded, and recordings will be posted on Bcourses (see `platforms` section). 
+Lectures will be live and in-person in GPBB 100 Monday through Thursday from 4:00 - 5:00 PM. They will be recorded, and recordings will be posted on Bcourses (see `platforms` section). 
 
-Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lectures may be pre-recorded, which you can watch on your free time, and there will be an assignment that corresponds to it to test your conceptual understanding. Attendance for these days will be through the "Lecture Quiz" solely (and no iClicker is needed for those days).
+Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. 
 
-<b>Attendance is required, and credit for attending will be through the iClicker app. </b> If you cannot attend lecture, you will need to complete the corresponding "Lecture Quiz" on Gradescope for attendance credit. The corresponding lecture quiz will be due on Gradescope the day of the **following lecture** at 2359hrs. On this quiz, we will ask questions about lecture content. You may fill out our general extension form (linked below) to receive an automatic extension for lecture quizzes.
+<b>Attendance is required, and credit for attending will be through a Google Form Check In. Lecture check ins are graded based on completion, NOT correctness. </b> 
 
-Your lowest 5 lecture-quiz scores will be automatically dropped — so you can miss up to 5 lectures (or skip 5 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 5 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
+Your lowest 3 check-in scores will be automatically dropped — so you can miss up to 3 lectures without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
 
-Only Monday and Wednesday lectures have required attendance. Friday lectures will be optional and will have no lecture quiz. Some Friday lecture will be review where we prep for exams or go over the answers to an exam. The exam review Friday lectures will not be recorded and will not have any slides.
+If you miss more than 3 lectures throughout the summer, you will not receive credit for the Lecture Attendance portion of your grade.
+
 
 ### Lab Sections
 
-Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section. Labs will be located in Soda Hall, Room 438.
+Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section. Labs will be located in Soda Hall, Room 330.
 
 Lab assignments will be submitted to Gradescope. There will be two assignments for each lab (unless specified): one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections, TAs and Tutors will be available to help you with the problems.
 
-Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Thursday, then Lab-12 will be due at midnight on Thursday. There will be 19 graded labs (there's no submission or credit for lab-1 and this includes the two practice exams you must complete), and your lowest 2 lab scores will be dropped.
+Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Thursday, then Lab-12 will be due at midnight on Thursday. There will be 19 graded labs (there's no submission or credit for lab-0 and this includes the two practice exams you must complete), and your lowest 2 lab scores will be dropped.
 
-<b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 5 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 5 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment. Lab attendance will be tracked through iClicker. 
+<b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 3 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 3 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 3 "skip days" for lab sections only applies to attendance (although you do have 2 drops). You are still required to complete and submit the lab assignment. Lab attendance will be tracked through Google Forms.
 
-If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot reguarly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Tuesday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Tuesday at 3PM (the time before the lab section).
-
+If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot regularly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Tuesday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Tuesday at 3PM (the time before the lab section).
 
 ### Discussion Sections
 
-Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion will be located in Evans Hall, Room 60. 
+Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion will be located in Soda Hall, Room 320. 
 
-Discussion attendance is mandatory. If you attend, then we will check you off in person, and there is no further action needed to receive credit other than your participation during discussion. If you do not attend (either you have a regular conflict or just miss a few classes), then you can make-up the entire attendance credit by submitting the discussion worksheet (just the required portions) to Gradescope. You must complete the entire required portions of the worksheet to receive credit. Worksheets will be graded on completion and honest effort. Discussions will also be recorded, so we recommend watching the recordings to get help with the worksheet problems. 
-
-The discussion worksheets are located on the website, and you will submit them to Gradescope. You can submit the worksheet in any format, i.e. handwritten, electronically written, typed, etc. Discussion worksheets are due the day of the next discussion section at 11:59 PM. So, if Discussion X is due when Discussion X + 1 is released.
-
-Your 3 lowest discussion worksheet scores / misses will be dropped. This means you can not submit two worksheets and still get full credit in your discussion grade. Please reserve these drops for unexpected emergencies / sickness / etc. You do not need to contact us if you miss or do not attend discussion. If you need an extension, please see the extension request section. 
+Discussion attendance is mandatory. You can miss up to 3 discussion sections without penalty so you do not need to inform us when you cannot attend discussion. If there are extenuating circumstances which cause you to miss more than 3 discussion sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Discussion attendance will be tracked through Google Forms. However, if you miss a discussion section, you must complete the discussion worksheet and submit it to the [attendance form](https://docs.google.com/forms/d/e/1FAIpQLSdXUTj1LRkfECwDnsCt6hldAX4v6-jjH0awBnsi_mnaH2qx8g/viewform?usp=dialog) by the day of the next discussion section at 11:59 PM. So, if Discussion X is due when Discussion X + 1 is released. If you attend the discussion section, all you need to do is fill out the attendance form -- no need to submit the completed worksheet.
 
 From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
 
@@ -108,16 +104,11 @@ General OH is intended for any course and content related questions. Here, you c
 
 #### Support OH 
 
-These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH
+These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH.
 
 #### Instructor OH 
 
-Professor Garcia will be hosting Instructor OH (3 to 4PM on Wednesdays), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
-
-
-### Reading Quizzes
-
-These are short assigned readings each week. We will discuss them as a class during discussion section. They are required reading, and you will answer the questions on the discussion worksheets pertaining to the readings.
+Jedi will be hosting Instructor OH (5 to 6 PM on Tuesday, Wednesday, and Thursday), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
 
 ### Projects 
 
@@ -131,13 +122,13 @@ These assignments will be one of the best ways for you to apply what you have le
 
 | Project                                       |  Submission Deadline     |
 | :----:                                        |  :----:                  |
-| Project 1: Wordle™-lite                       | Wed 2/05  |
-| Project 2: Spelling-Bee                       | Mon 2/24  |
-| Project 3: 2048                               | Mon 3/17 |
-| Project 4: Explore Post                       | Mon 3/31 |
-| Project 4: Explore Post Feedback + Comments   | Fri 4/11 |
-| Project 5: Final Project Porposals            | Mon 4/07  |
-| Project 5: Final Project                      | Mon 5/05  |
+| Project 1: Wordle™-lite                       | Mon 6/30 |
+| Project 2: Spelling-Bee                       | Mon 7/7  |
+| Project 3: 2048                               | Mon 7/14 |
+| Project 4: Explore Post                       | TBD |
+| Project 4: Explore Post Feedback + Comments   | TBD |
+| Project 5: Final Project Proposals            | Wed 8/6  |
+| Project 5: Final Project                      | Thu 8/14  |
 
 **All deadlines are at 11:59PM.**
 
@@ -145,37 +136,28 @@ These assignments will be one of the best ways for you to apply what you have le
 
 ## Exams
 
-There will be three take-home, untimed, online, 48-hour, open-note exams (Quest, Midterm, and Postterm):
-- Quest
-- Midterm
-- Postterm (final)
+There will be three quizzes (each quiz is cumulative):
+- Quiz 1
+- Quiz 2
+- Quiz 3
 
-Here are the specific dates for exams, although these dates may change. All exams will be released at 6PM on Fridays.
+| Exam             | When  |  
+| :----:           | :----:   |
+| Quiz 1          | Thu 7/3 in GPB 100 4 - 5 PM | 
+| Quiz 1 Second Chance          | Fri 7/11 in GPB 100 4 - 5 PM  | 
+| Quiz 2         | Fri 7/18 in GPB 100 4 - 6 PM | 
+| Quiz 2 Second Chance        | Fri 7/18 in GPB 100 4 - 6 PM | 
+| Quiz 3       | Fri 8/1 in GPB 100 4 - 7 PM | 
+| Quiz 3 Second Chance      | Fri 8/8 in GPB 100 4 - 7 PM |
 
-| Exam             | Release  | Due         |   
-| :----:           | :----:   | :----:      | 
-| Quest 1          | Fri 2/14 | Sun 2/16    |  
-| Quest 2          | Fri 2/21 | Sun 2/23    |
-| Quest 3          | Fri 2/28 | Sun 3/02    |  
-| Midterm 1        | Fri 3/14 | Sun 3/16    |  
-| Midterm 2        | Fri 3/21 | Sun 3/23    |  
-| Midterm 3        | Fri 4/04 | Sun 4/06    | 
-| Postterm 1       | Fri 4/18 | Sun 4/20    |  
-| Postterm 2       | Fri 4/25 | Sun 4/27    |  
-| Postterm 3       | Fri 5/02 | Sun 5/04    |  
+The second chance quizzes are designed for you to demonstrate your understanding of the material without all the pressure riding on one exam.
 
-You will see various exams (for example, Quest 1, 2 3, etc.) Each exam type (Quest, Midterm, Postterm) has three exams. The purpose of this is to allow you to retake the exam (it will be a simliar but different exam each time), and earn credit on questions you missed in the previous exam. Quest 1, Midterm 1, and Postterm 1 are all mandatory; however, each retake is optional.
-
-Note that on a retake exam, you only need to re-do the problems you did not receive full credit on. For instance, suppose you got full credit on Question-3 but lost points on Question-5, you could only redo Question-5. 
-
-Moreover, we will keep your question-wise maximum score between the original Quest and the retake, for each problem. For instance, suppose you re-took question 5 but scored lesser points, we'll just keep your score from the original Quest instead!
-
-The best way to prepare is to utilize the practice exams posted under `resources` and the practice exams we'll release on PrairieLearn. 
-
-If you are an incomplete student, remember that you can only take the first exams (Quest 1, Midterm 1, and Postterm 1).
+If you are an incomplete student, Quiz 1 maps to the Quest, Quiz 2 maps to the midterm, and Quiz 3 maps to the postterm. You may not take the second chance quiz if you are an incomplete student.
 
 ## Exam Clobber Policy
 If your percentage score on a latter exam is higher than your percentage score on a prior exam, then we'll replace your percentage score on the prior exam with the percentage score on the latter exam. The clobber can never hurt your grade: if you score lower, no replacement will be done.
+
+To be clear, what this means is that if you get a full score on Quiz 3, you also get a full score on Quiz 1 and Quiz 2!
 
 ## Grading
 
@@ -184,28 +166,28 @@ If your percentage score on a latter exam is higher than your percentage score o
 
 | Component                                     |  Percentage Weighting  |
 | :----:                                        |  :----:  |
-| Attendance / Participation                    | 6.25%    |
-| Labs                                          | 20%      |
-| Projects                                      | 36.25%   |
-| Quest                                         | 6.25%    |
-| Midterm                                       | 12.5%    |
-| Postterm                                      | 18.75%   |
+| Attendance / Participation                    | 10%    |
+| Labs                                          | 15%      |
+| Projects                                      | 35%   |
+| Quiz 1                                         | 10%    |
+| Quiz 2                                       | 15%    |
+| Quiz 3                                      | 15%   |
 
 ### Specific Grading Breakdown — Points
 
 
 | Component                                     |  Points  |
 | :----:                                        |  :----:  |
-| Quest                                         | 25       |
-| Midterm                                       | 50       |
-| Postterm                                      | 75       |
+| Quiz 1                                         | 40       |
+| Quiz 2                                       | 60       |
+| Quiz 3                                      | 60       |
 | Project 1: Wordle™-lite                       | 10       |
 | Project 2: Spelling-Bee                       | 25       |
-| Project 3: 2048                               | 35       |
+| Project 3: 2048                               | 30       |
 | Project 4: Explore                            | 15       |
 | Final Project                                 | 60       |
-| Labs                                          | 80       |
-| Attendance / Participation                    | 25       |
+| Labs                                          | 60       |
+| Attendance / Participation                    | 40       |
 
 **Total: 400 Points**
 
@@ -227,17 +209,16 @@ If your percentage score on a latter exam is higher than your percentage score o
 
 Your total points will be rounded to the nearest integer when we compute letter grades. 0.5 will round to 1, but 0.49 will round to 0. We will not shift the bins / curve the class / ooch or round your grade beyond the listed rounding scheme, so please don't ask.
 
-
 ## Extension Requests
 
-For all extension requests on any assignment, please use the [Extension Request Form](https://forms.gle/FaAosSEWXKGWoXoV9).
+For all extension requests on any assignment, please use the [Extension Request Form](https://forms.gle/sBiw8meKvvjMX9px5).
 
 You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs, as noted above, is the day that the next lab is scheduled, at 2359 hrs; for projects, it's 72h after the original deadline.
 
 
 <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b>
 
-<b>Important: While extensions may not be visible on PrairieLearn/Gradescope (a.k.a your assignments may be marked as 'Late'), they will be factored in when we compute your final grade. Extensions are AUTO-approved after filling in the form. You may immediately continue/start on the assignment. </b>
+<b>Important: While extensions may not be visible on Gradescope (a.k.a your assignments may be marked as 'Late'), they will be factored in when we compute your final grade. Extensions are AUTO-approved after filling in the form. You may immediately continue/start on the assignment. </b>
 
 ### Lab Extensions
 
@@ -245,37 +226,26 @@ We understand that circumstances may arise that may cause you to not be able to 
 
 - An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. For instance, if you ask for an extension on lab-12, which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled. So, if you are getting an exttension on Lab X, then the new deadline for Lab X is when Lab X + 2 is released at 11:59PM. However, if you are trying to obtain lab attendance credit, then it is due by 5PM when Lab X + 2 is released.
 
-- There are three exceptions:
-    - The last lab will only be given a 72-hour extension.
-    - Practice Midterm will only be given a 48-hour extension (for both the coding and non-coding)
-    - Practice Postterm will only be given a 48-hour extension (for both the coding and non-coding)
-
-
 ### Project Extensions
 
 The policy for project extension requests on projects are as follows:
 
 - An extension request will automatically extend your project submission deadline by 72 hours without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
 
-### Lecture Quiz Extensions
-
-- An extension request will automatically extend your lecture quiz submission deadline and will be due the day of the following lecture at 11:59PM. For example, if the lecture quiz was due on Monday, with the extension, it is now due on Wednesday. Similar to the Lab extension and deadline policy, the Lecture Quiz, with the extension is due when Lecture Quiz X + 2 is released.
-
-
 ### Discussion Worksheet Extensions
 
-- An extension request will automatically extend your discussion worksheetsubmission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on 1/30, it is now due on 2/06. 
+- An extension request will automatically extend your discussion worksheet submission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on 1/30, it is now due on 2/06. 
 
 
 ## Lateness Penalties
 
-Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the project-4 and the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request forms. No extensions are provided for Reading Quizzes, and late submissions are not graded.
+Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the project-4 and the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request forms.
 
 If, after exhausting the initial extension, you still need more time — please visit us in Support-OH, wherein we'll help you come up with a plan to catch up! Lateness penalties *only* apply if you *don't* obtain an extension (by filling out the form or visiting Support-OH) *and* turn in work late. 
 
 ## DSP Accommodations
 
-If you have a DSP accommodation through the university, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to Victoria [jedi_force@](mailto:jedi_force@berkeley.edu).
+If you have a DSP accommodation through the university, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to Jedi [jedidiahtsang@](mailto:jedidiahtsang@berkeley.edu).
 
 UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me.
 
