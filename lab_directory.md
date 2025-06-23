@@ -41,6 +41,7 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | Lab 19: Tree Recursion | TUE 8/5 |
 | Lab 20: Concurrency | WED 8/6 |
 
+*Labs and due dates are subjected to change*
 
 
 
