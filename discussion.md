@@ -10,13 +10,13 @@ nav_order: 7
 
 This page will be updated with discussion Worksheets and Solutions throughout the semester. Recordings will be released periodically.
 
-> Discussion worksheets only need to be turned in if you did not attend discussion in-person or if your iClicker attendance was not logged. In this case, the worksheets are due before the next discussion. All due dates can be found in Gradescope under the assignment. 
+> Discussion worksheets only need to be turned in if you did not attend discussion in-person or if your attendance was not logged. In this case, the worksheets are due before the next discussion. All due dates can be found in Gradescope under the assignment. 
 
-> Discussion worksheet handouts will be provided. Any extras will be left in Soda 411 if you need an additional copy.
+> Discussion worksheet handouts will be provided. Any extras will be left in OH if you need an additional copy.
 
 > Solutions can be found within the slides.
 
-> Please attend Victoria's Office Hours for any discussion related questions!
+> Please attend Stacey's Office Hours for any discussion related questions!
 
 <style>
   table {
