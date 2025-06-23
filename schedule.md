@@ -34,8 +34,7 @@
         <th>Mon 6/23</th> <!-- Date -->
         <td>
             Lec 1: Logistics + Abstraction<br/>
-            <a href="#">(Recording 1)</a><br/>
-            <a href="#">(Slides 1)</a>
+            <a href="https://drive.google.com/drive/u/1/folders/1jWA6b59w5eAE7YCVH9y5MSRRwzwfRTAu">(Slides 1)</a>
         </td>
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
