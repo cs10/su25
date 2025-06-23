@@ -14,10 +14,12 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 
 > The workbook, which is part of our website (and distinct from the lab instructions), can be used as a step-by-step guide to complete each lab. Labs will be released at 9:00 AM on the day they are scheduled. Feel free to get a head start!
 
+<!-- /_labs/lab##.md -->
+
 | Labs                                       | Submission Deadline       |
 | :----:                                     | :----:                     |
 | [Lab 0: Welcome to Snap!]()                    | WED 6/25 Nothing to submit |
-| Lab 1: Build your Own Blocks                    | THU 6/26 |
+| Lab 1: Build your Own Blocks                   | THU 6/26 |
 | Lab 2: Conditionals, Reporters & Abstraction   | MON 6/30 |
 | Lab 3: Lists and Loops (Iteration)        | TUE 7/01 |
 | Lab 4: Lists + HoFs       |WED 7/02 |
