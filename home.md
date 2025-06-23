@@ -12,8 +12,6 @@ nav_order: 1
 # **Under Construction: CS 10: The Beauty and Joy of Computing**
 UC Berkeley, Summer 2025
 
-
-
 {{ site.description }}
 
 **Instructor:** [Jedi Tsang](staff/#jedidiah-tsang)  
@@ -34,6 +32,7 @@ UC Berkeley, Summer 2025
 - **Times:** 6:00–7:00 PM *or* 7:00–8:00 PM
 - **Location:** Soda Hall, Room 320
 
+**[CS 10 Attendance Form](https://docs.google.com/forms/d/e/1FAIpQLSdXUTj1LRkfECwDnsCt6hldAX4v6-jjH0awBnsi_mnaH2qx8g/viewform?usp=dialog)** 
 
 <br/>
 
