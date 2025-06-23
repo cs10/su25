@@ -73,7 +73,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 6</td>
       <td>7/10</td>
-      <td>Fractals and Quest Review</td>
+      <td>Fractals and Quiz 1 Review</td>
       <td><a href="#">Worksheet 6</a></td>
       <td><a href="#">Solutions 6</a></td>
       <td><a href="#">Slides 6</a></td>
@@ -89,7 +89,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 8</td>
       <td>7/17</td>
-      <td>Midterm Preview + Additional Practice</td>
+      <td>Quiz 2 Preview + Additional Practice</td>
       <td><a href="#">Worksheet 8</a></td>
       <td><a href="#">Solutions 8</a></td>
       <td><a href="#">Slides 8</a></td>
