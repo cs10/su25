@@ -142,11 +142,11 @@
     <tr>
         <th>Thu 7/3</th> <!-- Date -->
         <td>
-            In Person: Quest<br/>
+            In Person: Quiz 1<br/>
         </td>
         <td>Quest Preview</td> <!-- Lab with no link -->
         <td><a href="/su25/discussion">Disc 4</a></td> <!-- Discussion -->
-        <td>Quest</td> <!-- Assignment / Exam -->
+        <td>Quiz 1</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 7/4</th> <!-- Date -->
