@@ -121,7 +121,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 12</td>
       <td>7/31</td>
-      <td>Tree Recursion + Quiz 3 Practice I</td>
+      <td>Tree Recursion + Quiz 3 Preview</td>
       <td><a href="#">Worksheet 12</a></td>
       <td><a href="#">Solutions 12</a></td>
       <td><a href="#">Slides 12</a></td>
@@ -129,7 +129,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 13</td>
       <td>8/5</td>
-      <td>Quiz 3 Practice II</td>
+      <td>Project 4: Presentations</td>
       <td><a href="#">Worksheet 13</a></td>
       <td><a href="#">Solutions 13</a></td>
       <td><a href="#">Slides 13</a></td>
