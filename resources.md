@@ -19,8 +19,8 @@ Below, you can find various resources to help with your understanding of the mat
 
 
 ## Content Guides and Videos
-* [Mehul's Fractal Review Video](https://youtu.be/ioOvJ9S268s)
-* [Mehul's Fractal Review Slides](https://docs.google.com/presentation/d/10TgeE-YHSQOW5JmK9qf9BBfD83pj9zDcuZ8SnGyR7P4/edit?usp=sharing)
+* [Mehul's Fractal Review Video (Spring 2023)](https://youtu.be/ioOvJ9S268s)
+* [Mehul's Fractal Review Slides (Spring 2023)](https://docs.google.com/presentation/d/10TgeE-YHSQOW5JmK9qf9BBfD83pj9zDcuZ8SnGyR7P4/edit?usp=sharing)
 * [Yolanda's For-Loop Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vQYoK-JYX_voUwliAbcn1oyvvgZSurn2C1E72Y8Qf9HeFTr2fFBbgPxpnYTMaR0Rkn82F8-Fq7QxzK6/pub?embedded=true)
 * [Yolanda's Guide to Commenting Your Code](https://docs.google.com/document/u/1/d/e/2PACX-1vSrtiqOPprVJ327uvCj9aRGXJYGP9hjOMJyz_vSxK237PNnTCYumvE24QYcbmA_Xy8voUPOqHzXtZOO/pub?embedded=true)
 * [Yolanda's Debugging Walkthrough](https://www.youtube.com/watch?v=nAgsZ_fVcw0&t=6s)
@@ -34,6 +34,7 @@ Below, you can find various resources to help with your understanding of the mat
 * [Official Python Documentation](https://docs.python.org/3/tutorial/index.html)
 * [CS 61A's Terminal Guide](https://inst.eecs.berkeley.edu/~cs61a/sp19/articles/unix.html)
 * [Jake's Python Debugging Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vRqCD_Vmn0tYhoOrcju_9b3mrmjLYuJt2VJDMYpUDpTxFIfvY4AFWWQh0Hwl3Yj7kduSe0gYV5UvLdT/pub?embedded=true)
+* [Stacey's Python Installation Guide](https://docs.google.com/document/d/14xz0EMdIDLtjIYJAxSeM01bd7GhqZfWfKioDhGM04_c/edit?usp=sharing) 
 
 ## Project Walkthroughs and Hint Videos
 
