@@ -24,7 +24,7 @@ nav_order: 6
   </thead>
   <tbody>
     <tr>
-      <td><a href="">Project 1: Wordle™-lite</a></td>
+      <td><a href="/_projects/project1.md">Project 1: Wordle™-lite</a></td>
       <td><a href="">Proj 1 Walkthrough Slides</a></td>
       <td>Tuesday, 6/24</td>
       <td>Monday, 6/30</td>
