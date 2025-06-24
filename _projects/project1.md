@@ -79,7 +79,7 @@ If you’re having trouble, please contact the course staff for assistance — E
 
 First, you’ll build a **predicate block** (aka the “game over” block) that will know when the game is over. This should report *True* if the guess equals the secret or if the score is not positive, and *False* otherwise. Here are some examples:
 
-![Testcases for Part 1 Block](/fa24/assets/images/P1/P1-Part1Tests.png)
+![Testcases for Part 1 Block](/su25/assets/images/P1/P1-Part1Tests.png)
 
 ## **Part 2:** (matching "green" slots between guess: [ ] and secret: []) Block 
 
