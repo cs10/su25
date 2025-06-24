@@ -26,56 +26,56 @@ nav_order: 6
     <tr>
       <td><a href="">Project 1: Wordle™-lite</a></td>
       <td><a href="">Proj 1 Walkthrough Slides</a></td>
-      <td>Monday, 1/27</td>
-      <td>Wednesday, 2/05</td>
+      <td>Tuesday, 6/24</td>
+      <td>Monday, 6/30</td>
     </tr>
     <tr>
       <td><a href="">Project 2: Spelling Bee</a></td>
       <td><a href="">Proj 2 Walkthrough Slides</a></td>
-      <td>Monday, 2/10</td>
-      <td>Monday, 2/24</td>
+      <td>Tuesday, 7/01</td>
+      <td>Monday, 7/07</td>
     </tr>
      <tr>
       <td><a href="">Project 3: 2048</a></td>
       <td><a href="">Proj 3 Walkthrough Slides</a></td>
-      <td>Monday, 3/03</td>
-      <td>Monday, 3/17</td>
+      <td>Tuesday, 7/08</td>
+      <td>Monday, 7/14</td>
     </tr>
     <tr>
       <td><a href="">Project 4: Tech in Context</a></td>
       <td><a href="">Example Projects</a></td>
-      <td>Tuesday, 3/18</td>
-      <td>Tuesday, 4/1</td>
+      <td>Tuesday, 7/22</td>
+      <td>Monday, 8/4</td>
     </tr>
     <tr>
       <td>Project 4: Presentations</td>
       <td>-</td>
       <td>-</td>
-      <td>Thursday, 4/03</td>
+      <td>Tuesday, 8/05 Discussion</td>
     </tr>
     <tr>
       <td>Project 4: Feedback + Comments</td>
       <td><a href="">Example Feedback + Comments</a></td>
-      <td>-</td>
-      <td>Friday, 4/11</td>
+      <td>Tuesday, 8/05</td>
+      <td>Tuesday, 8/12</td>
     </tr>
     <tr>
       <td><a href="">Project 5: Proposals</a></td>
       <td>-</td>
-      <td>Wednesday, 4/02</td>
-      <td>Monday, 4/07</td>
+      <td>Friday, 7/25</td>
+      <td>Tuesday, 8/05</td>
     </tr>
     <tr>
       <td>Project 5: Proposal Meetings</td>
       <td>-</td>
-      <td>Tuesday, 4/08</td>
-      <td>Thursday, 4/10</td>
+      <td></td>
+      <td>Wednesday and Thursday, 8/06-8/07</td>
     </tr>
     <tr>
       <td><a href="">Project 5: Final Project</a></td>
       <td>-</td>
-      <td>Tuesday, 4/08 (earliest)<br/>Only start once your project has been approved</td>
-      <td>Monday, 5/05</td>
+      <td>Wednesday, 8/06 (earliest)<br/>Only start once your project has been approved</td>
+      <td>Thursday, 8/14</td>
     </tr>
   </tbody>
 </table> 
