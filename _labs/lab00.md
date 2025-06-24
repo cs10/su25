@@ -1,11 +1,11 @@
 ---
-title: Lab 0
+title: # Lab 00: (No Submission)
+
 description: Intro
-due: "11:59 PM PT on Wednesday, 6/25"
+due: "No Submission"
 gradescope_assignment_id: 
 submission_files:
 ---
-
 # Lab 0: Welcome to Lab (No Submission)
 
 ## Instructions:
@@ -31,6 +31,7 @@ For this lab it is highly reccomended you go through the [workbook](https://cs10
     - Run Snap! and create a Snap! account on your device.
     - Investigate Snap!'s user interface. Explore and identitfy different portions of the program.
     - Create programs that allow the user to control and move your sprite around the stage.
+      
 ### [Make A Kaleidoscope](https://cs10.org/bjc-r/cur/programming/intro/drawing/kaleidoscope-small.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment)
 - Objectives:
     - Explore [this drawing program](https://snap.berkeley.edu/snap/snap.html#open:https://cs10.org/bjc-r/prog/drawing/kaleidoscope_framework.xml) and identify effects of the script on each of the sprites.
