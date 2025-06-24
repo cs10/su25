@@ -8,13 +8,13 @@ nav_order: 7
 
 # Discussion
 
-This page will be updated with discussion Worksheets and Slides throughout the semester. Recordings will be released periodically and whenever possible. Please allow for 72 hrs for the page to update. 
+This page will be updated with discussion Worksheets and Annotations throughout the semester. Recordings will be released periodically and whenever possible. Please allow for 72 hrs for the page to update. 
 
 > Discussion worksheets only need to be turned in if you did not attend discussion in-person or if your attendance was not logged. In this case, the worksheets are due **before the next discussion**. All due dates can be found in Gradescope under the assignment. 
 
 > A physical and digital copy of the discussion worksheet will be provided. Any physical extras will be left in OH if you need an additional copy.
 
-> Solutions can be worked through or found within the slides.
+> Solutions can be worked through or found within the Annotations.
 
 > Please attend Stacey's Office Hours for any discussion related questions!
 
@@ -26,7 +26,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <th>Title</th>
       <th>Worksheet</th>
       <th>Solutions</th>
-      <th>Slides</th>
+      <th>Annotations</th>
     </tr>
   </thead>
   <tbody>
@@ -34,9 +34,9 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Discussion 1</td>
       <td>6/24</td>
       <td>Welcome to Snap<em>!</em></td>
-      <td><a href="https://docs.google.com/document/d/1c4_piu7WPR4spgr3Vw5NVQMbxrxu4hYS/edit?usp=sharing&ouid=111084170265740689667&rtpof=true&sd=true">Worksheet 1</a></td>
+      <td><a href="https://docs.google.com/document/d/1-lZYmP33K0oTn9Q8lNOh1_ZBPA38di0i/edit?usp=sharing&ouid=111084170265740689667&rtpof=true&sd=true">Worksheet 1</a></td>
       <td>Solutions 1</td>
-      <td><a href="#">Slides 1</a></td>
+      <td><a href="#">Annotations 1</a></td>
     </tr>
     <tr>
       <td>Discussion 2</td>
@@ -44,7 +44,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Boolean Operators, Conditionals, and Truth Tables</td>
       <td><a href="#">Worksheet 2</a></td>
       <td>Solutions 2</a></td>
-      <td><a href="#">Slides 2</a></td>
+      <td><a href="#">Annotations 2</a></td>
     </tr>
     <tr>
       <td>Discussion 3</td>
@@ -52,7 +52,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Data-types, Domain / Range, Scoping, Lists</td>
       <td><a href="#">Worksheet 3</a></td>
       <td>Solutions 3</a></td>
-      <td><a href="#">Slides 3</a></td>
+      <td><a href="#">Annotations 3</a></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
@@ -60,7 +60,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Scoping, Lists, and HoFs</td>
       <td><a href="#">Worksheet 4</a></td>
       <td>Solutions 4</a></td>
-      <td><a href="#">Slides 4</a></td>
+      <td><a href="#">Annotations 4</a></td>
     </tr>
     <tr>
       <td>Discussion 5</td>
@@ -68,7 +68,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Linear Recursion</td>
       <td><a href="#">Worksheet 5</a></td>
       <td>Solutions 5</a></td>
-      <td><a href="#">Slides 5</a></td>
+      <td><a href="#">Annotations 5</a></td>
     </tr>
     <tr>
       <td>Discussion 6</td>
@@ -76,7 +76,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Fractals and Quiz 1 Review</td>
       <td><a href="#">Worksheet 6</a></td>
       <td>Solutions 6</a></td>
-      <td><a href="#">Slides 6</a></td>
+      <td><a href="#">Annotations 6</a></td>
     </tr>
     <tr>
       <td>Discussion 7</td>
@@ -84,7 +84,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Algorithms and Algorithmic Complexity</td>
       <td><a href="#">Worksheet 7</a></td>
       <td>Solutions 7</a></td>
-      <td><a href="#">Slides 7</a></td>
+      <td><a href="#">Annotations 7</a></td>
     </tr>
     <tr>
       <td>Discussion 8</td>
@@ -92,7 +92,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Quiz 2 Preview + Additional Practice</td>
       <td><a href="#">Worksheet 8</a></td>
       <td>Solutions 8</a></td>
-      <td><a href="#">Slides 8</a></td>
+      <td><a href="#">Annotations 8</a></td>
     </tr>
     <tr>
       <td>Discussion 9</td>
@@ -100,7 +100,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Welcome to Python</td>
       <td><a href="#">Worksheet 9</a></td>
       <td>Solutions 9</a></td>
-      <td><a href="#">Slides 9</a></td>
+      <td><a href="#">Annotations 9</a></td>
     </tr>
     <tr>
       <td>Discussion 10</td>
@@ -108,7 +108,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Python Data-Structures & OOP</td>
       <td><a href="#">Worksheet 10</a></td>
       <td>Solutions 10</a></td>
-      <td><a href="#">Slides 10</a></td>
+      <td><a href="#">Annotations 10</a></td>
     </tr>
     <tr>
       <td>Discussion 11</td>
@@ -116,7 +116,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Recursion in Python</td>
       <td><a href="#">Worksheet 11</a></td>
       <td>Solutions 11</a></td>
-      <td><a href="#">Slides 11</a></td>
+      <td><a href="#">Annotations 11</a></td>
     </tr>
     <tr>
       <td>Discussion 12</td>
@@ -124,7 +124,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Tree Recursion + Quiz 3 Preview</td>
       <td><a href="#">Worksheet 12</a></td>
       <td>Solutions 12</a></td>
-      <td><a href="#">Slides 12</a></td>
+      <td><a href="#">Annotations 12</a></td>
     </tr>
     <tr>
       <td>Discussion 13</td>
@@ -132,7 +132,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Project 4: Presentations</td>
       <td><a href="#">Worksheet 13</a></td>
       <td>Solutions 13</a></td>
-      <td><a href="#">Slides 13</a></td>
+      <td><a href="#">Annotations 13</a></td>
     </tr>
     <tr>
       <td>Discussion 14</td>
@@ -140,7 +140,7 @@ This page will be updated with discussion Worksheets and Slides throughout the s
       <td>Wrap-Up + Ask Me Anything</td>
       <td><a href="#">Worksheet 14</a></td>
       <td>Solutions 14</a></td>
-      <td><a href="#">Slides 14</a></td>
+      <td><a href="#">Annotations 14</a></td>
     </tr>
   </tbody>
 </table>
