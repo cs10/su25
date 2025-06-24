@@ -182,7 +182,6 @@ include:
   - LICENSE
   - .htaccess
   - robots.txt
-  - _labs
 
 exclude:
   - .sass-cache/
