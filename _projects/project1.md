@@ -1,27 +1,26 @@
 ---
 title: Project 1
 description: Wordle™-lite
-due: "11:59 PM PST on Wednesday, 2/5"
-gradescope_assignment_id: 957259
+due: "11:59 PM PT on Monday, 6/30"
+gradescope_assignment_id: 
 submission_files:
     - starter.xml
 ---
 
-*Version 3.0. Last Updated: 2024-09-08.*
+*Version 3.0. Last Updated: 2025-7-23.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 > Any important updates or clarifications will be made here
-> The Project 1 Party is Monday, 2/3 from 3 to 5PM in Cory 400 
+> The Project 1 Party is Friday, 6/27 from 10 AM to 1 PM in [Warren Hall 101B] (https://www.google.com/maps/place/Warren+Hall/@37.8744351,-122.2693954,16z/data=!3m1!4b1!4m6!3m5!1s0x80857e9fc96d7f9b:0x1f3694d1fb1a1f03!8m2!3d37.8744309!4d-122.2668205!16s%2Fg%2F11bwgfg2jf?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D) *subjected to change*
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
 
-
-[Project 1 Walkthrough Guide.pdf](https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view)
+For additional help check out this [Project 1 Walkthrough Guide.pdf](https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view)
 
 ## Content
 
-[I. Introduction](#Introductions)  
+[I. Introductions](https://github.com/cs10/su25/edit/main/_projects/project1.md#introductions)  
 [II. Part 1: "game over" Block](#part-1-game-over-guess-secret--score--block)  
 [III. Part 2: "matching slots" Block](#part-2-matching-green-slots-between-guess---and-secret--block)  
 [IV. Part 3: "update score" Block](#part-3-update-score-based-on-matched-slots--and-score--block)  
@@ -30,10 +29,10 @@ submission_files:
 
 ## Submission Guidelines 
 
-- Review the guidelines here to learn how to export your projects and turn them in. 
-- Make sure to click “Add Group Member” in the top-right corner of the screen and add your partner!
-- Your final score out of 10 on this project is your score on Gradescope.
-- Once submitted, finish Project 1 Feedback Form 
+- Review the [Snap! submission guidelines](https://docs.google.com/document/d/1XAcZc9ypX07-bt0gK6uQ4P-06SrjPRsgiOjERIOlvYU/edit?usp=sharing) to learn how to export your projects and turn them in. 
+- Make sure to click “Add Group Member” in the top-right corner of the screen and add your partner on Gradescope!
+- Your final score out of 10 on this project is your score. 
+- Once submitted, finish the[ Project 1 Feedback Form](https://forms.gle/uc4b8MMvNmn7v9Qj7).
 
 
 ## Preface
@@ -110,4 +109,4 @@ Note: correct, working code should handle those test cases, but not have the tes
 | (update score based on matched slots: [] and score: ())    | 0.8    | 5 |
 
 ## Feedback Form 
-Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeZ3Qm8l5PiXsl6Ow4_8rB0Zb3OM6kaPrKefFEeCD_-vKw7tg/viewform?usp=sharing). This will be worth 1 point of your project grade. 
+Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/MPqfLF7bskU5Zaj99). 
