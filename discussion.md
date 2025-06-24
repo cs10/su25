@@ -34,7 +34,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Discussion 1</td>
       <td>6/24</td>
       <td>Welcome to Snap<em>!</em></td>
-      <td><a href="https://docs.google.com/document/d/1-lZYmP33K0oTn9Q8lNOh1_ZBPA38di0i/edit?usp=sharing&ouid=111084170265740689667&rtpof=true&sd=true">Worksheet 1</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1mYfYNawnmTOK9t4kR1wzu_auZBq7AQwA?usp=sharing">Worksheet 1</a></td>
       <td>Solutions 1</td>
       <td><a href="#">Annotations 1</a></td>
     </tr>
