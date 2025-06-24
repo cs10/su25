@@ -12,7 +12,7 @@ submission_files:
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 > Any important updates or clarifications will be made here
-> The Project 1 Party is Friday, 6/27 from 10 AM to 1 PM in [Warren Hall 101B] (https://www.google.com/maps/place/Warren+Hall/@37.8744351,-122.2693954,16z/data=!3m1!4b1!4m6!3m5!1s0x80857e9fc96d7f9b:0x1f3694d1fb1a1f03!8m2!3d37.8744309!4d-122.2668205!16s%2Fg%2F11bwgfg2jf?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D) *subjected to change*
+> The Project 1 Party is Friday, 6/27 from 10 AM to 1 PM in [Warren Hall 101B](https://www.google.com/maps/place/Warren+Hall/@37.8744351,-122.2693954,16z/data=!3m1!4b1!4m6!3m5!1s0x80857e9fc96d7f9b:0x1f3694d1fb1a1f03!8m2!3d37.8744309!4d-122.2668205!16s%2Fg%2F11bwgfg2jf?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D) *subjected to change*
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
 
