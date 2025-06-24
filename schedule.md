@@ -47,7 +47,7 @@
         <td>
             Lec 2: Functions + Conditional Logic<br/>
             <a href="#">(Recording 2)</a><br/>
-            <a href="#">(Slides 2)</a>
+            <a href="https://drive.google.com/drive/u/1/folders/1ODyYdQmhNwUmhiI3YWUf2coX1t-IoiDD">(Slides 2)</a>
         </td>
         <td><a href="/su25/lab_directory">Lab 0: Welcome to Snap!</a></td> <!-- Lab -->
         <td><a href="/su25/discussion">Disc 1</a></td> <!-- Discussion -->
