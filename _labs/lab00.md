@@ -1,3 +1,11 @@
+---
+title: Lab 0
+description: Intro
+due: "11:59 PM PT on Wednesday, 6/25"
+gradescope_assignment_id: 
+submission_files:
+---
+
 # Lab 0: Welcome to Lab (No Submission)
 
 ## Instructions:
