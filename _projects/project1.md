@@ -79,7 +79,7 @@ If you’re having trouble, please contact the course staff for assistance — E
 
 First, you’ll build a **predicate block** (aka the “game over” block) that will know when the game is over. This should report *True* if the guess equals the secret or if the score is not positive, and *False* otherwise. Here are some examples:
 
-![Testcases for Part 1 Block](/su25/assets/images/P1/P1-Part1Tests.png)
+![Testcases for Part 1 Block](/su25/assets/images/p1/P1-Part1Tests.png)
 
 ## **Part 2:** (matching "green" slots between guess: [ ] and secret: []) Block 
 
@@ -94,7 +94,7 @@ Given two inputs, a guess and a secret code, the matching slots block should rep
 
 Finally, you’ll build a reporter block (aka the “update score” block) that will take the result of the matched slots and the old score and report an updated score based on the old score minus 10 (cost for a guess) plus the number of slots that matched (were not “-”). Here are some examples to make this clear:
 
-![Testcases for Part 3 Block](/su25/assets/images/P1/P1-Part3Tests.png)
+![Testcases for Part 3 Block](/su25/assets/images/p1/P1-Part3Tests.png)
 
 
 ## Rubric 
