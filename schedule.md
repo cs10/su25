@@ -34,6 +34,7 @@
         <th>Mon 6/23</th> <!-- Date -->
         <td>
             Lec 1: Logistics + Abstraction<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 1)</a><br/>
             <a href="https://drive.google.com/drive/u/1/folders/1jWA6b59w5eAE7YCVH9y5MSRRwzwfRTAu">(Slides 1)</a>
         </td>
         <td></td> <!-- Lab -->
@@ -46,7 +47,7 @@
         <th>Tue 6/24</th> <!-- Date -->
         <td>
             Lec 2: Functions + Conditional Logic<br/>
-            <a href="#">(Recording 2)</a><br/>
+            <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 2)</a><br/>
             <a href="https://drive.google.com/drive/u/1/folders/1ODyYdQmhNwUmhiI3YWUf2coX1t-IoiDD">(Slides 2)</a>
         </td>
         <td><a href="/su25/lab_directory">Lab 0: Welcome to Snap!</a></td> <!-- Lab -->
