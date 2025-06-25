@@ -19,7 +19,7 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | Labs                                       | Submission Deadline       |
 | :----:                                     | :----:                     |
 | [Lab 0: Welcome to Snap!](/su25/labs/lab00)  | WED 6/25 Nothing to submit |
-| [Lab 1: Build your Own Blocks](/su25/_labs/lab01.md)      | THU 6/26 |
+| [Lab 1: Build your Own Blocks](/su25/labs/lab01)      | THU 6/26 |
 | Lab 2: Conditionals, Reporters & Abstraction   | MON 6/30 |
 | Lab 3: Lists and Loops (Iteration)        | TUE 7/01 |
 | Lab 4: Lists + HoFs       |WED 7/02 |
