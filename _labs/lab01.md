@@ -1,5 +1,5 @@
 ---
-title: # Lab 01
+title: # Lab 01:
 
 description: Build Your Own Blocks
 due: Thursday June 25th, 2359 hrs
