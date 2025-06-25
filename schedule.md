@@ -60,9 +60,9 @@
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
         <td>
-            Lec 3: Iteration + Scoping<br/>
+            Lec 3: Abstraction II <br/>
             <a href="#">(Recording 3)</a><br/>
-            <a href="#">(Slides 3)</a>
+            <a href="https://drive.google.com/drive/u/1/folders/1iu0r2YwZZdnAaO3m9DaTB1VcGYntlblk">(Slides 3)</a>
         </td>
         <td><a href="/su25/lab_directory">Lab 1: Build Your Own Blocks</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
