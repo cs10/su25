@@ -66,8 +66,9 @@ Outputs:
 - What type of block did we use for this code? What type of block would report instead? 
 
 Examples:   
-![examples of a polygon with 4 sides of 100 length](/asssets/images/lab_images/lab2_b1_1.png)   
-![examples of a polygon with 6 sides of 100 length](/asssets/images/lab_images/lab2_b1_2.png)
+
+![examples of a polygon with 4 sides of 100 length](/su25/assets/images/lab_images/lab2_b1_1.png)   
+![examples of a polygon with 6 sides of 100 length](/su25/assets/images/lab_images/lab2_b1_2.png)
 
 ## [Block 2: draw a square leaved flower with (leaves) leaves of (size) size](https://cs10.org/bjc-r/cur/programming/functions/intro/composing-blocks.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment) 
 Objective: 
@@ -83,5 +84,5 @@ Outputs:
 - None! It is a procedure / non-pure function, so it only displays a visual effect and does not output any values
 
 Examples:  
-![example of 'draw a square leaved flower with 6 leaves of 100 size'](/asssets/images/lab_images/lab2_b2_1.png)   
-![example of 'draw a square leaved flower with 10 leaves of 100 size'](/asssets/images/lab_images/lab2_b2_2.png)
+![example of 'draw a square leaved flower with 6 leaves of 100 size'](/su25/assets/images/lab_images/lab2_b2_1.png)   
+![example of 'draw a square leaved flower with 10 leaves of 100 size'](/su25/assets/images/lab_images/lab2_b2_2.png)
