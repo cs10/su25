@@ -111,7 +111,7 @@
         </td>
         <td><a href="/su25/lab_directory">Lab 3: Lists and Loops (Iteration)</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td> <b>Project 1: Wordle-lite Due</b>
+        <td><a href="/su25/projects/project1"><b>Project 1: Wordle-lite Due</b>
         </td>
     </tr>
     <tr>
