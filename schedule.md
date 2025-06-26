@@ -71,7 +71,7 @@
     <tr>
         <th>Thu 6/26</th> <!-- Date -->
         <td>
-            Lec 4: Lists + Loops<br/>
+            Lec 4: Boolean Expressions, Variables, Iteration<br/>
             <a href="#">(Recording 4)</a><br/>
             <a href="https://drive.google.com/drive/folders/1dOHkaTlg_Pz-caL25kZl4zXnhzSrob2-?usp=drive_link">(Slides 4)</a>
         </td>
