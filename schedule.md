@@ -73,7 +73,7 @@
         <td>
             Lec 4: Lists + Loops<br/>
             <a href="#">(Recording 4)</a><br/>
-            <a href="#">(Slides 4)</a>
+            <a href="https://drive.google.com/drive/folders/1dOHkaTlg_Pz-caL25kZl4zXnhzSrob2-?usp=drive_link">(Slides 4)</a>
         </td>
         <td><a href="/su25/lab_directory">Lab 2: Conditionals, Reporters, and Testing</a></td> <!-- Lab -->
         <td><a href="/su25/discussion">Disc 2</a></td> <!-- Discussion -->
