@@ -20,7 +20,7 @@ For additional help check out this [Project 1 Walkthrough Guide.pdf](https://dri
 
 ## Content
 
-[I. Introductions](https://github.com/cs10/su25/edit/main/_projects/project1.md#introductions)  
+[I. Introductions](#introductions)  
 [II. Part 1: "game over" Block](#part-1-game-over-guess-secret--score--block)  
 [III. Part 2: "matching slots" Block](#part-2-matching-green-slots-between-guess---and-secret--block)  
 [IV. Part 3: "update score" Block](#part-3-update-score-based-on-matched-slots--and-score--block)  
