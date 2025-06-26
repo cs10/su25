@@ -1,4 +1,13 @@
-# Lab 2:  Conditionals and Reporters & Abstraction
+---
+title: # Lab 02: 
+
+description: Conditionals, Reporters, & Testing
+due: Monday June 30th, 2359 hrs
+gradescope_assignment_id: 
+submission_files:
+---
+
+# Lab 2:  Conditionals, Reporters, & Testing
 
 ## Instructions: 
 This worksheet serves as a guide and set of instructions to complete lab 2. All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
@@ -9,7 +18,7 @@ This worksheet serves as a guide and set of instructions to complete lab 2. All 
 
 ## Submitting: 
 
-You will need to fill in the blocks under "Lab 3: Conditionals and Reporters & Abstraction" and submit this to Gradescope. 
+You will need to fill in the blocks under "Lab 2: Conditionals, Reporters, & Testing" and submit this to Gradescope. 
 - To receive full credit, you will need to complete the required blocks, and the required blocks must pass all tests from the autograder in Gradescope. 
 - For instructions on how to submit to labs to Gradescope, please see [this page](https://docs.google.com/document/d/1XAcZc9ypX07-bt0gK6uQ4P-06SrjPRsgiOjERIOlvYU/edit?usp=sharing).
 
