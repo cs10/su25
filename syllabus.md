@@ -98,7 +98,7 @@ General OH is intended for any course and content related questions. Here, you c
 
 #### Support OH 
 
-These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH. Please check out [this calendar](https://calendar.google.com/calendar/embed?src=c_94c8bd6e6c4ddbca139c743e3cdf7c27d6da5a7f3ae8452d9452d4e6ca72ea88%40group.calendar.google.com&ctz=America%2FLos_Angeles) for locations and times. 
+These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH. Please check out [this calendar](https://calendar.google.com/calendar/embed?src=c_94c8bd6e6c4ddbca139c743e3cdf7c27d6da5a7f3ae8452d9452d4e6ca72ea88%40group.calendar.google.com&ctz=America%2FLos_Angeles) for locations and times.
 
 #### Instructor OH 
 
