@@ -44,7 +44,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Boolean Operators, Conditionals, and Truth Tables</td>
       <td><a href="https://drive.google.com/drive/u/0/folders/1iQIyscHTTV3E3iibGPUcRgktiZFGHEuK">Worksheet 2</a></td>
       <td>Solutions 2</a></td>
-      <td><a href="#">Annotations 2</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1rPswukjK4ogcuaDqnVygOlSeS1kkz2I0">Annotations 2</a></td>
     </tr>
     <tr>
       <td>Discussion 3</td>
