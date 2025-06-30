@@ -86,8 +86,7 @@
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
-  </tbody>
-</table>
+
 
 <!-- Week 2 Calendar -->
 <table class="table table-bordered schedule-table" id="week2">
@@ -135,7 +134,7 @@
             <a href="#">(Recording 7)</a><br/>
             <a href="#">(Slides 7)</a>
         </td>
-        <td><a href="/su25/lab_directory">Lab 5: HOFs and Functions as Data</a></td> <!-- Lab -->
+        <td><a href="">Quest Preview</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td>
     </tr>
@@ -144,8 +143,8 @@
         <td>
             In Person: Quiz 1<br/>
         </td>
-        <td>Quest Preview</td> <!-- Lab with no link -->
-        <td><a href="/su25/discussion">Disc 4</a></td> <!-- Discussion -->
+        <td>No Lab</td> <!-- Lab with no link -->
+        <td>No Discussion</a></td> <!-- Discussion -->
         <td>Quiz 1</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
