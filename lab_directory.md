@@ -23,6 +23,10 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 2: Conditionals, Reporters, & Abstraction](/su25/labs/lab02)   | MON 6/30 |
 | Lab 3: Lists and Loops (Iteration)        | TUE 7/01 |
 | Lab 4: Lists + HoFs       |WED 7/02 |
+*Labs and due dates are subjected to change*
+
+<!-- /_labs/lab##.md 
+
 | Lab 5: HoFs and Functions as Data      | THU 7/03 |
 | Lab 6: Boards     | TUE 7/08 |
 | Lab 7: Recursive Reports (Linear Recursion)     | WED 7/09 |
@@ -43,11 +47,7 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | Lab 19: Tree Recursion | TUE 8/5 |
 | Lab 20: Concurrency | WED 8/6 |
 
-*Labs and due dates are subjected to change*
-
-
-
-
+-->
 
 
 
