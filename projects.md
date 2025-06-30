@@ -30,7 +30,7 @@ nav_order: 6
       <td>Monday, 6/30</td>
     </tr>
     <tr>
-      <td><a href="">Project 2: Spelling Bee</a></td>
+      <td><a href="/su25/projects/project2">Project 2: Spelling Bee</a></td>
       <td><a href="">Proj 2 Walkthrough Slides</a></td>
       <td>Tuesday, 7/01</td>
       <td>Monday, 7/07</td>
