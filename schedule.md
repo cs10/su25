@@ -105,9 +105,9 @@
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
         <th>Mon 6/30</th> <!-- Date -->
         <td>
-            Lec 5: HOFs + Mutability vs Immutability + List Scoping<br/>
+            Lec 5: Lists + Mutability vs Immutability<br/>
             <a href="#">(Recording 5)</a><br/>
-            <a href="#">(Slides 5)</a>
+            <a href="https://docs.google.com/presentation/d/1iF_tfpHAL0-0M8LX2Y96WdbT98OQeYKB67ab4Y-9ahU/edit?usp=sharing">(Slides 5)</a>
         </td>
         <td><a href="/su25/lab_directory">Lab 3: Lists and Loops (Iteration)</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
