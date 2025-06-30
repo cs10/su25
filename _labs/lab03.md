@@ -121,7 +121,7 @@ Output:
 Examples:
 - is num: "17" prime?. This will return True.
 - is num: "10" prime?. This will return False.
-- is num: "2” prime?. This will return False.
+- is num: "2” prime?. This will return True.
 
 ## Block 5: report only prime numbers from list: _
 
