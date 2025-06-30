@@ -31,7 +31,7 @@ nav_order: 6
     </tr>
     <tr>
       <td><a href="/su25/projects/project2">Project 2: Spelling Bee</a></td>
-      <td><a href="">Proj 2 Walkthrough Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td>
       <td>Tuesday, 7/01</td>
       <td>Monday, 7/07</td>
     </tr>
