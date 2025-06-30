@@ -41,7 +41,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     <tr>
       <td>Discussion 2</td>
       <td>6/26</td>
-      <td>Boolean Operators, Conditionals, and Truth Tables</td>
+      <td>Data-types, Domain / Range, Number Representation</td>
       <td><a href="https://drive.google.com/drive/u/0/folders/1iQIyscHTTV3E3iibGPUcRgktiZFGHEuK">Worksheet 2</a></td>
       <td>Solutions 2</a></td>
       <td><a href="https://drive.google.com/drive/folders/1rPswukjK4ogcuaDqnVygOlSeS1kkz2I0">Annotations 2</a></td>
@@ -49,19 +49,23 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     <tr>
       <td>Discussion 3</td>
       <td>7/1</td>
-      <td>Data-types, Domain / Range, Scoping, Lists</td>
-      <td><a href="#">Worksheet 3</a></td>
+      <td>Boolean Operators, Scoping, and Lists</td>
+      <td><a href="https://drive.google.com/drive/folders/1nmOZPQixUNUloeppGi8ou3WcHzXrIvkX?usp=sharing">Worksheet 3</a></td>
       <td>Solutions 3</a></td>
       <td><a href="#">Annotations 3</a></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
       <td>7/3</td>
-      <td>Scoping, Lists, and HoFs</td>
-      <td><a href="#">Worksheet 4</a></td>
-      <td>Solutions 4</a></td>
-      <td><a href="#">Annotations 4</a></td>
+      <td>No Discussion</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
+
+<!-- This is a comment 
+
+    
     <tr>
       <td>Discussion 5</td>
       <td>7/8</td>
@@ -144,3 +148,5 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     </tr>
   </tbody>
 </table>
+
+-->
