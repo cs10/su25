@@ -16,6 +16,7 @@ This page outlines the logistics of resolving your grade and includes key next s
 You’ll need to be manually enrolled into course platforms like **bCourses, Gradescope, PrairieLearn**, and **EdStem**.  
 
 To get started, please enroll yourself in our [EdStem forum](https://edstem.org/us/join/MZFuQN) and complete the [Incomplete Summer 2025 Registration Form](https://forms.gle/eqk8AQuTk55r8nyz8).  
+
 **Completing this form is required** in order to resolve your incomplete this summer.
 
 We’re here to support you — once you fill out the form, we’ll work with you to clarify what you need to finish and grant access to past specs / instructions. 
@@ -37,20 +38,26 @@ For questions specific to incompletes, you can also email **cs10@berkeley.edu**,
 
 If this is your first time resolving an incomplete, please complete the [Incomplete Summer 2025 Registration Form](https://forms.gle/eqk8AQuTk55r8nyz8) with as much information as possible.
 
-After that, you can:
+After submitting the form, you can:
 - Make a post on EdStem  
-- Visit Stacey's office hours (messaging ahead of time will be useful) 
+- Visit Stacey's office hours (messaging ahead of time is recommended) 
 
-We will review your current grade and let you know which assignments are still missing or incomplete. After that, you’ll be given access to a folder containing the relevant past assignment specifications and instructions.
+We will review your current grade and confirm which assignments are missing or incomplete. Once confirmed, you’ll be granted access to a folder containing the relevant past assignment specifications and instructions.
+
+We recommend completing the most updated versions of labs and projects and submitting them to the Summer 2025 (Incomplete) Gradescope.
+- If your original semester used autograders for labs or projects, you may instead submit to the original Gradescope for credit.
+-If your original semester did not use autograders, you will need to submit your labs on Gradescope and provide that link in your submission (see below for more details).
+
+All submitted work will be graded using the rubric and expectations from the semester you originally took the course. This ensures consistency and fairness in evaluating your completed work.
 
 ---
 
 ## How do I submit work or assignments?
 
-To ensure your submissions are counted, follow these steps:
+To ensure your submissions are recorded and reviewed, follow the steps below:
 
-- **Gradescope**: Use the *CS10 Summer 2025 Gradescope instance* to submit:
-  - Projects 1–4 and Final Project  
+- **Gradescope**: Use the *CS10 Summer 2025 Gradescope instance* (recommended) to submit:
+  - Projects 1–4 and the Final Project  
   - Reading Quizzes and Lecture Quizzes (by request) 
   - Labs  
   - Coding portions of exams (if applicable) 
@@ -65,14 +72,13 @@ To ensure your submissions are counted, follow these steps:
   - ❗ *Incomplete students may not take second-chance quizzes*
 
 - **Google Form**: You must also submit **each assignment** using this [Incomplete Submission Form]() so we can update your gradebook.
-  Please fill out the form **every time** you submit or resubmit an assignment.  
-  After an exam, use the same form to confirm completion.
-  > this form is under review and will be update shortly
+- Please submit the form **every time** you submit or resubmit an assignment.
+- After an exam, use the same form to confirm your completion.
 
 ⚠ **Important Notes**  
-- Only submit the assignments that were required during your *original* semester of CS10.  
-- Labs, projects, and quizzes may be **renumbered** or changed. Use `cs10.org/(your semester)` to check the correct versions.  
-- Submit a **separate Google Form** for **each** assignment.
+- Submit only the assignments that were required during your *original* semester of CS10.  
+- Labs, projects, and quizzes may be **renumbered** or revised. Use `cs10.org/(your semester)` to check the correct versions.  
+- Submit a **separate Google Form submission** for **each** assignment.
 
 ---
 
