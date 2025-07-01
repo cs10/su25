@@ -35,7 +35,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>6/24</td>
       <td>Welcome to Snap<em>!</em></td>
       <td><a href="https://drive.google.com/drive/folders/1mYfYNawnmTOK9t4kR1wzu_auZBq7AQwA?usp=sharing">Worksheet 1</a></td>
-      <td>Solutions 1</td>
+      <td><a href="#">Solutions 1</a></td>
       <td><a href="https://drive.google.com/file/d/1QB5Y4fT-N63k7wbvjssfSFw7umhC2wzw/view?usp=sharing">Annotations 1</a></td>
     </tr>
     <tr>
@@ -43,7 +43,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>6/26</td>
       <td>Data-types, Domain / Range, Number Representation</td>
       <td><a href="https://drive.google.com/drive/u/0/folders/1iQIyscHTTV3E3iibGPUcRgktiZFGHEuK">Worksheet 2</a></td>
-      <td>Solutions 2</a></td>
+      <td><a href="#">Solutions 2</a></td>
       <td><a href="https://drive.google.com/drive/folders/1rPswukjK4ogcuaDqnVygOlSeS1kkz2I0">Annotations 2</a></td>
     </tr>
     <tr>
@@ -51,7 +51,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>7/1</td>
       <td>Boolean Operators, Scoping, and Lists</td>
       <td><a href="https://drive.google.com/drive/folders/1nmOZPQixUNUloeppGi8ou3WcHzXrIvkX?usp=sharing">Worksheet 3</a></td>
-      <td>Solutions 3</a></td>
+      <td><a href="#">Solutions 3</a></td>
       <td><a href="#">Annotations 3</a></td>
     </tr>
     <tr>
@@ -62,6 +62,8 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>-</td>
       <td>-</td>
     </tr>
+  </tbody>
+</table>
 
 <!-- This is a comment 
 
