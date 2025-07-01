@@ -64,9 +64,11 @@ To ensure your submissions are counted, follow these steps:
   - Quiz 3 = Postterm  
   - ❗ *Incomplete students may not take second-chance quizzes*
 
-- **Google Form**: You must also submit **each assignment** using this [Incomplete Submission Form]() so we can update your gradebook.  
+- **Google Form**: You must also submit **each assignment** using this [Incomplete Submission Form]() so we can update your gradebook.
   Please fill out the form **every time** you submit or resubmit an assignment.  
   After an exam, use the same form to confirm completion.
+  > this form is under review and will be update shortly
+
 
 > ⚠ **Important Notes**  
 > - Only submit the assignments that were required during your *original* semester of CS10.  
