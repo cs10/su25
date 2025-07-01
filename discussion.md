@@ -52,7 +52,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Boolean Operators, Scoping, and Lists</td>
       <td><a href="https://drive.google.com/drive/folders/1nmOZPQixUNUloeppGi8ou3WcHzXrIvkX?usp=sharing">Worksheet 3</a></td>
       <td><a href="#">Solutions 3</a></td>
-      <td><a href="#">Annotations 3</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1Lc3OHnVIHYPVxLA7lAy9WUPw-h351bkKaYgnTNRFHTQ/edit?slide=id.p#slide=id.p">Annotations 3</a></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
