@@ -118,7 +118,7 @@
       <td>
         Lec 6: Higher Order Functions (HoFs) <br/>
         <a href="#">(Recording 6)</a><br/>
-        <a href="#">(Slides 6)</a>
+        <a href="https://docs.google.com/presentation/d/1WbP9MukwZWUw7Ei7YFTrnh7iiI3kU29zjVXu4MhBU0I/edit?usp=sharing">(Slides 6)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 4: Lists + HOFs</a></td>
       <td><a href="/su25/discussion">Disc 3</a></td>
