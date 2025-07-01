@@ -33,13 +33,13 @@ nav_order: 6
       <td><a href="/su25/projects/project2">Project 2: Spelling Bee</a></td>
       <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td>
       <td>Tuesday, 7/01</td>
-      <td>Monday, 7/07</td>
+      <td>Wednesday, 7/09</td>
     </tr>
      <tr>
       <td><a href="">Project 3: 2048</a></td>
       <td><a href="">Proj 3 Walkthrough Slides</a></td>
-      <td>Tuesday, 7/08</td>
-      <td>Monday, 7/14</td>
+      <td>Thursday, 7/10</td>
+      <td>Monday, 7/21</td>
     </tr>
     <tr>
       <td><a href="">Project 4: Tech in Context</a></td>
