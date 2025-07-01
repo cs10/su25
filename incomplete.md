@@ -18,7 +18,7 @@ You’ll need to be manually enrolled into course platforms like **bCourses, Gra
 To get started, please enroll yourself in our [EdStem forum](https://edstem.org/us/join/MZFuQN) and complete the [Incomplete Summer 2025 Registration Form](https://forms.gle/eqk8AQuTk55r8nyz8).  
 **Completing this form is required** in order to resolve your incomplete this summer.
 
-We’re here to support you — once you fill out the form, we’ll work with you to clarify what you need to finish.
+We’re here to support you — once you fill out the form, we’ll work with you to clarify what you need to finish and grant access to past specs / instructions. 
 
 ---
 
@@ -41,7 +41,7 @@ After that, you can:
 - Make a post on EdStem  
 - Visit Stacey's office hours (messaging ahead of time will be useful) 
 
-We will review your current grade and let you know which assignments are missing or incomplete.
+We will review your current grade and let you know which assignments are still missing or incomplete. After that, you’ll be given access to a folder containing the relevant past assignment specifications and instructions.
 
 ---
 
