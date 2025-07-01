@@ -69,11 +69,10 @@ To ensure your submissions are counted, follow these steps:
   After an exam, use the same form to confirm completion.
   > this form is under review and will be update shortly
 
-
-> ⚠ **Important Notes**  
-> - Only submit the assignments that were required during your *original* semester of CS10.  
-> - Labs, projects, and quizzes may be **renumbered** or changed. Use `cs10.org/(your semester)` to check the correct versions.  
-> - Submit a **separate Google Form** for **each** assignment.
+⚠ **Important Notes**  
+- Only submit the assignments that were required during your *original* semester of CS10.  
+- Labs, projects, and quizzes may be **renumbered** or changed. Use `cs10.org/(your semester)` to check the correct versions.  
+- Submit a **separate Google Form** for **each** assignment.
 
 ---
 
