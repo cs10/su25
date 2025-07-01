@@ -1,7 +1,7 @@
 ---
 title: Project 2
 description: Spelling Bee
-due: "11:59 PM PST on Monday, 7/7"
+due: "11:59 PM PST on Wednesday, 7/9"
 gradescope_assignment_id: 
 submission_files:
     - starter.xml
@@ -16,12 +16,14 @@ submission_files:
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=imenguechtouli&ProjectName=BJC%20CS10%20Project%202%3a%20Spelling%20Bee&editMode&Run)
 
+Project 2 is due Wednesday 7/9 @ 2359 hrs
+
 Any important updates or clarifications will be made here.
-> Project 2 Party - Monday 7/7, 6-7 PM @ Warren 101B
+> Project 2 Party - Monday 7/7, 6-8 PM AND Wednesday 7/9, 5-8 PM @ Warren 101B
 
 ## Content
 
-[I. Submission Guidelines](#Submission-guidelines)  
+[I. Submission Guidelines](#Submission-guidelines)
 [II. Preface](#preface)  
 [III. Introduction](#Introduction)  
 [IV. Part 1: "letter" Block](#)
