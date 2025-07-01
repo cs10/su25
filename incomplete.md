@@ -1,52 +1,144 @@
-# Resolving your Incomplete / Continuing Work Grade
+---
+layout: default
+title: Incomplete / Continuing Work Student
+description: Logistics about resolving your Incomplete grade 
+nav_order: 11
+---
 
-Here you will find logistics about resolving your grade, along with next steps and the forms needed to submit.
+# Resolving Your Incomplete / Continuing Work Grade
+
+This page outlines the logistics of resolving your grade and includes key next steps, policies, and the forms you need to complete.
+
+---
 
 ## What should I do first?
 
-You will need to be manually enrolled into each of the platforms (Bcourses, Gradescope, PrairieLearn, EdStem). To get started, please enroll yourself into the [EdStem](https://edstem.org/us/join/HfmcD2) and make a post about being enrolled into the platforms.
+You’ll need to be manually enrolled into course platforms like **bCourses, Gradescope, PrairieLearn**, and **EdStem**.  
+
+To get started, please enroll yourself in our [EdStem forum](https://edstem.org/us/join/MZFuQN) and complete the [Incomplete Summer 2025 Registration Form](https://forms.gle/eqk8AQuTk55r8nyz8).  
+**Completing this form is required** in order to resolve your incomplete this summer.
+
+We’re here to support you — once you fill out the form, we’ll work with you to clarify what you need to finish.
+
+---
 
 ## Who should I contact if I have questions?
 
-Your main point of contact will be Victoria Phelps. I can be contacted through EdStem or through my office hours, which are on the calendar. You may also email me, but I will be slower to respond through email. 
+Your main point of contact for the summer is **Stacey Yoo**.  
+The best ways to reach staff are:
+- Posting on **EdStem**
+- Attending **Support Office Hours** (listed on the [calendar](https://cs10.org/su25/calendar/))
 
-## How can I get a list of assignment that I need to complete?
+For questions specific to incompletes, you can also email **cs10@berkeley.edu**, but response times will be slower by email.
 
-Please make an EdStem post or come to Victoria's office hours to get the list of assignments. I will let you know what your current grade is and which assignments do not have full credit.
+---
 
-## How do I submit work / assignments?
+## How can I get a list of assignments I need to complete?
 
-To submit projects 1-3, 4, and the final project, Reading Quizzes, Lecture quizzes, coding portions to exams, and Labs, students will use the current Gradescope instance. To submit Pyturis and complete exams, you will use the current PrairieLearn instance. You will ALSO need to submit ALL assignments to this [Google Form](https://forms.gle/fd71vCa76GwECacB6), to let us know to update the assignment in our gradebook
+If this is your first time resolving an incomplete, please complete the [Incomplete Summer 2025 Registration Form](https://forms.gle/eqk8AQuTk55r8nyz8) with as much information as possible.
 
-After taking exams, students will indicate completion of exams on this form. 
+After that, you can:
+- Make a post on EdStem  
+- Visit Stacey's office hours (messaging ahead of time will be useful) 
 
-Not all assignments will be applicable to you. You only need to submit the assignments that were required during your ORIGINAL semester of taking CS10. Note, labs, projects, and lecture quizzes might be numbered differently than when you originally took the class. Some projects have also changed or have been removed, so please consult the cs10.org/(semester you took cs10) to ensure you are completing the correct assignments.
+We will review your current grade and let you know which assignments are missing or incomplete.
 
-Please submit this form, FOR EACH assignment you resubmit.
+---
+
+## How do I submit work or assignments?
+
+To ensure your submissions are counted, follow these steps:
+
+- **Gradescope**: Use the *CS10 Summer 2025 Gradescope instance* to submit:
+  - Projects 1–4 and Final Project  
+  - Reading Quizzes and Lecture Quizzes (by request) 
+  - Labs  
+  - Coding portions of exams (if applicable) 
+
+- **PrairieLearn**: Use the *CS10 Summer 2025 PrairieLearn instance* to complete:
+  - Pyturis (if applicable)
+
+- **Exams**: All exams will be taken **in person** this semester. Dates are listed on the [syllabus](https://cs10.org/su25/syllabus/#exams).  
+  - Quiz 1 = Quest  
+  - Quiz 2 = Midterm  
+  - Quiz 3 = Postterm  
+  - ❗ *Incomplete students may not take second-chance quizzes*
+
+- **Google Form**: You must also submit **each assignment** using this [Incomplete Submission Form]() so we can update your gradebook.  
+  Please fill out the form **every time** you submit or resubmit an assignment.  
+  After an exam, use the same form to confirm completion.
+
+> ⚠ **Important Notes**  
+> - Only submit the assignments that were required during your *original* semester of CS10.  
+> - Labs, projects, and quizzes may be **renumbered** or changed. Use `cs10.org/(your semester)` to check the correct versions.  
+> - Submit a **separate Google Form** for **each** assignment.
+
+---
 
 ## How can I take an exam?
 
-All exams are released through PrairieLearn. Incomplete and Continuing Work students are only eligible to complete the first exams that are released in a semester (Quest 1, Midterm 1, and Postterm 1). You would not be eligible to take any of the retake exams. Keep an eye out for when these exams are released, so you do not miss the opportunity to take it.
+All exams this summer are:
+- **In person**
+- **On paper**
 
-## Request an Extension for an Incomplete Grade
+As an Incomplete or Continuing Work student, you may only take the **first offering** of each exam:
+- Quiz 1 (Quest)  
+- Quiz 2 (Midterm)  
+- Quiz 3 (Postterm)
 
-You should plan to do this at least 30 days prior to the instructor's deadline to submit this petition. Your instructor will then need to submit the signed Incomplete Extension form to the colleged you are enrolled. The instructor will need to sign part of the form (including the signature, current date, and date to resolve incomplete), so do not fill out those portions yourself! Only fill out the portions with your pertinent student information and the assignments needed to resolve. 
+You are **not eligible** for retake or second-chance exams.
 
-The form can be found here: [Incomplete Grade Extension Form](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://registrar.berkeley.edu/wp-content/uploads/updated_Fillable_All-College-Petition-to-Extend-Incomplete-Form-11.23-Google-Docs.pdf). Once you have completed your portion of the form, please upload it to EdStem, and we will fill out the rest and submit it on your behalf.
+Check the [syllabus](https://cs10.org/su25/syllabus/#exams) for dates.  
+If you have an emergency or need to request an alternate exam time, please contact us **before** the exam.
 
-Unfortunately, we do not have access to when your Incomplete grade expires. However, you should be able to view this on CalCentral under the semester that you originally took CS10. 
+---
 
-## What to do if your Incomplete grade has lapsed to an 'F'
+## Requesting an Extension for an Incomplete Grade
 
-Unfortunately, we are not able to change the grade after this point. You would need to speak with your college advisor, but there is no guarantee they would be able to change it. 
+If you need more time beyond the default Incomplete deadline, you’ll need to file an **Incomplete Grade Extension Petition**.  
 
-If your grade lapsed to an 'F' because we did not file the correct form, or there was an administrative error, please reach out on EdStem ASAP. 
+You should begin this process **at least 30 days before** the current deadline.  
+Only your instructor can submit the final form to your college.
 
-## Resolving Grade / Receiving Final Letter Grade
+> 🔒 **Important:**  
+> - Only fill out the **student section** of the form  
+> - Leave the instructor signature and resolution date **blank**  
+> - Upload your filled form to **EdStem**, and we will complete and submit it
 
-If you are ready to receive your final letter grade, please reach out on EdStem. Note, we are only able to change your grade once, so please ensure that you know what the current grade is and are satisfied to move forward with it being resovled on CalCentral.
+📄 [Incomplete Grade Extension Form (PDF)](https://registrar.berkeley.edu/wp-content/uploads/updated_Fillable_All-College-Petition-to-Extend-Incomplete-Form-11.23-Google-Docs.pdf)  
+Unfortunately, we don’t have access to your Incomplete deadline. You can view it on **CalCentral** under the semester when you originally enrolled in CS10.
 
-## Continuing Work Students
+---
 
-Much of the process is the same as resolving an Incomplete. The other difference is that you do not need to request an Extension. Please follow all other steps though. 
+## What if my Incomplete grade has already lapsed to an 'F'?
 
+If your grade has lapsed, we are **not able** to change it ourselves.
+
+Please speak with your **college advisor** to discuss your options.  
+Note that reversal is not guaranteed.
+
+If your grade lapsed due to a **staff error** (e.g., we didn’t submit a form in time), contact us on **EdStem immediately** so we can investigate.
+
+---
+
+## Receiving Your Final Grade
+
+If you’ve completed all requirements and are ready for your final grade to be posted:
+
+- Please contact us on **EdStem**  
+- We will confirm your current grade and resolve it in **CalCentral**
+
+⚠ Grades can only be changed **once**, so make sure you’re satisfied before finalizing.
+
+---
+
+## For Continuing Work Students
+
+The process for Continuing Work students is **nearly identical** to resolving an Incomplete.
+
+The only key difference is:
+- You **do not** need to request an Incomplete Extension
+
+Please follow all other instructions in this guide.
+
+---
