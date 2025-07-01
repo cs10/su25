@@ -45,7 +45,7 @@ nav_order: 6
       <td><a href="">Project 4: Tech in Context</a></td>
       <td><a href="">Example Projects</a></td>
       <td>Tuesday, 7/22</td>
-      <td>Monday, 8/4</td>
+      <td>Monday, 8/04</td>
     </tr>
     <tr>
       <td>Project 4: Presentations</td>
