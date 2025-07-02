@@ -26,7 +26,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <th>Title</th>
       <th>Worksheet</th>
       <th>Solutions</th>
-      <th>Annotations</th>
+      <th>Annotations/Slides</th>
     </tr>
   </thead>
   <tbody>
