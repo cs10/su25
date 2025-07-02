@@ -129,9 +129,9 @@
     <tr>
       <td>Wed 7/2</td>
       <td>
-        Lec 7: Functions as Data + Lambdas<br/>
+        Lec 7: User Defined HOFs + Lambdas<br/>
         <a href="#">(Recording 7)</a><br/>
-        <a href="#">(Slides 7)</a>
+        <a href="https://docs.google.com/presentation/d/16q1dy-COACksDKM4TvuSrb1rA6jsAaX_VzBAXBCTFDw/edit?usp=sharing">(Slides 7)</a>
       </td>
       <td><a href="#">Quest Preview</a></td>
       <td></td>
