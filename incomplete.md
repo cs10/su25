@@ -79,6 +79,7 @@ To ensure your submissions are recorded and reviewed, follow the steps below:
 - Submit only the assignments that were required during your *original* semester of CS10. 
 - Labs, projects, and quizzes may be **renumbered** or revised. Use `cs10.org/(your semester)` to check the correct versions.
 - [Fa22](https://cs10.org/fa22/), [Sp23](https://cs10.org/sp23/), [Su23](https://cs10.org/su23/), [Fa23](https://cs10.org/fa23/), [Sp24](https://cs10.org/sp24/), [Su24](https://cs10.org/su24/), [Fa24](https://cs10.org/fa24/), [Sp25](https://cs10.org/sp25/)
+- Please note that some old specs may be locked. These lab and project specs can be found in the Incomplete Resource folder that is shared with you. If you are unshare of where to find past assignments or if one is missing please let staff know. 
 - Submit a **[separate Google Form submission](https://docs.google.com/forms/d/e/1FAIpQLSdIybFptR341_2JzOh0v0Gs3m-om3KSNcxHHBLXsynuzFQtAg/viewform?usp=header)** for **each** assignment.
 
 ---
