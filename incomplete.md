@@ -44,7 +44,7 @@ After submitting the form, you can:
 
 We will review your current grade and confirm which assignments are missing or incomplete. Once confirmed, you’ll be granted access to a folder containing the relevant past assignment specifications and instructions.
 
-We recommend completing the most updated versions of labs and projects and submitting them to the Summer 2025 (Incomplete) Gradescope.
+If this is your first time resolving an incomplete, we recommend completing the most updated versions of labs and projects and submitting them to the Summer 2025 (Incomplete) Gradescope.
 - If your original semester used autograders for labs or projects, you may instead submit to the original Gradescope for credit.
 -If your original semester did not use autograders, you will need to submit your labs on Gradescope and provide that link in your submission (see below for more details).
 
@@ -71,14 +71,15 @@ To ensure your submissions are recorded and reviewed, follow the steps below:
   - Quiz 3 = Postterm  
   - ❗ *Incomplete students may not take second-chance quizzes*
 
-- **Google Form**: You must also submit **each assignment** using this [Incomplete Submission Form]() so we can update your gradebook.
+- **Google Form**: You must also submit **each assignment** using this [Incomplete Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdIybFptR341_2JzOh0v0Gs3m-om3KSNcxHHBLXsynuzFQtAg/viewform?usp=header) so we can update your gradebook.
 - Please submit the form **every time** you submit or resubmit an assignment.
 - After an exam, use the same form to confirm your completion.
 
 ⚠ **Important Notes**  
-- Submit only the assignments that were required during your *original* semester of CS10.  
-- Labs, projects, and quizzes may be **renumbered** or revised. Use `cs10.org/(your semester)` to check the correct versions.  
-- Submit a **separate Google Form submission** for **each** assignment.
+- Submit only the assignments that were required during your *original* semester of CS10. 
+- Labs, projects, and quizzes may be **renumbered** or revised. Use `cs10.org/(your semester)` to check the correct versions.
+- [Fa22](https://cs10.org/fa22/), [Sp23](https://cs10.org/sp23/), [Su23](https://cs10.org/su23/), [Fa23](https://cs10.org/fa23/), [Sp24](https://cs10.org/sp24/), [Su24](https://cs10.org/su24/), [Fa24](https://cs10.org/fa24/), [Sp25](https://cs10.org/sp25/)
+- Submit a **[separate Google Form submission](https://docs.google.com/forms/d/e/1FAIpQLSdIybFptR341_2JzOh0v0Gs3m-om3KSNcxHHBLXsynuzFQtAg/viewform?usp=header)** for **each** assignment.
 
 ---
 
