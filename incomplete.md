@@ -56,11 +56,11 @@ All submitted work will be graded using the rubric and expectations from the sem
 
 To ensure your submissions are recorded and reviewed, follow the steps below:
 
-- **Gradescope**: Use the *CS10 Summer 2025 Gradescope instance* (recommended) to submit:
+- **Gradescope**: Use entry code: PG6DVX on [Gradescope](https://www.gradescope.com/) to access the *CS10 Summer 2025 Gradescope instance* (recommended) to submit:
   - Projects 1–4 and the Final Project  
   - Reading Quizzes and Lecture Quizzes (by request) 
   - Labs  
-  - Coding portions of exams (if applicable) 
+  - Coding portions of exams (if applicable)
 
 - **PrairieLearn**: Use the *CS10 Summer 2025 PrairieLearn instance* to complete:
   - Pyturis (if applicable)
