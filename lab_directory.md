@@ -23,6 +23,7 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 2: Conditionals, Reporters, & Abstraction](/su25/labs/lab02)   | MON 6/30 |
 | [Lab 3: Lists and Loops (Iteration)](/su25/labs/lab03)        | TUE 7/01 |
 | [Lab 4: Lists + HoFs](/su25/labs/lab04)       |MON 7/07 |
+| [Practice Quiz 1](https://docs.google.com/document/d/1pbkxn5C4YRgUeHVfiHYwXKVyTV_PwENyGVyKXkpjYx0/edit?tab=t.0#heading=h.7z7x31mvpha2) | THU 7/3 |
 
 *Labs and due dates are subjected to change*
 
