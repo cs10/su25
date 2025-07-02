@@ -44,7 +44,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Data-types, Domain / Range, Number Representation</td>
       <td><a href="https://drive.google.com/drive/u/0/folders/1iQIyscHTTV3E3iibGPUcRgktiZFGHEuK">Worksheet 2</a></td>
       <td><a href="#">Solutions 2</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1rPswukjK4ogcuaDqnVygOlSeS1kkz2I0">Annotations 2</a></td>
+      <td><a href="https://drive.google.com/file/d/1oaAIEH5NS-j__zF_a0PcB7cMP8SPpOTS/view?usp=sharing">Annotations 2</a></td>
     </tr>
     <tr>
       <td>Discussion 3</td>
