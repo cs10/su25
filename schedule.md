@@ -210,3 +210,59 @@
     </tr>
   </tbody>
 </table>
+
+<!-- Week 4 Calendar -->
+<table class="table table-bordered schedule-table" id="week3">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan="5">Week 3</td>
+      <td>Mon 7/14</td>
+      <td>Data Science</td>
+      <td><a href="/su25/lab_directory">Lab 9: Algorithmic Complexity</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tue 7/15</td>
+      <td>AI, ML, and LLMs</td>
+      <td><a href="/su25/lab_directory">Lab 10: Data Science</a></td>
+      <td><a href="/su25/discussion">Disc 7</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wed 7/16</td>
+      <td>Social Implications</td>
+      <td><a href="/su25/lab_directory">Lab: Quiz 2 Preview</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Thu 7/17</td>
+      <td>Quiz 2 Review</td>
+      <td><a href="/su25/lab_directory">Lab: Quiz 2 Practice</a></td>
+      <td><a href="/su25/discussion">Disc 8</a>
+      <td></b></td>
+    </tr>
+    <tr>
+      <td>Fri 7/18</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <b>Quiz 2</b><br/>
+        Location: GPBB 100<br/>
+        Time: 4–5 PM<br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
