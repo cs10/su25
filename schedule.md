@@ -169,6 +169,7 @@
       <td class="schedule-week-num" rowspan="5">Week 3</td>
       <td>Mon 7/7</td>
       <td>Recursion</td>
+      <a href="https://docs.google.com/presentation/d/1rIJSkU8c0-LMEz5DhTRkA5fZcLrDRBCJmx1L4RpXjYE/edit?usp=sharing">(Slides 7)</a>
       <td><a href="/su25/lab_directory">Lab 5: Boards</a></td>
       <td></td>
       <td></td>
