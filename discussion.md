@@ -65,7 +65,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     <tr>
       <td>Discussion 5</td>
       <td>7/8</td>
-      <td>Mutability, HoFs, and Lambdas</td>
+      <td>HOFs and Lambdas</td>
       <td><a href="https://drive.google.com/drive/folders/1jiprEwfdMFeWViabYdD_syLAKUFQrq9U?usp=drive_link">Worksheet 5</a></td>
       <td><a href="#">Solutions 5</a></td>
       <td><a href="#">Annotations 5</a></td>
