@@ -57,13 +57,30 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     <tr>
       <td>Discussion 4</td>
       <td>7/3</td>
-      <td>No Discussion</td>
+      <td><strong>No Discussion</strong></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td>Discussion 5</td>
+      <td>7/8</td>
+      <td>HOFs and Lambdas</td>
+      <td><a href="https://drive.google.com/drive/folders/1jiprEwfdMFeWViabYdD_syLAKUFQrq9U?usp=drive_link">Worksheet 5</a></td>
+      <td><a href="#">Solutions 5</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1DqoRuOskeyF3rXhc49HQsiY7QZCANot4S7iHBRxybsY/edit?usp=sharing">Annotations 5</a></td>
+    </tr>
+    <tr>
+      <td>Discussion 6</td>
+      <td>7/10</td>
+      <td>Linear Recursion</td>
+      <td><a href="#">Worksheet 6</a></td>
+      <td><a href="#">Solutions 6</a></td>
+      <td><a href="">Annotations 6</a></td>
+    </tr>
   </tbody>
 </table>
+
 
 <!-- This is a comment 
 

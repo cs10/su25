@@ -12,7 +12,7 @@ submission_files:
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 - *[Project walkthrough guide.pdf](https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view?usp=sharing)*
-- *[Project walkthrough videos will be uploaded here]()* 
+- Project walkthrough videos;[ Introduction](https://www.youtube.com/watch?v=rXS2Jq9OF2A&list=PL0eCszHptci94odLL7RRtCt4NGhtzsolh&index=1),[ Part I: Letter Block](https://youtu.be/2v_qnLyhfC8?feature=shared), [Part II: Has Letter Block](https://youtu.be/40xbBg4GLes?feature=shared)
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=imenguechtouli&ProjectName=BJC%20CS10%20Project%202%3a%20Spelling%20Bee&editMode&Run)
 
@@ -81,17 +81,23 @@ We strongly encourage you to play this game on the [NY Times Spelling Bee site](
 
 If you’re having trouble, please contact the course staff for assistance — Ed, Office Hours, and Project Parties- are all here to help you feel good about the work you’re doing, or get you unstuck!
 
+A project introductory video, explaining rules, guidelines, and steps can be found [here](https://www.youtube.com/watch?v=rXS2Jq9OF2A&list=PL0eCszHptci94odLL7RRtCt4NGhtzsolh&index=1). (Thank you Jaclyn!) 
+
 ## **Part 1:** <Letter []> Block
 
 First, you’ll build a **predicate block** (aka the “letter” block) that should report *True* iff (if and only if) the input is a single-character letter a-z or A-Z, and *False* if it is not. E.g.,
 
 ![Testcases for Part 1 Block](/su25/assets/images/p2/P2-Part1Tests.png)
 
+For more hints check out this [Project Walkthrough video](https://www.youtube.com/watch?v=2v_qnLyhfC8&list=PL0eCszHptci94odLL7RRtCt4NGhtzsolh&index=2)
+
 ## **Part 2:** < [] has letter [] > Block 
 
 Next, you’ll build a **predicate** (aka the “has letter” block) that should report *True* iff the first input (a word) contains the letter. E.g.,
 
 ![Testcases for Part 2 Block](/su25/assets/images/p2/P2-Part2Tests.png)
+
+For more hints check out this [Project Walkthrough video](https://www.youtube.com/watch?v=40xbBg4GLes&list=PL0eCszHptci94odLL7RRtCt4NGhtzsolh&index=3)
 
 **For this block, you may assume that both inputs will always utilize uppercase letters.**
 
