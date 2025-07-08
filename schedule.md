@@ -169,7 +169,7 @@
       <td class="schedule-week-num" rowspan="5">Week 3</td>
       <td>Mon 7/7</td>
       <td>
-        Recursion
+        Nested Lists<br/>
         <a href="https://docs.google.com/presentation/d/1rIJSkU8c0-LMEz5DhTRkA5fZcLrDRBCJmx1L4RpXjYE/edit?usp=sharing">(Slides 7)</a>
       </td>
       
@@ -179,7 +179,10 @@
     </tr>
     <tr>
       <td>Tue 7/8</td>
-      <td>Testing</td>
+      <td>
+        Recursion<br/>
+        <a href="https://docs.google.com/presentation/d/11QX5pbCe7GY-84yd4a29xo6CiHQPwMm32kYFM3RkMtc/edit?usp=sharing">(Slides 8) </a>
+      </td>
       <td><a href="/su25/lab_directory">Lab 6: Recursive Reporters</a></td>
       <td><a href="/su25/discussion">Disc 5</a></td>
       <td></td>
