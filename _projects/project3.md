@@ -112,7 +112,7 @@ We encourage you to play around with these blocks (input different values and se
 
 ## Suggestions
 
-Parts 3 and 4 will take a significant amount of your time spent on the project. We recommend managing your time to accommodate for the influx of difficulty on the latter half of project 3. A good mental checkpoint is to have part 2 done by Friday. These are merely *suggestions* based on the experience of students from previous semesters.
+Parts 3 and 4 will take a significant amount of your time spent on the project. We recommend managing your time to accommodate for the influx of difficulty on the latter half of project 3. A good mental checkpoint is to have part 3 done by Thursday 7/17. These are merely *suggestions* based on the experience of students from previous semesters.
 
 ## Part 1: Populating the Board
 
