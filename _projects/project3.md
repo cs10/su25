@@ -1,25 +1,26 @@
 ---
 title: Project 3
 description: 2048
-due: "11:59 PM PST on Monday, 3/17"
-gradescope_assignment_id: 5617831
+due: "11:59 PM PST on Monday, 7/21"
+gradescope_assignment_id:
 submission_files:
     - starter.xml
 ---
 
-<!-- *Version 3.1. Last Updated: 2024-10-10.* -->
+<!-- *Version 3.1. Last Updated: 2025-7-08.* -->
 
 *[Project 3 Walkthrough Guide](https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing)*
+*Project 3 Videos when uploaded will be linked here*
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%203%3A%202048)
 
 > Any important announcements will be made here:
 
->> Project 3 Party is Friday, 3/14 from 3 to 5PM in Soda 411
+>> [Project 3 Party](https://cs10.org/su25/calendar/) will be held in Warren 101B on the following days: Friday, 7/11 and 7/18 from 10 AM–1 PM, Monday, 7/14 and 7/21 from 6–8 PM
 
 >> *We highly recommend reading through this spec in its entirety before you begin.*
 
->> *We also recommend you complete all labs up to and including Lab 8: Boards*
+>> *For this project we recommend you complete all labs up to and including Lab 6: Boards*
 
 
 ## Content
@@ -61,7 +62,7 @@ be reporters, and should not update the board display — that’s handled for y
 So **make sure not to mutate the original board.** Once you’ve completed those five block definitions,
 you won’t need to change anything else about the code; it should work!
 
-![Example of the 2048 game board](/sp25/assets/images/p3/p1.png)
+![Example of the 2048 game board](/su25/assets/images/p3/p1.png)
 
 In a nutshell, the game works like this:
 
@@ -90,7 +91,7 @@ we won’t know when or how to help unless you let us know!
 
 ## Helper Blocks
 
-![Diagram of the rows and columns from the board](/sp25/assets/images/p3/p2.png)
+![Diagram of the rows and columns from the board](/su25/assets/images/p3/p2.png)
 
 
 You will not need to know how we represent a board in this game — we have provided the following nine helper blocks for you to use to interface with our board implementation. *The Power of Abstraction!*  With this in mind, **please make sure not to modify the input board** in any of the blocks you write! In addition, **please use these blocks, rather than coming up with your own.** Also keep in mind that you generally want to abstract as much as possible, meaning you should not use global variables within blocks. We created all custom blocks (including the five you will fill out) so that any information you’ll need will be passed into the block as input.
@@ -168,29 +169,29 @@ Hint: We found the “cascade” block helpful…
 
 An important part of learning to program is being able to test your code effectively. We’ve taken the training wheels off; in earlier projects we gave you all the tests, here we ask you to create the tests yourself. In the TESTER sprite, you will see four blocks:
 
-![Test function examples](/sp25/assets/images/p3/p3.png)
+![Test function examples](/su25/assets/images/p3/p3.png)
 
 You need to create at least two separate test cases for these four blocks, with their respective expected output. Please note, that the reporter test function requires the board to be wrapped in an additional list block. Once you are done with all your tests, to get credit from the autograder, you have to drag these four blocks into the four holes of the append block and then click that block to assign GRADED TESTS, which the Autograder will use to give you credit.
 
-![Graded tests variable](/sp25/assets/images/p3/p4.png)
+![Graded tests variable](/su25/assets/images/p3/p4.png)
 
 Please note that your test cases should output True, not False. This is because the goal of testing is to check that your blocks work in normal cases as well as edge cases, not to check that it fails when expected. If your block outputs False, we assume this means your block does not pass the case and is therefore faulty. When writing test cases, each test should include input and output (follow the format in the Testing lab), and you should think about a genuine input for the block that would help you test if it accomplishes the task it should do, or catches some edgecase. For example, does the merge column up block work on a column with the values [0, 0, 2, 2]? If the merge column with this input correctly outputs [4, 0, 0, 0] in that column, the test block should output True.
 Check out these workbook pages which go deeper into the Test block and testing. Feel free to test your concepts in the 2048 lab section. Tests only present in your lab sprite will not be counted for project credit. The tests must be present in the “TESTER” section. 
 
 Here is guide and some examples of the testing block:
 
-![Testing Block Guide](/sp25/assets/images/p3/p5.png)
+![Testing Block Guide](/su25/assets/images/p3/p5.png)
 
 ## Feedback Form
 
-Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/q1KLqQf4UVCLqkkT7). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Each person in the group should submit the form to get full credit. Thank you!
+Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeyyUsrn6J0NHWBN0ewnZa9m4HgAHB1Q3X4TNjB61M3n2iKwg/viewform?usp=dialog). Each member of your group should submit to the form. Thank you!
 
 ## Grading
 
-You have five blocks to write, and they will be scored according to the table below; a perfect score would earn 35 points. Note that for a particular block, the test cases may have different weights. The autograder needs a score between 0 and 1, so we divide the total score by 35 to send to the autograder. You should continue to work on your code until all test cases pass
+You have five blocks to write, and they will be scored according to the table below; a perfect score would earn 35 points. Note that for a particular block, the test cases may have different weights. The autograder needs a score between 0 and 1, so we divide the total score by 35 to send to the autograder. You should continue to work on your code until all test cases pass.
 
 Remember that your final score on this project is the score you’ll see on Gradescope, which will be out of 35 points.
-If at any point you’d like to see a more detailed about how we calculate that out-of-35 score, you can run the  block we provide, which reports a nicely-formatted table (with headers) showing every test case, the expected value, and the actual value.
+If at any point you’d like to see a more detailed about how we calculate that out-of-35 score, you can run the block we provide, which reports a nicely-formatted table (with headers) showing every test case, the expected value, and the actual value.
 Note: correct, working code should handle those test cases, but not have the test cases hardcoded into your solution; they should be able to handle any inputs according to the specifications.
 See grading breakdown below:
 
@@ -201,5 +202,4 @@ See grading breakdown below:
 | merge up column _ of _ | Reporter | 11.67 |
 | merge up _ | Reporter | 4.67 |  
 | no moves left for _ ? | Predicate | 4.67 |
-| Testing | Variable | 3.65 |
-| Feedback Form | N/A | 1 |
+| Testing | Variable | 4.67 |
