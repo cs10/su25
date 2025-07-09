@@ -36,8 +36,8 @@ nav_order: 6
       <td>Wednesday, 7/09</td>
     </tr>
      <tr>
-      <td><a href="">Project 3: 2048</a></td>
-      <td><a href="">Proj 3 Walkthrough Slides</a></td>
+      <td><a href="/su25/projects/project3">Project 3: 2048</a></td>
+      <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td>
       <td>Thursday, 7/10</td>
       <td>Monday, 7/21</td>
     </tr>
