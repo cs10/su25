@@ -170,7 +170,7 @@
       <td>Mon 7/7</td>
       <td>
         Nested Lists<br/>
-        <a href="https://docs.google.com/presentation/d/1rIJSkU8c0-LMEz5DhTRkA5fZcLrDRBCJmx1L4RpXjYE/edit?usp=sharing">(Slides 7)</a>
+        <a href="https://docs.google.com/presentation/d/1rIJSkU8c0-LMEz5DhTRkA5fZcLrDRBCJmx1L4RpXjYE/edit?usp=sharing">(Slides 8)</a>
       </td>
       
       <td><a href="/su25/lab_directory">Lab 5: Boards</a></td>
@@ -181,7 +181,7 @@
       <td>Tue 7/8</td>
       <td>
         Recursion<br/>
-        <a href="https://docs.google.com/presentation/d/11QX5pbCe7GY-84yd4a29xo6CiHQPwMm32kYFM3RkMtc/edit?usp=sharing">(Slides 8) </a>
+        <a href="https://docs.google.com/presentation/d/11QX5pbCe7GY-84yd4a29xo6CiHQPwMm32kYFM3RkMtc/edit?usp=sharing">(Slides 9) </a>
       </td>
       <td><a href="/su25/lab_directory">Lab 6: Recursive Reporters</a></td>
       <td><a href="/su25/discussion">Disc 5</a></td>
@@ -190,7 +190,7 @@
     <tr>
       <td>Wed 7/9</td>
       <td>Fractal / Tree Recursion<br/>
-      <a href="https://drive.google.com/drive/folders/1DcsxgHwqei1fVFBLiL_--yPaCxLAMxmp?usp=sharing">(Slides 9) </a>
+      <a href="https://drive.google.com/drive/folders/1DcsxgHwqei1fVFBLiL_--yPaCxLAMxmp?usp=sharing">(Slides 10) </a>
       </td>
       <td><a href="/su25/lab_directory">Lab 7: Fractals</a></td>
       <td></td>
