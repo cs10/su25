@@ -189,7 +189,9 @@
     </tr>
     <tr>
       <td>Wed 7/9</td>
-      <td>Fractal / Tree Recursion</td>
+      <td>Fractal / Tree Recursion<br/>
+      <a href="https://drive.google.com/drive/folders/1DcsxgHwqei1fVFBLiL_--yPaCxLAMxmp?usp=sharing">(Slides 9) </a>
+      </td>
       <td><a href="/su25/lab_directory">Lab 7: Fractals</a></td>
       <td></td>
       <td><b>Project 2: Spelling Bee Due</b></td>
