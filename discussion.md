@@ -76,7 +76,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Nested Lists, Linear Recursion, and Tree Recursion</td>
       <td><a href="https://drive.google.com/drive/folders/1bkOGZfM5PxubMFk7OvUkVdxKMfk9KDAT?usp=sharing">Worksheet 6</a></td>
       <td><a href="#">Solutions 6</a></td>
-      <td><a href="">Annotations 6</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1GL1UWCSr0J1BGtprgV80s82ePZ8zCD64klp0BbAeQww/edit?slide=id.p#slide=id.p">Annotations 6</a></td>
     </tr>
   </tbody>
 </table>

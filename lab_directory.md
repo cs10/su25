@@ -27,12 +27,12 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 5: HoFs and Functions as Data](https://docs.google.com/document/d/1A3TMkxzEKlgz7y1sbfuaYBMfpXNtiKPArXnqdjjG0Rc/edit?tab=t.0)      | TUE 7/08 |
 | [Lab 6: Boards](https://docs.google.com/document/d/1HBaIfVG-E_DqzFi1ELJRuGj-4qlG_IyPHiTEEpNVKwk/edit?tab=t.0)     | WED 7/09 |
 | [Lab 7: Recursive Reports (Linear Recursion)](https://docs.google.com/document/d/1-btXeE_tvxm0Qr8nM8d49dAXjr3NYKlSnDZJ0yoa5ns/edit?tab=t.0)     | THU 7/10 |
+| [Lab 8: Trees & Fractals](https://docs.google.com/document/d/1_3KMAI3X7NQjgk9sa915RSrL8hryKjJVkGdhX1Bd6GE/edit?tab=t.0)  | MON 7/14 |
 
 *Labs and due dates are subjected to change*
 
 <!-- /_labs/lab##.md 
 
-| Lab 8: Trees & Fractals  | THU 7/10 |
 | Lab 9: Algorithms  | MON 7/14 |
 | Lab 10: Algorithmic Complexity  | TUE 7/15 |
 | Lab 11: Data Science | WED 7/16 |
