@@ -198,7 +198,9 @@
     </tr>
     <tr>
       <td>Thu 7/10</td>
-      <td>Algorithms & Algorithmic Complexity</td>
+      <td>Algorithms & Algorithmic Complexity<br/>
+      <a href="https://docs.google.com/presentation/d/1DLXsHSI22eZgMaNzVFN8tcKclH0RFaSjsoHjWqSuOrU/edit?usp=sharing">(Slides 11) </a>
+      </td>
       <td><a href="/su25/lab_directory">Lab 8: Algorithms</a></td>
       <td><a href="/su25/discussion">Disc 6</a></td>
       <td>
