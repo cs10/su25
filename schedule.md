@@ -238,7 +238,9 @@
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 3</td>
       <td>Mon 7/14</td>
-      <td>Data Science</td>
+      <td>Data Science<br/>
+      <a href="https://docs.google.com/presentation/d/1vlj7ANkN0IwmbOw7TgqIOXwLqXiDTTFHa53N7ox_1Tw/edit?usp=sharing"> (Slides 12) <a/>
+      </td>
       <td><a href="/su25/lab_directory">Lab 9: Algorithmic Complexity</a></td>
       <td></td>
       <td></td>
