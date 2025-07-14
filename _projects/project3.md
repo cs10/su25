@@ -10,7 +10,8 @@ submission_files:
 <!-- *Version 3.1. Last Updated: 2025-7-08.* -->
 
 *[Project 3 Walkthrough Guide](https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing)*
-*Project 3 Videos when uploaded will be linked here*
+
+*Project 3 Videos can be found here: [Project 3: 2048 Intro](https://youtu.be/Xv6jrhOsKSQ?feature=shared), [Part I](https://youtu.be/5anPIRS-LVA?feature=shared), [Part II](https://youtu.be/GZe30bby_CM?feature=shared), [Part III](https://youtu.be/uAbN4F9EvHQ?feature=shared)
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=BJC%20CS10%20Project%203%3A%202048)
 
@@ -125,6 +126,8 @@ Make sure you aren’t modifying the original board when working on this. Your o
 
 *Hint:* Stuck? Check out some of the existing blocks in Snap! How will you find where to insert the value in the board? Are there any blocks we provide that could help?
 
+[Part I: Walkthrough Video](https://youtu.be/5anPIRS-LVA?feature=shared)
+
 ## Part 2: Rotating the Board
 
 In this part, you should fill out the ‘rotate _ clockwise’ block, which takes in a board and returns a copy of the board that is the result of rotating the input *board* 90 degrees clockwise. (You will lose points if you rotate anti-clockwise.)
@@ -135,6 +138,8 @@ In this part, you should fill out the ‘rotate _ clockwise’ block, which take
 Make sure you aren’t modifying the original board when working on this. Your output should be a new copy of the board, and should not update the existing board. Updating the existing board is done for you in the provided game code.
 
 *Hint:* Take a look at the ‘rotated row’, ‘rotated column’, ‘size of board’, and ‘copy of’ blocks if you’re not sure how to do something! In particular, the ‘copy of’ block will let you duplicate the contents of a board and then update it separately from the original.
+
+[Part 2: Walkthrough Video](https://youtu.be/GZe30bby_CM?feature=shared)
 
 ## Part 3: Merging
 
@@ -154,6 +159,8 @@ Make sure you aren’t modifying the original board when working on this. Your o
 Note that we only need one block that merges upward (rather than four blocks that each merge left, right, up, down) because we have the ‘rotate clockwise’ block. If we want to merge left, for example, we can first rotate the board clockwise 90 degrees, merge up, and then rotate the board clockwise 270 degrees. The provided skeleton code implements this for you, though!
 
 *Hint:* Stuck? Check out some of the existing blocks in Snap! How will you find where to insert the value in the board? Are there any blocks we provide that could help?
+
+[Part 3: Walkthrough Video](https://youtu.be/uAbN4F9EvHQ?feature=shared)
 
 ## Part 4: Ending the Game
 
