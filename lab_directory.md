@@ -29,13 +29,13 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 7: Recursive Reports (Linear Recursion)](https://docs.google.com/document/d/1-btXeE_tvxm0Qr8nM8d49dAXjr3NYKlSnDZJ0yoa5ns/edit?tab=t.0)     | THU 7/10 |
 | [Lab 8: Trees & Fractals](https://docs.google.com/document/d/1_3KMAI3X7NQjgk9sa915RSrL8hryKjJVkGdhX1Bd6GE/edit?tab=t.0)  | MON 7/14 |
 | [Lab 9: Algorithms](https://docs.google.com/document/d/1vBD-hA5BTbiBJIT-TstaM2wMu_bPbGt_XRrwTN-ZBWY/edit?usp=sharing)  | TUE 7/15 |
+| [Lab 10: Data Science](https://docs.google.com/document/d/1dAiLwS48YmlgGpUUNhgyq9oW5oj9hcXHnqp-7-4TYH8/edit?usp=sharing) | WED 7/16 |
 
 *Labs and due dates are subjected to change*
 
 <!-- /_labs/lab##.md 
 
-| Lab 10: Algorithmic Complexity  | TUE 7/15 |
-| Lab 11: Data Science | WED 7/16 |
+
 | Practice Quiz 2: without Snap | TBD |
 | Practice Quiz 2: with Snap | TBD |
 | Lab 12: Python Set Up | TUE 7/22 Nothing to submit|
