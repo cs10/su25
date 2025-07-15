@@ -247,7 +247,9 @@
     </tr>
     <tr>
       <td>Tue 7/15</td>
-      <td>AI, ML, and LLMs</td>
+      <td>AI, ML, and LLMs <br/>
+      <a href="https://docs.google.com/presentation/d/1_0NKs34BS_qiVZn9iCmbvu5EM6zrfyU00y-U3a1IkF0/edit?usp=sharing"> (Slides 13) <a/>
+      </td>
       <td><a href="/su25/lab_directory">Lab 10: Data Science</a></td>
       <td><a href="/su25/discussion">Disc 7</a></td>
       <td></td>
