@@ -264,7 +264,8 @@
       <td>Wed 7/16</td>
       <td>
         Lec 14: Social Implications - AI Usage in the Classroom (Guest Stacey Yoo)<br/>
-        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 14)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 14)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1j-RPg9lxUO9tafqmU0iYkCv2VA6uVpjr?usp=sharing">(Slides 14)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab: Quiz 2 Preview</a></td>
       <td></td>
