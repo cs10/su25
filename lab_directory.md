@@ -30,14 +30,14 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 8: Trees & Fractals](https://docs.google.com/document/d/1_3KMAI3X7NQjgk9sa915RSrL8hryKjJVkGdhX1Bd6GE/edit?tab=t.0)  | MON 7/14 |
 | [Lab 9: Algorithms](https://docs.google.com/document/d/1vBD-hA5BTbiBJIT-TstaM2wMu_bPbGt_XRrwTN-ZBWY/edit?usp=sharing)  | TUE 7/15 |
 | [Lab 10: Data Science](https://docs.google.com/document/d/1dAiLwS48YmlgGpUUNhgyq9oW5oj9hcXHnqp-7-4TYH8/edit?usp=sharing) | WED 7/16 |
+| [Practice Quiz 2: Part 1](https://docs.google.com/document/d/1KK0TeKnzyseHv8VA7zD8qdrHuWUPSCFCHOgLp3VRYJE/edit?usp=sharing) | THU 7/17 |
+| Practice Quiz 2: Part 2 | FRI 7/18 |
 
 *Labs and due dates are subjected to change*
 
 <!-- /_labs/lab##.md 
 
 
-| Practice Quiz 2: without Snap | TBD |
-| Practice Quiz 2: with Snap | TBD |
 | Lab 12: Python Set Up | TUE 7/22 Nothing to submit|
 | Lab 13: Welcome to Python! | WED 7/23 |
 | Lab 14: Lists and Mutability | THU 7/24 |
