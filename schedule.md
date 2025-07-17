@@ -263,7 +263,10 @@
     </tr>
     <tr>
       <td>Thu 7/17</td>
-      <td>Quiz 2 Review</td>
+      <td>Quiz 2 Review <br/>
+      <a href="https://docs.google.com/document/d/1of9yrbDlcMBjLVPrgGJwZIjajiDCeSXJcW8vn-Tbf8Y/edit?usp=sharing">(Worksheet)
+      <a/>
+      </td>
       <td><a href="/su25/lab_directory">Lab: Quiz 2 Practice</a></td>
       <td><a href="/su25/discussion">Disc 8</a>
       <td></b></td>
