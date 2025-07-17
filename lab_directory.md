@@ -31,7 +31,7 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 9: Algorithms](https://docs.google.com/document/d/1vBD-hA5BTbiBJIT-TstaM2wMu_bPbGt_XRrwTN-ZBWY/edit?usp=sharing)  | TUE 7/15 |
 | [Lab 10: Data Science](https://docs.google.com/document/d/1dAiLwS48YmlgGpUUNhgyq9oW5oj9hcXHnqp-7-4TYH8/edit?usp=sharing) | WED 7/16 |
 | [Practice Quiz 2: Part 1](https://docs.google.com/document/d/1KK0TeKnzyseHv8VA7zD8qdrHuWUPSCFCHOgLp3VRYJE/edit?usp=sharing) | THU 7/17 |
-| Practice Quiz 2: Part 2 | FRI 7/18 |
+| [Practice Quiz 2: Part 2](https://docs.google.com/document/d/1u-FRmMLFUcWIHKQLuonsjF7qZr9Vig95F5GuKE41EW0/edit?usp=sharing) | FRI 7/18 |
 
 *Labs and due dates are subjected to change*
 
