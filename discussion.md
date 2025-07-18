@@ -76,14 +76,14 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>7/15</td>
       <td>Algorithms and Algorithmic Complexity</td>
       <td><a href="https://drive.google.com/drive/folders/1YN3lSNWiAntR-9vHF_fS8o4abB6SH8Je?usp=drive_link">Worksheet 7</a></td>
-      <td><a href="https://docs.google.com/presentation/d/172HNcSOWLGpsbmtbJw0x5ZlIoC-tRFbzKyPreWtiLwI/edit?slide=id.p#slide=id.p">Annotations 7</a></td>
+      <td><a href="https://docs.google.com/presentation/d/172HNcSOWLGpsbmtbJw0x5ZlIoC-tRFbzKyPreWtiLwI/edit?slide=id.p#slide=id.p">Annotations + Solutions 7</a></td>
     </tr>
     <tr>
       <td>Discussion 8</td>
       <td>7/17</td>
       <td>Quiz 2 Practice</td>
       <td><a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu?usp=sharing">Worksheet 8</a></td>
-      <td><a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu">Annotations 8</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu">Solutions 8</a></td>
     </tr>
   </tbody>
 </table>
