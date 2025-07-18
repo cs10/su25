@@ -289,7 +289,7 @@
       <td>
         <b>Quiz 2</b><br/>
         Location: GPBB 100<br/>
-        Time: 4–5 PM
+        Time: 4–6 PM
       </td>
     </tr>
   </tbody>
