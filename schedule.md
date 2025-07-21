@@ -289,7 +289,77 @@
       <td>
         <b>Quiz 2</b><br/>
         Location: GPBB 100<br/>
-        Time: 4–5 PM
+        Time: 4–6 PM
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table class="table table-bordered schedule-table" id="week5">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan="5">Week 5</td>
+      <td>Mon 7/21</td>
+      <td>
+        Lec 15: Intro Python<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 15)</a><br/>
+        <a href="https://docs.google.com/presentation/d/1d0EeJFAOrSAsUuZonePDh9XgbPV_qZxHpEn2UR8kGso/edit?usp=sharing">(Slides 15)</a>
+      </td>
+      <td><a href="/su25/lab_directory">Submit a screenshot of working python to gradescope</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tue 7/22</td>
+      <td>
+        Lec 16: TBD<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 16)</a><br/>
+        <a href="">(Slides 16)</a>
+      </td>
+      <td><a href="/su25/lab_directory">Lab 10: Data Science</a></td>
+      <td><a href="/su25/discussion">Disc 7</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wed 7/23</td>
+      <td>
+        Lec 14: Social Implications - AI Usage in the Classroom (Guest Stacey Yoo)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 14)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1j-RPg9lxUO9tafqmU0iYkCv2VA6uVpjr?usp=sharing">(Slides 14)</a>
+      </td>
+      <td><a href="/su25/lab_directory">Lab: Quiz 2 Preview</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Thu 7/24</td>
+      <td>Quiz 2 Review <br/>
+      <a href="https://docs.google.com/document/d/1of9yrbDlcMBjLVPrgGJwZIjajiDCeSXJcW8vn-Tbf8Y/edit?usp=sharing">(Worksheet)
+      <a/>
+      </td>
+      <td><a href="/su25/lab_directory">Lab: Quiz 2 Practice</a></td>
+      <td><a href="/su25/discussion">Disc 8</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Fri 7/25</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <b>Quiz 2 Second Chance</b><br/>
+        Location: GPBB 100<br/>
+        Time: 4–6 PM
       </td>
     </tr>
   </tbody>
