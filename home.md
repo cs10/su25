@@ -9,7 +9,7 @@ seo:
 nav_order: 1
 ---
 
-# **Under Construction: CS 10: The Beauty and Joy of Computing**
+# **CS 10: The Beauty and Joy of Computing**
 UC Berkeley, Summer 2025
 
 {{ site.description }}
