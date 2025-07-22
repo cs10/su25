@@ -32,14 +32,13 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 10: Data Science](https://docs.google.com/document/d/1dAiLwS48YmlgGpUUNhgyq9oW5oj9hcXHnqp-7-4TYH8/edit?usp=sharing) | WED 7/16 |
 | [Practice Quiz 2: Part 1](https://docs.google.com/document/d/1KK0TeKnzyseHv8VA7zD8qdrHuWUPSCFCHOgLp3VRYJE/edit?usp=sharing) | THU 7/17 |
 | [Practice Quiz 2: Part 2](https://docs.google.com/document/d/1u-FRmMLFUcWIHKQLuonsjF7qZr9Vig95F5GuKE41EW0/edit?usp=sharing) | FRI 7/18 |
+| [Lab 11: Python Set Up](https://docs.google.com/document/d/14xz0EMdIDLtjIYJAxSeM01bd7GhqZfWfKioDhGM04_c/edit?usp=sharing) | TUE 7/22 |
+| [Lab 12: Welcome to Python!](https://docs.google.com/document/d/1lbhe0cc_rlM90a5W_d2HTXUrC4Gyrh50B4QJk6h---o/edit?usp=sharing) | WED 7/23 |
 
 *Labs and due dates are subjected to change*
 
 <!-- /_labs/lab##.md 
 
-
-| Lab 12: Python Set Up | TUE 7/22 Nothing to submit|
-| Lab 13: Welcome to Python! | WED 7/23 |
 | Lab 14: Lists and Mutability | THU 7/24 |
 | Lab 15: Data Structures | MON 7/28 |
 | Lab 16: Text Processing | TUE 7/29 |
