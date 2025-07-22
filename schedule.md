@@ -323,9 +323,9 @@
     <tr>
       <td>Tue 7/15</td>
       <td>
-        Lec 13: AI, ML, and LLMs<br/>
-        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 13)</a><br/>
-        <a href="https://docs.google.com/presentation/d/1_0NKs34BS_qiVZn9iCmbvu5EM6zrfyU00y-U3a1IkF0/edit?usp=sharing">(Slides 13)</a>
+        Lec 16: Lists<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 16)</a><br/>
+        <a href="https://docs.google.com/presentation/d/1HGcW--MA5SEcE7aPqZmORp0H-p0Xb-2Csmc1Bi_CE34/edit?usp=sharing">(Slides 16)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 10: Data Science</a></td>
       <td><a href="/su25/discussion">Disc 7</a></td>
