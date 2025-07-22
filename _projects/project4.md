@@ -216,12 +216,6 @@ You will be writing comments for two members of your group. These comments will 
         - The expected length of each response is around 3-6 sentences.
     - The 2 students you should respond to are: any two students in your group (you pick)
 
-## Feedback Form
-
-Congratulations on finishing your fourth project in CS10🥳
-
-Please spend some time completing this [feedback form](https://forms.gle/KxdNfQAbNpe7VX57A). This will be worth 1 point of your project grade. Thank you!
-
 ## Rubric & Grading
 
 Project 4 will be graded for coherence and content based on the following rubric.
