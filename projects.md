@@ -42,8 +42,8 @@ nav_order: 6
       <td>Monday, 7/21</td>
     </tr>
     <tr>
-      <td><a href="">Project 4: Tech in Context</a></td>
-      <td><a href="">Example Projects</a></td>
+      <td><a href="/su25/projects/project4">Project 4: Tech in Context</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1UUBa6o1IGNu2VKBAQQS14p2CDwHezNkM">Example Projects</a></td>
       <td>Tuesday, 7/22</td>
       <td>Monday, 8/04</td>
     </tr>
@@ -57,7 +57,7 @@ nav_order: 6
       <td>Project 4: Feedback + Comments</td>
       <td><a href="">Example Feedback + Comments</a></td>
       <td>Tuesday, 8/05</td>
-      <td>Tuesday, 8/12</td>
+      <td>Friday, 8/08</td>
     </tr>
     <tr>
       <td><a href="">Project 5: Proposals</a></td>
