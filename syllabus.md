@@ -117,9 +117,9 @@ These assignments will be one of the best ways for you to apply what you have le
 | Project 1: Wordle™-lite                       | Mon 6/30 |
 | Project 2: Spelling-Bee                       | Mon 7/7  |
 | Project 3: 2048                               | Mon 7/14 |
-| Project 4: Explore Post                       | TBD |
-| Project 4: Explore Post Feedback + Comments   | TBD |
-| Project 5: Final Project Proposals            | Wed 8/6  |
+| Project 4: Artifact + Documentation     | Mon 8/4 |
+| Project 4: Peer Feedback + Comments   | Fri 8/8 |
+| Project 5: Final Project Proposals            | Sun 8/3  |
 | Project 5: Final Project                      | Thu 8/14  |
 
 **All deadlines are at 11:59PM.**

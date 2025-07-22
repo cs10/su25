@@ -1,42 +1,42 @@
 ---
 title: Project 4
 description: Tech in Context
-due: "11:59 PM PDT on Tuesday, 4/1"
+due: "11:59 PM PDT on Monday, 8/4"
 gradescope_assignment_id: 
 submission_files:
     - N/A
 ---
 
-*Version 1.0. Last Updated: 2025-3-18.*
+*Version 1.0. Last Updated: 2025-7-22.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- [Artifact + Documentation](https://www.gradescope.com/courses/957259/assignments/5617888) Due: **Tuesday, 4/1 at 11:59 PM PT** on Gradescope
+- [Artifact + Documentation](https://www.gradescope.com/courses/1057248/assignments/6427319/) Due: **Monday, 8/4 at 11:59 PM PDT** on Gradescope
 
-- Presention on **Thursday, 4/3 at 6:00PM PT in Evans 60** during discussion.
+- Presention on **Tuesday, 8/5 at 6:10PM or 7:10 PDT in Soda-380** during discussion.
 
-- [Comments + Peer Feedback](https://www.gradescope.com/courses/957259/assignments/5617925) Due: **Friday, 4/11 at 11:59 PM PT** on Gradescope
+- [Comments + Peer Feedback](https://www.gradescope.com/courses/1057248/assignments/6427321/) Due: **Friday, 8/8 at 11:59 PM PDT** on Gradescope and EdStem #83 (will be made public soon)
 
 > Any important updates or clarifications will be made here.
 
 ## Content
 
-I. Submission Guidelines
-II. Introduction
-III. Project 4 Timeline 
-IV. AI and Generative Tool Guidelines 
-V. Content Guidelines
-    a. Part 1: The Artifact and Documentation
-    b. Part 2: Group Presentation + Peer Feedback
-    c. Part 3: Peer Reflection/Comments
-VI. Feedback Form
+I. Submission Guidelines  
+II. Introduction  
+III. Project 4 Timeline  
+IV. AI and Generative Tool Guidelines  
+V. Content Guidelines  
+                a. Part 1: The Artifact and Documentation  
+                b. Part 2: Group Presentation + Peer Feedback  
+                c. Part 3: Peer Reflection/Comments  
+VI. Feedback Form  
 VII. Rubric & Grading
 
 
 ## Submission Guidelines
 
 1. Upload your project to the Project 4: Artifact + Documentation assignment on Gradescope 
-2. After you present, collect the peer feedback forms which you will need to upload to the Gradescope assignment: Project 4: Comments + Peer Feedback
+2. After you present, upload your peer Feedback to this Edstem Thread and upload screenshots to the Gradescope assignment: Project 4: Comments + Peer Feedback
     - You will also need to include your comments to two peer’s projects.
 3. Having trouble? Contact your lab TA or go to office hours (OH)!
 
@@ -58,13 +58,13 @@ We want this to be a fun and exciting project that allows you to pursue your int
 
 | Part  | Submission Method | Due Date |
 | :------------------------------: | :--------: | :-------------------: | 
-| Part 1: Artifact + Documentation | Gradescope | TUES 4/1 AT 11:59 PM |
-| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | THURS 4/3 |
-| Part 3: Peer Reflection/Comment + Feedback | Gradescope | FRI 4/11 11:59 PM |
+| Part 1: Artifact + Documentation | Gradescope | Monday 8/4 AT 11:59 PM |
+| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | THURS 8/5 |
+| Part 3: Peer Reflection/Comment + Feedback | Gradescope / EdStem | FRI 8/8 11:59 PM |
 
 ## AI and Generative Tool Guidelines 
 
-- You must create the artifact yourself. The artifact cannot be AI generated.
+- You must create the artifact yourself. The artifact itself or documentation cannot be AI generated.
 - You may only use AI tools for research, feedback, idea formation, captioning, and/or image generation to support your project.
 - Plagiarism, including uncredited AI-generated work, will not be tolerated.
 - All final work you submit must be your own creative work. AI should assist, but not replace, your creativity and effort.
@@ -120,6 +120,7 @@ Your artifact should include details that express your technical topic in a crea
 - Format
     - Use clear headings and subheadings.
     - Standard font (e.g., Times New Roman, Arial) at 12-point size.
+    - At the Word Count at the top of your documentation. 
 - Content Overview
     - Introduction
         - Briefly introduce your project, including the topic and the medium used.
@@ -150,27 +151,25 @@ Your artifact should include details that express your technical topic in a crea
 - Your Documentation should include:
     - The Title of your Artifact
     - Your Name
-    - Date of submission 
-
+    - Word Count
 
 ## Part 2: Group Presentation + Peer Feedback
 
-For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session (Thursday 6-7 PM). This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
+For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session (Tuesday 6-7 or 7-8 PM). This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
 
 The small group setting is intended to create a supportive environment where you can confidently showcase your creative medium, whether it be an artwork, sculpture, video, infographic, collage, or diorama. The goal of the presentations is not only to exhibit your work but to engage with your peers, offering insights into how your chosen medium effectively communicates the implications of your topic.
 
-Presentations will be largely student led with AI/Tutor/TA supervision. You will be graded for your engagement and active participation. 
+Presentations will be largely student led with Tutor/TA supervision. You will be graded for your engagement and active participation. 
 
-You will sign-up for a time and group (rec: 4-5) that best works for you. Sign ups are filled on a first-come first-serve basis. 
+You will [sign-up](https://docs.google.com/spreadsheets/d/1Tc_413GLvWYTVyIMtLc4_VxcDdlAcYwQAKSghKygNjg/edit?gid=0#gid=0) for a time and group (rec: 3-4) that best works for you. Sign ups are filled on a first-come first-serve basis. 
 
 If you can not attend the allotted Discussion Time for any reason. You will have time in Makeup Office Hours to regain your points. Please, note we are only offering specific, limited times, and we will release more information later. Sign Ups will be released in the future. 
-
 
 
 ### Presentation Guidelines (7 minutes)
 
 - Signing up for a time
-    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/13hr-Bd5E_xl70l_q3Taru-Hf0yps4w9byppIRZEPrzI/edit?usp=sharing)
+    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/1Tc_413GLvWYTVyIMtLc4_VxcDdlAcYwQAKSghKygNjg/edit?gid=0#gid=0)
     - Please note, you are expected to stay the full discussion hour
 - Artifact/Visual Aids
     - Present your physical project or digital archive
@@ -193,8 +192,7 @@ If you can not attend the allotted Discussion Time for any reason. You will have
         - Facilitates and leads discussion/Q&A with peers
         - Explains artifact’s purpose and impact   
         - Provides thoughtful answers to at least 2 peer questions
-        - Asks a question (as an audience member) to each presenter in the group
-
+        - Ask a question (as an audience member) to each presenter in the group
 
 ### Q&A Discussion Guidelines (3 minutes)
 
@@ -208,47 +206,37 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 
 ## Part 3: Peer Reflection/Comments
 
-You will be writing comments for two members of your group. These comments will be posted in [EdStem Thread](https://edstem.org/us/courses/74174/discussion/6495748). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
+You will be writing comments for two members of your group. These comments will be posted in [EdStem Thread #83](). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
 
 - Guidelines & Submission
-    - Reflect on 2 of your classmates’ essays on Gradescope (Due: 4/11) .
+    - Reflect on 2 of your classmates’ essays on EdStem and upload to Gradescope (Due: 8/8) .
         - Your response should be a short reflection based on two presentations you participated in. 
         - You can write about something new you learned, something that stood out to you or you found surprising, or how the project relates to your prior knowledge about the subject, how the topic of the essay connects with your topic, etc.
         - Your comments should include at least one question about the topic.
         - The expected length of each response is around 3-6 sentences.
     - The 2 students you should respond to are: any two students in your group (you pick)
-    - Your feedback will not be shared with the students and will be used for the purpose of evaluating your peers and your own work
-
-
-## Feedback Form
-
-Congratulations on finishing your fourth project in CS10🥳
-
-Please spend some time completing this [feedback form](https://forms.gle/KxdNfQAbNpe7VX57A). This will be worth 1 point of your project grade. Thank you!
 
 ## Rubric & Grading
 
 Project 4 will be graded for coherence and content based on the following rubric.
 
-| **Part**                         | **Criteria**                                                | **Points** |
-|-----------------------------------|-------------------------------------------------------------|------------|
-| **Part 1: Artifact and Documentation (8 pts)** |                                                             |            |
-|                                   | Artifact is an acceptable medium to explore a single, tech-related topic. | +0.5       |
-|                                   | Artifact includes details that express technical topic of choice in a creative and novel way | +3.0       |
-|   | Documentation addresses at least two questions from “Define the Purpose” | +1.0 |
-|   | Documentation addresses at least two questions from “POSITIVE & NEGATIVE IMPACTS” | +1.0 |
-|   | Documentation addresses at least two questions from “TECHNICAL ELEMENTS” | +1.0 |
-|   | Documentation highlights intended message of Artifact        | +1.0   |
-|   | All references are properly cited and submission follows style guide | +0.5 |
-
-| **Part 2: Presentation (4 pts)** (Partially graded by peers) |                             |            |
-|                                   | Signs up and is present at the allotted time. Presents for at least six minutes      | +1.0       |
-|                                   | Explains artifact’s purpose and impact (Peer graded)         | +1.0       |
-|                                   | Facilitates and leads discussion/Q&A with peers | +0.5       |
-|                                   | Provides thoughtful answers to at least 2 peer questions | +0.5       |
-|                                   | Asks a question (as an audience member) to each presenter in the group | +1.0 |
-| **Part 3: Peer Reflection / Comments (3 pts)** |                                                         |            |
-|                                   | Reflects on a student’s presentation (3-6 sentences). Comments are insightful and thoughtful         | +1.5       |
-|                                   | Reflects on a second student’s presentation (3-6 sentences). Comments are insightful and thoughtful  | +1.5       |
-| **Feedback Form (1 pt)**           |                                                         |            |
-|                                   | Complete the feedback form                                   | +1.0       |
+| **Part**                                   | **Criteria**                                                                 | **Points** |
+|--------------------------------------------|-------------------------------------------------------------------------------|------------|
+| **Part 1: Artifact and Documentation (8 pts)** |                                                                               |            |
+|                                            | Artifact is an acceptable medium to explore a single, tech-related topic.     | +0.5       |
+|                                            | Artifact includes details that express the technical topic in a creative and novel way | +3.0 |
+|                                            | Documentation addresses at least two questions from “Define the Purpose”      | +1.0       |
+|                                            | Documentation addresses at least two questions from “POSITIVE & NEGATIVE IMPACTS” | +1.0   |
+|                                            | Documentation addresses at least two questions from “TECHNICAL ELEMENTS”      | +1.0       |
+|                                            | Documentation highlights intended message of Artifact                        | +1.0       |
+|                                            | All references are properly cited and submission follows style guide          | +0.5       |
+| **Part 2: Presentation (4 pts)**  |                                            |            |
+|                                            | Signs up and is present at the allotted time. Presents for at least six minutes | +1.0    |
+|                                            | Explains artifact’s purpose and impact                         | +1.0       |
+|                                            | Facilitates and leads discussion/Q&A with peers                              | +0.5       |
+|                                            | Provides thoughtful answers to at least 2 peer questions                     | +0.5       |
+|                                            | Asks a question (as an audience member) to each presenter in the group        | +1.0       |
+| **Part 3: Peer Reflection / Comments (3 pts)** |                                                                               |            |
+|                                            | Reflects on a student’s presentation (3–6 sentences). Comments are insightful and thoughtful | +1.5 |
+|                                            | Reflects on a second student’s presentation (3–6 sentences). Comments are insightful and thoughtful | +1.5 |
+| **Total Possible Points**                  |                                                                               | **15.0**   |
