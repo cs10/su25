@@ -89,14 +89,14 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Discussion 9</td>
       <td>7/22</td>
       <td>Intro to Python</td>
-      <td><a href="https://drive.google.com/drive/folders/1osIvSuPFZhXbyocXUDNaw1fhM3VSW5sE?usp=drive_link">Worksheet 9/a></td>
+      <td><a href="https://drive.google.com/drive/folders/1osIvSuPFZhXbyocXUDNaw1fhM3VSW5sE?usp=drive_link">Worksheet 9</a></td>
       <td><a href="">Annotations 9</a></td>
     </tr>
           <tr>
       <td>Discussion 10</td>
       <td>7/24</td>
       <td>Lists and Data Structures</td>
-      <td><a href="">Worksheet 10/a></td>
+      <td><a href="">Worksheet 10</a></td>
       <td><a href="">Annotations 10</a></td>
     </tr>
   </tbody>
