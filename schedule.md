@@ -312,53 +312,53 @@
       <td class="schedule-week-num" rowspan="5">Week 5</td>
       <td>Mon 7/21</td>
       <td>
-        Lec 15: Python<br/>
+        Lec 15: Intro to Python<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 15)</a><br/>
         <a href="https://docs.google.com/presentation/d/1d0EeJFAOrSAsUuZonePDh9XgbPV_qZxHpEn2UR8kGso/edit?usp=sharing">(Slides 15)</a>
       </td>
-      <td><a href="/su25/lab_directory">Lab 9: Algorithmic Complexity</a></td>
+      <td><a href="/su25/lab_directory">Lab 11: Python Set-Up</a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Tue 7/15</td>
+      <td>Tue 7/22</td>
       <td>
         Lec 16: Lists<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 16)</a><br/>
         <a href="https://docs.google.com/presentation/d/1HGcW--MA5SEcE7aPqZmORp0H-p0Xb-2Csmc1Bi_CE34/edit?usp=sharing">(Slides 16)</a>
       </td>
-      <td><a href="/su25/lab_directory">Lab 10: Data Science</a></td>
+      <td><a href="/su25/lab_directory">Lab 12: Intro to Python</a></td>
       <td><a href="/su25/discussion">Disc 7</a></td>
       <td></td>
     </tr>
     <tr>
-      <td>Wed 7/16</td>
+      <td>Wed 7/23</td>
       <td>
-        Lec 14: Social Implications - AI Usage in the Classroom (Guest Stacey Yoo)<br/>
-        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 14)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1j-RPg9lxUO9tafqmU0iYkCv2VA6uVpjr?usp=sharing">(Slides 14)</a>
+        Lec 14: Data Structures<br/>
+        <a href="">(Recording 14)</a><br/>
+          <a href="">(Slides 14)</a>
       </td>
-      <td><a href="/su25/lab_directory">Lab: Quiz 2 Preview</a></td>
+      <td><a href="/su25/lab_directory">Lab 13: Lists + Mutability</a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Thu 7/17</td>
-      <td>Quiz 2 Review <br/>
-      <a href="https://docs.google.com/document/d/1of9yrbDlcMBjLVPrgGJwZIjajiDCeSXJcW8vn-Tbf8Y/edit?usp=sharing">(Worksheet)
+      <td>Thu 7/24</td>
+      <td>OOP 1<br/>
+      <a href="">(Slides)
       <a/>
       </td>
-      <td><a href="/su25/lab_directory">Lab: Quiz 2 Practice</a></td>
+      <td><a href="/su25/lab_directory">Lab 14: Data Structures</a></td>
       <td><a href="/su25/discussion">Disc 8</a></td>
       <td></td>
     </tr>
     <tr>
-      <td>Fri 7/18</td>
+      <td>Fri 7/25</td>
       <td></td>
       <td></td>
       <td></td>
       <td>
-        <b>Quiz 2</b><br/>
+        <b>Quiz 2 Retake</b><br/>
         Location: GPBB 100<br/>
         Time: 4–6 PM
       </td>
