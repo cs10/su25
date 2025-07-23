@@ -334,7 +334,7 @@
     <tr>
       <td>Wed 7/23</td>
       <td>
-        Lec 14: Data Structures<br/>
+        Lec 17: Data Structures<br/>
         <a href="">(Recording 14)</a><br/>
           <a href="">(Slides 14)</a>
       </td>
@@ -344,7 +344,7 @@
     </tr>
     <tr>
       <td>Thu 7/24</td>
-      <td>OOP 1<br/>
+      <td>Lec 18: OOP 1<br/>
       <a href="">(Slides)
       <a/>
       </td>
