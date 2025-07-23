@@ -56,6 +56,7 @@ Project Walkthrough Videos will be linked here
 | Summer 2017 | - | [Exam](http://cs10.org/sp20/exams/midterm/2017Su/exam.pdf) [Solutions](http://cs10.org/sp20/exams/midterm/2017Su/answers.pdf) | - | [Exam](http://cs10.org/sp20/exams/final/2018Su/exam.pdf) [Solutions](http://cs10.org/sp20/exams/final/2018Su/answers.pdf) | - |
 
 ## Exam Walkthroughs
+* [Summer 2025 Quiz 2](https://docs.google.com/presentation/d/1TST0yeVr0YRMORQVXCCVCUomsF8ZifI7WLMOaRAFNCA/edit?usp=sharing)
 * [Summer 2022 Final](https://youtu.be/rS2Av0stp5w?list=PLVjI1AKNyfVOnDpcdm4Mf53ARt2u85YuW)
 * [Spring 2020 Quest](https://youtu.be/v38P5quvoMc)
 * [Fall 2019 Paper Final](https://drive.google.com/file/d/1Dr8B2KYtgWigDWvwbp7LxN9STVpZh62J/view)
