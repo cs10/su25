@@ -335,8 +335,8 @@
       <td>Wed 7/23</td>
       <td>
         Lec 17: Data Structures<br/>
-        <a href="">(Recording 14)</a><br/>
-          <a href="">(Slides 14)</a>
+        <a href="">(Recording 17)</a><br/>
+          <a href="https://docs.google.com/presentation/d/1gZrLA_SPkGjbfnLxtkPye9gq0L-VJ48UJlQ-42IU1Ks/edit?usp=sharing">(Slides 17)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 13: Lists + Mutability</a></td>
       <td></td>
