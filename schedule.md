@@ -345,7 +345,7 @@
     <tr>
       <td>Thu 7/24</td>
       <td>Lec 18: OOP 1<br/>
-      <a href="">(Slides)
+      <a href="https://docs.google.com/presentation/d/15dDdexCsK4zXYWouoKgCNcfdYVfWaLeTS8NuSMBl7Tw/edit?usp=sharing">(Slides)
       <a/>
       </td>
       <td><a href="/su25/lab_directory">Lab 14: Data Structures</a></td>
