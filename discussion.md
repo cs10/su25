@@ -1,4 +1,3 @@
-<img width="468" height="17" alt="image" src="https://github.com/user-attachments/assets/5b5d847d-5cbc-4af5-a48f-fe3ac6bb0740" />---
 layout: default
 title: Discussion
 description: >-
