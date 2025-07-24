@@ -1,4 +1,4 @@
----
+<img width="468" height="17" alt="image" src="https://github.com/user-attachments/assets/5b5d847d-5cbc-4af5-a48f-fe3ac6bb0740" />---
 layout: default
 title: Discussion
 description: >-
@@ -95,9 +95,9 @@ This page will be updated with discussion Worksheets and Annotations throughout 
           <tr>
       <td>Discussion 10</td>
       <td>7/24</td>
-      <td>Lists and Data Structures</td>
-      <td><a href="#">Worksheet 10</a></td>
-      <td><a href="#">Annotations 10</a></td>
+      <td>Python Practice and Data Structures</td>
+      <td><a href="https://drive.google.com/drive/folders/17Fgscj_4MIcwcMNW9-ctEtS9a01DPHWN?usp=sharing">Worksheet 10</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1t7gbEcSQ9VOblbjpKUH192KtxgTDZBkRfjpj3wmpRB4/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 10</a></td>
     </tr>
   </tbody>
 </table>
