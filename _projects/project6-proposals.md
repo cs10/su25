@@ -1,21 +1,20 @@
 ---
 title: Project 5
 description: Final Project Proposals
-due: "11:59 PM PST on Monday, 4/7"
+due: "11:59 PM PST on Monday, 8/4"
 gradescope_assignment_id: 5617918
 submission_files:
     - N/A
 ---
 
-*Version 1.1. Last Updated: 2025-04-02.*
+*Version 1.1. Last Updated: 2025-07-27.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 - Meeting with a Staff Member
-    - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
-        - Click here for the [link to sign up](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2gYOJsSLRS97v-zbASRViZIUo_fKvMB9qPQEQ=)
-    - Meetings will run a specific times during Week 12 (April 8th through April 11th)
-    - As of 4/2, there are only a limited number of spots, but we will add more.
+    - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score.
+        - Click here for the [link to sign up]()
+    - Meetings will run a specific times during Week 7 (August 6th-7th during Lab)
 
 ## Content
 
@@ -35,11 +34,11 @@ submission_files:
 
 ## Important logistics
 
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 11 in Soda 326. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2gYOJsSLRS97v-zbASRViZIUo_fKvMB9qPQEQ=).
+- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Wed-Thur during Week 7 in Soda 330. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](#).
 - You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
-- The deadline for this proposal part of the project is Wednesday, 10/30 at 11:59pm PST. Please ensure that you submit your proposal before the deadline. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
-- Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
-- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us by 10/30, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
+- The deadline for this proposal part of the project is Monday, 8/4 at 11:59pm PDT. Please ensure that you submit your proposal before the deadline. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
+- Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times. 
+- If none of the times work for you, please make a private post or attend Stacey's Support OH. If you can't meet with a staff member and do not receive project approaval, you will receive a 0 on this part of the project.
 
 ## Introduction
 
@@ -58,31 +57,55 @@ If your project idea relies heavily on the following, we recommend you consider 
 - Robot/AI player: Depending on the game, this could be a good fit, or too complex. An AI player for chess or Go would be too complex. 
 - Games like Pong, Tic-Tac-Toe, Guess the word, Hangman, dress-up games, point and click games would not be complex enough and are NOT ALLOWED.
 - Games like Angry Birds, Balloons Tower Defense, or Need for Speed would likely be too complex. 
-- Games previously implemented in Projects are not allowed (because you’ve already done them).
+- Games previously implemented in Projects or in other classes are not allowed (because you’ve already done them).
 - Use of generative AI is NOT allowed.
 
-Don’t be worried if you really like a project idea but think it may be too complex, or not complex enough — that’s the purpose of having a proposal and proposal review process, so you can work with a TA to get your project complexity into the right range! 
+Don’t be worried if you really like a project idea but think it may be too complex, or not complex enough — that’s the purpose of having a proposal and proposal review process, so you can work with staff to get your project complexity into the right range! 
 
 When considering what your project is, and how you plan to implement it, see if you can figure out a solution or a structure for a solution first, before defaulting to what you’ve seen done before! A few gauges for the complexity of the kinds of solutions we’re looking for are: coming up with logic to check for four-in-a-row in Connect 4 or recreating Flappy Bird in Snap!
 
 Of course, there’s a range of project complexity that falls into the “accepted proposal” range. Here are a few examples.
 
 - [The Chrome Dinosaur Game:](https://chromedino.com/)
-    - Feature 1: TWO DIFFERENT OBSTACLES 
+    - Feature 1: Dynamic G/UI
         - Randomly generated shrubs and pterodactyls appear on the screen as obstacles.
-        - Obstacles NEED to be traveling at different speeds (otherwise project will not be complex enough)
-    - Feature 2: The game ends when the dinosaur runs into an object.
+        - Obstacles traveling at different speeds (otherwise project will not be complex enough)
+        - Stages or characters move or change with user control
+        - Scoreboards
+        - Colors + Sound
+        - E.G LOSE : skull you die! + scary noise
+    - Feature 2: Algorithm
+        - An algorithm that should manage board / display
+        - What is the win/lose condition?
 - [Mancala:](https://www.mathplayground.com/mancala.html)
-    - Feature 1: When a player chooses a group of marbles, those marbles get distributed around the board, picking up more marbles when the last one falls on a non-empty hole
-    - Feature 2: Game over when all marbles are in the two goals, winner is the one with more marbles
+    - Feature 1: Board Representation / Data Structures
+        - Using lists / data structures to represent board. 
+        - When a player chooses a group of marbles, those marbles get distributed around the board, picking up more marbles when the last one falls on a non-empty hole
+    - Feature 2: Algorithm
+        - An algorithm that controls game. 
+        - What is the win/lose condition? Game over when all marbles are in the two goals, winner is the one with more marbles. 
 - [Doodle Jump:](http://poki.com/en/g/doodle-jump)
-    - Feature 1: Doodle jumps continuously, moving higher up in the sky as he lands on bouncing platforms that continuously move downwards
-    - Feature 2: Game ends when Doodle falls off the screen
+    - Feature 1: Dynamic GUI
+        - Randomly generated platforms
+        - Stages or enemies move or change
+        - Doodle jumps continuously, moving higher up in the sky as he lands on bouncing platforms that continuously move downwards
+        - Scoreboards
+        - Colors + Sound
+    - Feature 2: Algorithm
+        - An algorithm that controls game. 
+        - What is the win/lose condition? Game ends when Doodle falls off the screen
 - [Bubble Shooter (Difficult):](http://www.shooter-bubble.com/)
-    - Feature 1: Computer will generate randomly colored bubbles that players can shoot
-    - Feature 2: If the program detects groups of the same color, it will delete them.
+    - Feature 1: OOP
+        - Makes up for the lack of GUI
+        - Messaging passing
+        - Algorithms/Randomizer
+        - Computer will generate randomly colored bubbles that players can shoot
+    - Feature 2: Algorithms / Data Structures
+        - If the program detects groups of the same color, it will delete them.
 
 Other projects that fit complexity requirements that students have done in the past include: Frogger, Checkers, Flappy Bird, Snake, Chutes & Ladders, various puzzle games, various board games, data science analysis, Battleship, and chatbots.
+
+We also encourage you to be creative. Make your own ideas. A good rule of thumb is that your project should always progress, move towards a goal, or be dynamic. 
 
 ## Technical Requirements
 
@@ -145,11 +168,9 @@ Here is an [example proposal](https://docs.google.com/document/d/1gy4L6KfyPLT01X
 
 ## Submission Guidelines
 
-By Sunday, October 28th 11:59pm PST deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
+By Monday, August 4th 2359 hrs deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
 
 The assignment has the proposal format in it, so your group will need to fill out all of the boxes with your answers to the questions listed in the previous section! Only one person from the group needs to submit. After you submit, please don’t forget to add your partner(s) to the submissions!
-
-![How to add partner to Gradescope](/fa24/assets/images/p6/p6-1.png)
 
 Your project proposal review will take place during the time slot your group signs up for. These slots are during the lab. You need to ensure that you can show up for the time slot you signed up for. 
 
