@@ -263,9 +263,9 @@
     <tr>
       <td>Wed 7/16</td>
       <td>
-        Lec 14: Social Implications - AI Usage in the Classroom (Guest Stacey Yoo)<br/>
+        Lec 14: Social Implications – AI Usage in the Classroom (Guest: Stacey Yoo)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 14)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1j-RPg9lxUO9tafqmU0iYkCv2VA6uVpjr?usp=sharing">(Slides 14)</a>
+        <a href="https://drive.google.com/drive/folders/1j-RPg9lxUO9tafqmU0iYkCv2VA6uVpjr?usp=sharing">(Slides 14)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab: Quiz 2 Preview</a></td>
       <td></td>
@@ -273,9 +273,9 @@
     </tr>
     <tr>
       <td>Thu 7/17</td>
-      <td>Quiz 2 Review <br/>
-      <a href="https://docs.google.com/document/d/1of9yrbDlcMBjLVPrgGJwZIjajiDCeSXJcW8vn-Tbf8Y/edit?usp=sharing">(Worksheet)
-      <a/>
+      <td>
+        Quiz 2 Review<br/>
+        <a href="https://docs.google.com/document/d/1of9yrbDlcMBjLVPrgGJwZIjajiDCeSXJcW8vn-Tbf8Y/edit?usp=sharing">(Worksheet)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab: Quiz 2 Practice</a></td>
       <td><a href="/su25/discussion">Disc 8</a></td>
@@ -345,7 +345,7 @@
     <tr>
       <td>Thu 7/24</td>
       <td>Lec 18: OOP 1<br/>
-      <a href="https://drive.google.com/drive/u/2/folders/1IG3sR6MJza9oY2gdZI1ZrMmU3GsOajXN">(Slides)
+      <a href="https://drive.google.com/drive/u/2/folders/1IG3sR6MJza9oY2gdZI1ZrMmU3GsOajXN">(Slides 18)
       <a/>
       </td>
       <td><a href="/su25/lab_directory">Lab 14: Data Structures</a></td>
@@ -362,6 +362,203 @@
         Location: GPBB 100<br/>
         Time: 4–6 PM
       </td>
+    </tr>
+  </tbody>
+</table>
+          
+<!-- Week 6 Calendar -->
+<table class="table table-bordered schedule-table" id="week6">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan="5">Week 6</td>
+      <td>Mon 7/28</td>
+      <td>
+        Lec 19: OOP 2<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 19)</a><br/>
+          <a href="#">(Slides 19)
+      </td>
+      <td><a href="/su25/lab_directory">Lab 15: Text Processing Lab</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tue 7/29</td>
+      <td>
+        Lec 20: Recursion in Python<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 20)</a><br/>
+          <a href="#">(Slides 20)
+      </td>
+      <td><a href="/su25/lab_directory">Lab 16: Advanced OOP</a></td>
+      <td><a href="/su25/discussion">Disc 11</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wed 7/30</td>
+      <td>
+        Lec 21: Tree Recursion<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 21)</a><br/>
+          <a href="#">(Slides 21)
+      </td>
+      <td><a href="/su25/lab_directory">Lab 17: Recursion</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Thu 7/31</td>
+      <td>
+        Lec 22: Tree Recursion 2<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 22)</a><br/>
+          <a href="#">(Slides 22)
+      </td>
+      <td><a href="/su25/lab_directory">Lab: Quiz 3 Practice</a></td>
+      <td><a href="/su25/discussion">Disc 12</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Fri 8/1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <b>Quiz 3</b><br/>
+        Location: GPBB 100<br/>
+        Time: 4–7 PM
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Week 7 Calendar -->
+<table class="table table-bordered schedule-table" id="week7">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan="5">Week 7</td>
+      <td>Mon 8/4</td>
+      <td>
+        Lec 23: Concurrency + Parallelism<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 23)</a><br/>
+          <a href="#">(Slides 23)
+      </td>
+      <td><a href="/su25/lab_directory">Lab 17: Tree Recursion</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tue 8/5</td>
+      <td>
+        Lec 24: Lambdas<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 24)</a><br/>
+          <a href="#">(Slides 24)
+      </td>
+      <td><a href="/su25/lab_directory">Lab 18: Concurrency</a></td>
+      <td>Project 4 Presentations</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wed 8/6</td>
+      <td>
+        Lec 25: Social Implications<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 25)</a><br/>
+          <a href="#">(Slides 25)
+      </td>
+      <td>Final Project Proposal Meetings</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Thu 8/7</td>
+      <td>
+        Lec 26: Final Review + Farewell<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 26)</a><br/>
+          <a href="#">(Slides 26)
+      </td>
+      <td>Final Project Proposal Meetings</td>
+      <td>No Discussion</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Fri 8/8</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+        <b>Quiz 3 Second Chance</b><br/>
+        Location: GPBB 100<br/>
+        Time: 4–7 PM
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Week 8 Calendar -->
+<table class="table table-bordered schedule-table" id="week8">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment / Exam</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+      <td class="schedule-week-num" rowspan="5">Week 8</td>
+      <td>Mon 8/11</td>
+      <td>No Lecture</td>
+      <td>Project Party</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tue 8/12</td>
+      <td>No Lecture</td>
+      <td>Project Party</td>
+      <td>No Discussion</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wed 8/13</td>
+      <td>No Lecture</td>
+      <td>Project Party</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Thu 8/14</td>
+      <td>No Lecture</td>
+      <td>No Lab</td>
+      <td>No Discussion</td>
+      <td>
+        <b>Final Projects Due</b>
+      </td>
+    </tr>
+    <tr>
+      <td>Fri 8/15</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
