@@ -55,15 +55,15 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 4: Feedback + Comments</td>
-      <td><a href="">Example Feedback + Comments</a></td>
+      <td><a href="/su25/projects/project4">Example Feedback + Comments</a></td>
       <td>Tuesday, 8/05</td>
       <td>Friday, 8/08</td>
     </tr>
     <tr>
-      <td><a href="">Project 5: Proposals</a></td>
+      <td><a href="/su25/projects/project6-proposals">Project 5: Proposals</a></td>
       <td>-</td>
-      <td>Friday, 7/25</td>
-      <td>Tuesday, 8/05</td>
+      <td>Monday, 7/28</td>
+      <td>Monday, 8/04</td>
     </tr>
     <tr>
       <td>Project 5: Proposal Meetings</td>
