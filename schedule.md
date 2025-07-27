@@ -335,8 +335,8 @@
       <td>Wed 7/23</td>
       <td>
         Lec 17: Data Structures<br/>
-        <a href="">(Recording 17)</a><br/>
-          <a href="https://docs.google.com/presentation/d/1gZrLA_SPkGjbfnLxtkPye9gq0L-VJ48UJlQ-42IU1Ks/edit?usp=sharing">(Slides 17)</a>
+        <a href="#">(Recording 17)</a><br/>
+        <a href="https://docs.google.com/presentation/d/1gZrLA_SPkGjbfnLxtkPye9gq0L-VJ48UJlQ-42IU1Ks/edit?usp=sharing">(Slides 17)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 13: Lists + Mutability</a></td>
       <td></td>
@@ -344,9 +344,10 @@
     </tr>
     <tr>
       <td>Thu 7/24</td>
-      <td>Lec 18: OOP 1<br/>
-      <a href="https://drive.google.com/drive/u/2/folders/1IG3sR6MJza9oY2gdZI1ZrMmU3GsOajXN">(Slides 18)
-      <a/>
+      <td>
+        Lec 18: OOP 1<br/>
+        <a href="#">(Recording 18)</a><br/>
+        <a href="https://drive.google.com/drive/u/2/folders/1IG3sR6MJza9oY2gdZI1ZrMmU3GsOajXN">(Slides 18)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 14: Data Structures</a></td>
       <td><a href="/su25/discussion">Disc 8</a></td>
@@ -365,7 +366,7 @@
     </tr>
   </tbody>
 </table>
-          
+
 <!-- Week 6 Calendar -->
 <table class="table table-bordered schedule-table" id="week6">
   <thead>
@@ -385,7 +386,7 @@
       <td>
         Lec 19: OOP 2<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 19)</a><br/>
-          <a href="#">(Slides 19)
+        <a href="#">(Slides 19)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 15: Text Processing Lab</a></td>
       <td></td>
@@ -396,7 +397,7 @@
       <td>
         Lec 20: Recursion in Python<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 20)</a><br/>
-          <a href="#">(Slides 20)
+        <a href="#">(Slides 20)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 16: Advanced OOP</a></td>
       <td><a href="/su25/discussion">Disc 11</a></td>
@@ -407,7 +408,7 @@
       <td>
         Lec 21: Tree Recursion<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 21)</a><br/>
-          <a href="#">(Slides 21)
+        <a href="#">(Slides 21)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 17: Recursion</a></td>
       <td></td>
@@ -418,7 +419,7 @@
       <td>
         Lec 22: Tree Recursion 2<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 22)</a><br/>
-          <a href="#">(Slides 22)
+        <a href="#">(Slides 22)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab: Quiz 3 Practice</a></td>
       <td><a href="/su25/discussion">Disc 12</a></td>
