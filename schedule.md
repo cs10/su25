@@ -385,7 +385,7 @@
       <td>
         Lec 19: OOP 2<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 19)</a><br/>
-        <a href="#">(Slides 19)</a>
+        <a href="https://docs.google.com/presentation/d/1CVSq8-RMiGq9RgQf2-TBycHQFXKeppidr9ELWwUEBD8/edit?usp=sharing">(Slides 19)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 15: Text Processing Lab</a></td>
       <td></td>
