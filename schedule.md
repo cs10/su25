@@ -147,7 +147,6 @@
     <tr>
       <td>Fri 7/4</td>
       <td colspan="4">NO CLASS (Holiday)</td>
-      <td></td>
     </tr>
   </tbody>
 </table>
@@ -538,13 +537,11 @@
       <td>Project Party</td>
       <td>No Discussion</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>Wed 8/13</td>
       <td>No Lecture</td>
       <td>Project Party</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -554,11 +551,9 @@
       <td>No Lab</td>
       <td>No Discussion</td>
       <td><b>Final Projects Due</b></td>
-      <td></td>
     </tr>
     <tr>
       <td>Fri 8/15</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
