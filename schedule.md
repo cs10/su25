@@ -458,7 +458,7 @@
       <td>
         Lec 23: Concurrency + Parallelism<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 23)</a><br/>
-          <a href="#">(Slides 23)
+<a href="#">(Slides 23)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 17: Tree Recursion</a></td>
       <td></td>
@@ -469,7 +469,7 @@
       <td>
         Lec 24: Lambdas<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 24)</a><br/>
-          <a href="#">(Slides 24)
+          <a href="#">(Slides 24)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 18: Concurrency</a></td>
       <td>Project 4 Presentations</td>
@@ -480,7 +480,7 @@
       <td>
         Lec 25: Social Implications<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 25)</a><br/>
-          <a href="#">(Slides 25)
+          <a href="#">(Slides 25)</a>
       </td>
       <td>Final Project Proposal Meetings</td>
       <td></td>
@@ -491,7 +491,7 @@
       <td>
         Lec 26: Final Review + Farewell<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 26)</a><br/>
-          <a href="#">(Slides 26)
+          <a href="#">(Slides 26)</a>
       </td>
       <td>Final Project Proposal Meetings</td>
       <td>No Discussion</td>
@@ -530,12 +530,14 @@
       <td>No Lecture</td>
       <td>Project Party</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Tue 8/12</td>
       <td>No Lecture</td>
       <td>Project Party</td>
       <td>No Discussion</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -544,15 +546,15 @@
       <td>Project Party</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Thu 8/14</td>
       <td>No Lecture</td>
       <td>No Lab</td>
       <td>No Discussion</td>
-      <td>
-        <b>Final Projects Due</b>
-      </td>
+      <td><b>Final Projects Due</b></td>
+      <td></td>
     </tr>
     <tr>
       <td>Fri 8/15</td>
@@ -560,6 +562,8 @@
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
+
