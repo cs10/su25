@@ -37,16 +37,16 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 13: Lists and Mutability](https://docs.google.com/document/d/1CDyaCZ_ha4HSfowNXPwQ6CzJNd62EYknXr2omADbztY/edit?usp=sharing) | THU 7/24 |
 | [Lab 14: Data Structures](https://docs.google.com/document/d/1bCbwci2DyQUVMx6ycyLYBEQvNgt6mbo-e8Zq9-KAOrE/edit?usp=sharing) | MON 7/28 |
 | [Lab 15: Text Processing](https://docs.google.com/document/d/1-QROXwE247RlwVTqflFcanSEAMLYhnY6Ysf2MZvfLUA/edit?usp=sharing) | TUE 7/29 |
+| [Lab 16: Object Oriented Programming](https://docs.google.com/document/d/1pAnykqCmLdvEe4vuv2YGZ6ArnLV-UeliCZE9hbXQmlo/edit?usp=sharing) | WED 7/30 |
 
 *Labs and due dates are subjected to change*
 
 <!-- /_labs/lab##.md 
 
-| Lab 17: Object Oriented Programming | WED 7/30 |
-| Lab 18: Python Recursion | THU 7/31 |
+| Lab 17: Python Recursion | THU 7/31 |
 | Practice Quiz 3  | TBD |
-| Lab 19: Tree Recursion | TUE 8/5 |
-| Lab 20: Concurrency | WED 8/6 |
+| Lab 18: Tree Recursion | TUE 8/5 |
+| Lab 19: Concurrency | WED 8/6 |
 
 -->
 
