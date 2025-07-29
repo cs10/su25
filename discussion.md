@@ -99,5 +99,28 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td><a href="https://drive.google.com/drive/folders/17Fgscj_4MIcwcMNW9-ctEtS9a01DPHWN?usp=sharing">Worksheet 10</a></td>
       <td><a href="https://docs.google.com/presentation/d/1t7gbEcSQ9VOblbjpKUH192KtxgTDZBkRfjpj3wmpRB4/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 10</a></td>
     </tr>
+      </tr>
+       <tr>
+      <td>Discussion 11</td>
+      <td>7/29</td>
+      <td>Object Oriented Programming</td>
+      <td><a href="https://drive.google.com/drive/folders/1KUh8Qp8OP0gak5qvMG87OfL-GzGAc286?usp=drive_link">Worksheet 11</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1e5MoKKdTqdoKqGlHKH4THgdn905KEhTDPfbzMDFw9fY/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 11</a></td>
+    </tr>
+          <tr>
+      <td>Discussion 12</td>
+      <td>7/31</td>
+      <td>Recursion + Quiz 3 Practice</td>
+      <td><a href="#">Worksheet 12</a></td>
+      <td><a href="#">Annotations 12</a></td>
+    </tr>
+    </tr>
+          <tr>
+      <td>Discussion 13</td>
+      <td>8/5</td>
+      <td>**Project 4 Presentations**</td>
+      <td>-</td>
+      <td>-</a></td>
+    </tr>
   </tbody>
 </table>
