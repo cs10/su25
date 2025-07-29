@@ -396,7 +396,7 @@
       <td>
         Lec 20: Recursion in Python<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 20)</a><br/>
-        <a href="#">(Slides 20)</a>
+        <a href="https://docs.google.com/presentation/d/1RB2e3AcPPgYxdWnEcsOuamiNj5tFr0WjN2QNK2FxlwM/edit?usp=sharing">(Slides 20)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 16: Advanced OOP</a></td>
       <td><a href="/su25/discussion">Disc 11</a></td>
