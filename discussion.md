@@ -118,7 +118,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
           <tr>
       <td>Discussion 13</td>
       <td>8/5</td>
-      <td>**Project 4 Presentations**</td>
+      <td><strong>Project 4 Presentations</strong></td>
       <td>-</td>
       <td>-</a></td>
     </tr>
