@@ -407,7 +407,7 @@
       <td>
         Lec 21: Tree Recursion<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 21)</a><br/>
-        <a href="#">(Slides 21)</a>
+        <a href="https://docs.google.com/presentation/d/1pC02jqZb9_9ekpFHWs0T-pl-cJXPYyDv2CQqzjFu4V8/edit?usp=sharing">(Slides 21)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 17: Recursion</a></td>
       <td></td>
@@ -416,7 +416,7 @@
     <tr>
       <td>Thu 7/31</td>
       <td>
-        Lec 22: Tree Recursion 2<br/>
+        Lec 22: Quiz 3 Review (Optional)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 22)</a><br/>
         <a href="#">(Slides 22)</a>
       </td>
