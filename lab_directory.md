@@ -39,12 +39,12 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 15: Text Processing](https://docs.google.com/document/d/1-QROXwE247RlwVTqflFcanSEAMLYhnY6Ysf2MZvfLUA/edit?usp=sharing) | TUE 7/29 |
 | [Lab 16: Object Oriented Programming](https://docs.google.com/document/d/1pAnykqCmLdvEe4vuv2YGZ6ArnLV-UeliCZE9hbXQmlo/edit?usp=sharing) | WED 7/30 |
 | [Lab 17: Python Linear Recursion](https://docs.google.com/document/d/1rA-ptInPcepk7KCoHyNkr-dcyky6zzNS5O4C7UcDoE0/edit?usp=sharing) | THU 7/31 |
+| [Practice Quiz 3](https://docs.google.com/document/d/1--hJLg-FuZsznQybYqXLFO1l19a38_vjpdUEAWq5T5Y/edit?usp=sharing)  | TBD |
 
 *Labs and due dates are subjected to change*
 
 <!-- /_labs/lab##.md 
 
-| Practice Quiz 3  | TBD |
 | Lab 18: Tree Recursion | TUE 8/5 |
 | Lab 19: Concurrency | WED 8/6 |
 
