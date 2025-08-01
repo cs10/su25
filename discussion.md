@@ -111,8 +111,8 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Discussion 12</td>
       <td>7/31</td>
       <td>Recursion + Quiz 3 Practice</td>
-      <td><a href="#">Worksheet 12</a></td>
-      <td><a href="#">Annotations 12</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1kOPZLkXyrhAO5t0t-IK0yXbDRU8jtgKw?usp=sharing">Worksheet 12</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1is7_RBMoaBBXal7skI8HmR91DaJFgUdDJes9wdbgsmA/edit?slide=id.g37268d2a369_0_63#slide=id.g37268d2a369_0_63">Annotations 12</a></td>
     </tr>
     </tr>
           <tr>
