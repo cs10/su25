@@ -477,7 +477,7 @@
     <tr>
       <td>Wed 8/6</td>
       <td>
-        Lec 25: Social Implications<br/>
+        Lec 25: Final Review + Farewell<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 25)</a><br/>
           <a href="#">(Slides 25)</a>
       </td>
@@ -488,9 +488,7 @@
     <tr>
       <td>Thu 8/7</td>
       <td>
-        Lec 26: Final Review + Farewell<br/>
-        <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 26)</a><br/>
-          <a href="#">(Slides 26)</a>
+        No Lecture
       </td>
       <td>Final Project Proposal Meetings</td>
       <td>No Discussion</td>
