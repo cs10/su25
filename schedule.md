@@ -457,7 +457,7 @@
       <td>
         Lec 23: Concurrency + Parallelism<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 23)</a><br/>
-<a href="#">(Slides 23)</a>
+<a href="https://drive.google.com/drive/folders/1mEdYNUvC8rb7FZSEN45EliP8im-NO32Q?usp=sharing">(Slides 23)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 17: Tree Recursion</a></td>
       <td></td>
