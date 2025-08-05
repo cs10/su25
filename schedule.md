@@ -273,7 +273,7 @@
     <tr>
       <td>Thu 7/17</td>
       <td>
-        Quiz 2 Review<br/>
+        Quiz 2 Review (Optional) <br/>
         <a href="https://docs.google.com/document/d/1of9yrbDlcMBjLVPrgGJwZIjajiDCeSXJcW8vn-Tbf8Y/edit?usp=sharing">(Worksheet)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab: Quiz 2 Practice</a></td>
@@ -416,7 +416,7 @@
     <tr>
       <td>Thu 7/31</td>
       <td>
-        Lec 22: Quiz 3 Review (Optional)<br/>
+        Quiz 3 Review (Optional)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 22)</a><br/>
         <a href="#">(Slides 22)</a>
       </td>
@@ -455,7 +455,7 @@
       <td class="schedule-week-num" rowspan="5">Week 7</td>
       <td>Mon 8/4</td>
       <td>
-        Lec 23: Concurrency + Parallelism<br/>
+        Lec 22: Concurrency + Parallelism<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 23)</a><br/>
 <a href="https://drive.google.com/drive/folders/1mEdYNUvC8rb7FZSEN45EliP8im-NO32Q?usp=sharing">(Slides 23)</a>
       </td>
@@ -466,18 +466,18 @@
     <tr>
       <td>Tue 8/5</td>
       <td>
-        Lec 24: Quiz 3 Reflection<br/>
+        Lec 23: Final Review <br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 24)</a><br/>
           <a href="https://docs.google.com/presentation/d/154bmvX2nlOGCBx6vChbI9D8wBel1Ka9K7beMLu0zTA0/edit?usp=sharing">(Slides 24)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 18: Concurrency</a></td>
-      <td>Project 4 Presentations</td>
+      <td><a href="https://docs.google.com/presentation/d/1es4xBqgL4K_fPbpVNJoFD27Q8IIpOoTV59rleEJC3Vc/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Project 4 Presentations</td>
       <td></td>
     </tr>
     <tr>
       <td>Wed 8/6</td>
       <td>
-        Lec 25: Final Review + Farewell<br/>
+        Lec 24: Finale + Farewell<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 25)</a><br/>
           <a href="#">(Slides 25)</a>
       </td>
