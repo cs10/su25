@@ -57,6 +57,7 @@ Project Walkthrough Videos will be linked here
 
 ## Exam Walkthroughs
 * [Summer 2025 Quiz 2](https://docs.google.com/presentation/d/1TST0yeVr0YRMORQVXCCVCUomsF8ZifI7WLMOaRAFNCA/edit?usp=sharing)
+* [Summer 2025 Quiz 3](https://docs.google.com/presentation/d/154bmvX2nlOGCBx6vChbI9D8wBel1Ka9K7beMLu0zTA0/edit?usp=sharing)
 * [Summer 2022 Final](https://youtu.be/rS2Av0stp5w?list=PLVjI1AKNyfVOnDpcdm4Mf53ARt2u85YuW)
 * [Spring 2020 Quest](https://youtu.be/v38P5quvoMc)
 * [Fall 2019 Paper Final](https://drive.google.com/file/d/1Dr8B2KYtgWigDWvwbp7LxN9STVpZh62J/view)
@@ -68,3 +69,4 @@ Project Walkthrough Videos will be linked here
 
 ## Other
 [EECS Incident Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSc4NYHdUJ8IzYA1SoiTinWBybGWkj0mfmdnHAeygAxkZajelQ/viewform)
+
