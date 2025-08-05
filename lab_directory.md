@@ -41,12 +41,12 @@ Supplementary Lab Slides can be found in this [folder](https://drive.google.com/
 | [Lab 17: Python Linear Recursion](https://docs.google.com/document/d/1rA-ptInPcepk7KCoHyNkr-dcyky6zzNS5O4C7UcDoE0/edit?usp=sharing) | THU 7/31 |
 | [Practice Quiz 3](https://docs.google.com/document/d/1--hJLg-FuZsznQybYqXLFO1l19a38_vjpdUEAWq5T5Y/edit?usp=sharing)  | TBD |
 | [Lab 18: Tree Recursion](https://docs.google.com/document/d/10YfNHu6EJM7kECRxplUwsUYaekz4YM9mSqHG4sU7wk0/edit?usp=sharing) | TUE 8/5 |
+| [Lab 19: Concurrency](https://cs10.org/bjc-r/cur/programming/concurrency/snap/snap-machine-concepts.htmltopic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment) | WED 8/6 |
+
 
 *Labs and due dates are subjected to change*
 
 <!-- /_labs/lab##.md 
-
-| Lab 19: Concurrency | WED 8/6 |
 
 -->
 
