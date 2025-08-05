@@ -471,7 +471,7 @@
           <a href="#">(Slides 24)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 18: Concurrency</a></td>
-      <td>Project 4 Presentations</td>
+      <td><a href="https://docs.google.com/presentation/d/1es4xBqgL4K_fPbpVNJoFD27Q8IIpOoTV59rleEJC3Vc/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Project 4 Presentations</td>
       <td></td>
     </tr>
     <tr>
