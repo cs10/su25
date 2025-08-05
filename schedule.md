@@ -466,9 +466,9 @@
     <tr>
       <td>Tue 8/5</td>
       <td>
-        Lec 24: Lambdas<br/>
+        Lec 24: Quiz 3 Reflection<br/>
         <a href="https://bcourses.berkeley.edu/courses/1545431/external_tools/90481">(Recording 24)</a><br/>
-          <a href="#">(Slides 24)</a>
+          <a href="https://docs.google.com/presentation/d/154bmvX2nlOGCBx6vChbI9D8wBel1Ka9K7beMLu0zTA0/edit?usp=sharing">(Slides 24)</a>
       </td>
       <td><a href="/su25/lab_directory">Lab 18: Concurrency</a></td>
       <td>Project 4 Presentations</td>
