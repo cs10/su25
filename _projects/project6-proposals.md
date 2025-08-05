@@ -13,7 +13,7 @@ submission_files:
 
 - Meeting with a Staff Member
     - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score.
-        - Click here for the [link to sign up]()
+        - Click here for the [link to sign up](https://calendar.app.google/MTyzGbfw35UVbEFS9)
     - Meetings will run a specific times during Week 7 (August 6th-7th during Lab)
 
 ## Content
@@ -190,4 +190,5 @@ If your initial project proposal is approved:
 - Congrats! You can start working on your project. Note any questions (for resources, clarifications, or suggestions/advice on implementation) that you might have for your project TA/tutor, and bring them up during your proposal review session!
 
 As you begin to code, you may feel the need to make adjustments to your project and features (often because of time constraints or unexpected complexity). This is perfectly okay! You don’t have to run the changes by your project TA/tutor to start implementing them, but we do recommend that you check in with any adjustments to ensure that you are still within complexity guidelines.
+
 
