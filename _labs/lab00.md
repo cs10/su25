@@ -2,11 +2,11 @@
 title: # Lab 00: (No Submission)
 
 description: Intro
-due: "No Submission"
+due: "No Submission" 
 gradescope_assignment_id: 
 submission_files:
 ---
-# Lab 0: Welcome to Lab (No Submission)
+# Lab 1: Welcome to Snap! (No Submission)
 
 ## Instructions:
 This worksheet serves as a guide and set of instructions to complete lab 0. All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
@@ -37,3 +37,4 @@ For this lab it is highly reccomended you go through the [workbook](https://cs10
     - Explore [this drawing program](https://snap.berkeley.edu/snap/snap.html#open:https://cs10.org/bjc-r/prog/drawing/kaleidoscope_framework.xml) and identify effects of the script on each of the sprites.
     - Combine blocks to create a script that will follow your cursor while making reflective and symmetrics drawings simultaneously like a kaleidoscope (see below).
     - Look at the steps and tips found on this [workbook page](https://cs10.org/bjc-r/cur/programming/intro/drawing/kaleidoscope-small.html?1&1&1&2&2&2&3&3&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment)!
+
